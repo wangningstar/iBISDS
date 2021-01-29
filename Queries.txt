@@ -1,4 +1,4 @@
-Module:	Sample Model 1
+Model:	Sample Model 1
 1	What is the height of the second floor?
 2	What is the elevation of the second floor?
 3	Tell me height of the second floor.
@@ -14,7 +14,7 @@ Module:	Sample Model 1
 13	Calculate the width of door 1.
 14	Identify the height of the door 1.
 15	Height of door 1
-Module:	VDC Center Model
+Model:	VDC Center Model
 1	What is the height of storey 03?
 2	What is the elevation of storey 03?
 3	Tell me height of storey 02.
@@ -30,7 +30,7 @@ Module:	VDC Center Model
 13	What is the description of wall 10?
 14	Tell me the width of ifcdoor 28.
 15	What is the height of door 28?
-Module:	Rinker Building Model
+Model:	Rinker Building Model
 1	What is the height of level 3?
 2	What is the elevation of level 3?
 3	Tell me height of level 3.
@@ -46,7 +46,7 @@ Module:	Rinker Building Model
 13	Any description about the door 211.
 14	What is the description about the door 211?
 15	What is the height of the door:300135?
-Module:	Airport Building Model
+Model:	Airport Building Model
 1	What is the height of the third floor?
 2	What is the elevation of the third floor?
 3	Tell me height of third floor.
