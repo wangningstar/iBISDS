@@ -1,0 +1,64 @@
+Module:	Sample Model 1
+1	What is the height of the second floor?
+2	What is the elevation of the second floor?
+3	Tell me height of the second floor.
+4	Tell me the elevation of the second floor.
+5	Height of the floor 3.
+6	What is the height of floor 3?
+7	What is the width of window 1?
+8	What is the height of window 1?
+9	What is the type of window 1?
+10	Tell me the tag of window 1.
+11	What is the width of door 1?
+12	Tell me the width of door 1.
+13	Calculate the width of door 1.
+14	Identify the height of the door 1.
+15	Height of door 1
+Module:	VDC Center Model
+1	What is the height of storey 03?
+2	What is the elevation of storey 03?
+3	Tell me height of storey 02.
+4	Can you identify the elevation of stoery 02?
+5	Tell me the elevation of 03 TO Third Floor.
+6	Elevation of floor 03 TO Third Floor.
+7	What is the type of window 12?
+8	Tell me the height of window 12?
+9	Identify the height of the window 12?
+10	Please tell me the type of wall 10.
+11	Objecttype of wall 10.
+12	What is the tag of wall 10?
+13	What is the description of wall 10?
+14	Tell me the width of ifcdoor 28.
+15	What is the height of door 28?
+Module:	Rinker Building Model
+1	What is the height of level 3?
+2	What is the elevation of level 3?
+3	Tell me height of level 3.
+4	Can you identify the elevation of level 3?
+5	Tell me the elevation of level 3.
+6	Elevation of 02 FL 02 T.O. SLAB.
+7	Identify the type of ifcwindow 312
+8	Tell me the type of ifcwindow 312
+9	Tell me the height of window 312?
+10	What is the height of the window 312?
+11	Identify the height of the window 312?
+12	What is the tag of the window 312?
+13	Any description about the door 211.
+14	What is the description about the door 211?
+15	What is the height of the door:300135?
+Module:	Airport Building Model
+1	What is the height of the third floor?
+2	What is the elevation of the third floor?
+3	Tell me height of third floor.
+4	Tell me the elevation of third floor.
+5	Can you identify the elevation of third floor?
+6	Elevation of 01-EPG.
+7	What is the description about the third floor?
+8	Any description about the third floor?
+9	Identify the height of the door 12
+10	What is the height of the door 12?
+11	Can you tell me the height of the door 12?
+12	What is the width of door 12?
+13	Width of the door:1012722.
+14	Tell me the height of the door 12.
+15	What is the type of window 2?
