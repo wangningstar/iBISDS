@@ -1,0 +1,839 @@
+{"id": 1982, "text": "Calculate the height of the door 300135.", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[14, 20, "ATTRIBUTE"], [28, 32, "TYPE"], [33, 39, "ENTITY"]]}
+{"id": 1983, "text": "Calculate the height of the second floor.", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[14, 20, "ATTRIBUTE"], [28, 34, "ENTITY"], [35, 40, "TYPE"]]}
+{"id": 1984, "text": "Calculate the width of door 300135.", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[14, 19, "ATTRIBUTE"], [23, 27, "TYPE"], [28, 34, "ENTITY"]]}
+{"id": 1985, "text": "Can you tell me the height of the second floor?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[41, 46, "TYPE"], [20, 26, "ATTRIBUTE"], [34, 40, "ENTITY"]]}
+{"id": 1986, "text": "Height of door 300135", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[15, 21, "ENTITY"], [0, 6, "ATTRIBUTE"], [10, 14, "TYPE"]]}
+{"id": 1987, "text": "Identify the height of the door 300135.", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[32, 38, "ENTITY"], [13, 19, "ATTRIBUTE"], [27, 31, "TYPE"]]}
+{"id": 1988, "text": "Tell me the elevation of the second floor.", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[36, 41, "TYPE"], [12, 21, "ATTRIBUTE"], [29, 35, "ENTITY"]]}
+{"id": 1989, "text": "Tell me the height of the door 300135.", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[31, 37, "ENTITY"], [12, 18, "ATTRIBUTE"], [26, 30, "TYPE"]]}
+{"id": 1990, "text": "Tell me the height of the second floor.", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[33, 38, "TYPE"], [12, 18, "ATTRIBUTE"], [26, 32, "ENTITY"]]}
+{"id": 1991, "text": "Tell me the height of the window 387649.", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[33, 39, "ENTITY"], [12, 18, "ATTRIBUTE"], [26, 32, "TYPE"]]}
+{"id": 1992, "text": "Tell me the width of door 300135.", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[26, 32, "ENTITY"], [12, 17, "ATTRIBUTE"], [21, 25, "TYPE"]]}
+{"id": 1993, "text": "Tell me the width of the door 356076.", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[30, 36, "ENTITY"], [12, 17, "ATTRIBUTE"], [25, 29, "TYPE"]]}
+{"id": 1994, "text": "Tell me the width of the window 387649.", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[32, 38, "ENTITY"], [12, 17, "ATTRIBUTE"], [25, 31, "TYPE"]]}
+{"id": 1995, "text": "What is storey T.O. PARAPET's elevation?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[30, 39, "ATTRIBUTE"], [8, 14, "TYPE"], [15, 27, "ENTITY"]]}
+{"id": 1996, "text": "What is the elevation of floor T.O. PARAPET?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[31, 43, "ENTITY"], [12, 21, "ATTRIBUTE"], [25, 30, "TYPE"]]}
+{"id": 1997, "text": "What is the elevation of the second floor?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[36, 41, "TYPE"], [12, 21, "ATTRIBUTE"], [29, 35, "ENTITY"]]}
+{"id": 1998, "text": "What is the height of the door 300135?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[31, 37, "ENTITY"], [12, 18, "ATTRIBUTE"], [26, 30, "TYPE"]]}
+{"id": 1999, "text": "What is the height of the second floor?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[33, 38, "TYPE"], [12, 18, "ATTRIBUTE"], [26, 32, "ENTITY"]]}
+{"id": 2000, "text": "What is the height of the window 356213?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[33, 39, "ENTITY"], [12, 18, "ATTRIBUTE"], [26, 32, "TYPE"]]}
+{"id": 2001, "text": "What is window 387649's height?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[24, 30, "ATTRIBUTE"], [8, 14, "TYPE"], [15, 21, "ENTITY"]]}
+{"id": 2002, "text": "What is the height of window 325599?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[29, 35, "ENTITY"], [12, 18, "ATTRIBUTE"], [22, 28, "TYPE"]]}
+{"id": 2003, "text": "What is the type of wall 355799?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[25, 31, "ENTITY"], [12, 16, "ATTRIBUTE"], [20, 24, "TYPE"]]}
+{"id": 2004, "text": "What is the type of wall 402251?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[25, 31, "ENTITY"], [12, 16, "ATTRIBUTE"], [20, 24, "TYPE"]]}
+{"id": 2005, "text": "What is the width of door 300135?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[26, 32, "ENTITY"], [12, 17, "ATTRIBUTE"], [21, 25, "TYPE"]]}
+{"id": 2006, "text": "What is the width of the window 387649?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[32, 38, "ENTITY"], [12, 17, "ATTRIBUTE"], [25, 31, "TYPE"]]}
+{"id": 2007, "text": "Width of door 300135", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[14, 20, "ENTITY"], [0, 5, "ATTRIBUTE"], [9, 13, "TYPE"]]}
+{"id": 2008, "text": "What is floor 00 MECH RM T.O. SLAB's elevation?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[37, 46, "ATTRIBUTE"], [8, 13, "TYPE"], [14, 34, "ENTITY"]]}
+{"id": 2009, "text": "How high is floor 00 MECH RM T.O. SLAB?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[18, 38, "ENTITY"], [4, 8, "ATTRIBUTE"], [12, 17, "TYPE"]]}
+{"id": 2010, "text": "How high is floor T.O. PARAPET?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[18, 30, "ENTITY"], [4, 8, "ATTRIBUTE"], [12, 17, "TYPE"]]}
+{"id": 2011, "text": "What is the height of storey 00 MECH RM T.O. SLAB?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[29, 49, "ENTITY"], [12, 18, "ATTRIBUTE"], [22, 28, "TYPE"]]}
+{"id": 2012, "text": "What is the elevation of buildingstorey T.O. PARAPET?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [25, 39, "TYPE"], [40, 52, "ENTITY"]]}
+{"id": 2013, "text": "How high is the floor T.O. Footing Elev?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[4, 8, "ATTRIBUTE"], [16, 21, "TYPE"], [22, 39, "ENTITY"]]}
+{"id": 2014, "text": "What is the T.O. Footing Elev's elevation?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 29, "ENTITY"], [32, 41, "ATTRIBUTE"]]}
+{"id": 2015, "text": "What is the elevation of floor B.O. Footing?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [25, 30, "TYPE"], [31, 43, "ENTITY"]]}
+{"id": 2016, "text": "What is the B.O. Footing's elevation?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 24, "ENTITY"], [27, 36, "ATTRIBUTE"]]}
+{"id": 2017, "text": "What is the elevation of buildingstorey T.O. Footing?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [25, 39, "TYPE"], [40, 52, "ENTITY"]]}
+{"id": 2018, "text": "What is storey T.O. Footing's elevation", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[8, 14, "TYPE"], [15, 27, "ENTITY"], [30, 39, "ATTRIBUTE"]]}
+{"id": 2019, "text": "What is the buildingstorey 01 FL 01 T.O. SLAB's elevation?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 26, "TYPE"], [27, 45, "ENTITY"], [48, 57, "ATTRIBUTE"]]}
+{"id": 2020, "text": "What is the height of 01 FL 01 T.O. SLAB?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "ATTRIBUTE"], [22, 40, "ENTITY"]]}
+{"id": 2021, "text": "What is the height of floor MECH RM ROOF?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "ATTRIBUTE"], [22, 27, "TYPE"], [28, 40, "ENTITY"]]}
+{"id": 2022, "text": "How elevated of the storey of MECH RM ROOF?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[20, 26, "TYPE"], [30, 42, "ENTITY"], [4, 12, "ATTRIBUTE"]]}
+{"id": 2023, "text": "What is the elevation of FL 02 t.o. Structure?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [25, 45, "ENTITY"]]}
+{"id": 2024, "text": "What is floor FL 02 t.o. Structure's elevation?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[8, 13, "TYPE"], [14, 34, "ENTITY"], [37, 46, "ATTRIBUTE"]]}
+{"id": 2025, "text": "What is the elevation of 02 FL 02 T.O. SLAB?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [25, 43, "ENTITY"]]}
+{"id": 2026, "text": "What is storey 02 FL 02 T.O. SLAB's elevation?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[8, 14, "TYPE"], [15, 33, "ENTITY"], [36, 45, "ATTRIBUTE"]]}
+{"id": 2027, "text": "What is the elevation of floor FL 03 t.o. Structure?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [25, 30, "TYPE"], [31, 51, "ENTITY"]]}
+{"id": 2028, "text": "What is storey FL 03 t.o. Structure's elevation?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[8, 14, "TYPE"], [15, 35, "ENTITY"], [38, 47, "ATTRIBUTE"]]}
+{"id": 2029, "text": "How elevated of floor 03 FL 03 T.O. SLAB?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[16, 21, "TYPE"], [22, 40, "ENTITY"], [4, 12, "ATTRIBUTE"]]}
+{"id": 2030, "text": "What is the elevation of T.O. STEEL?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [25, 35, "ENTITY"]]}
+{"id": 2031, "text": "What is T.O. STEEL's elevation?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[8, 18, "ENTITY"], [21, 30, "ATTRIBUTE"]]}
+{"id": 2032, "text": "What is the overallheight of window 636354?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 25, "ATTRIBUTE"], [29, 35, "TYPE"], [36, 42, "ENTITY"]]}
+{"id": 2033, "text": "What is the overallwidth of window 636354?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 24, "ATTRIBUTE"], [28, 34, "TYPE"], [35, 41, "ENTITY"]]}
+{"id": 2034, "text": "What is the objecttype of window 636354?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 22, "ATTRIBUTE"], [26, 32, "TYPE"], [33, 39, "ENTITY"]]}
+{"id": 2035, "text": "What is the overallheight of window 174054?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 25, "ATTRIBUTE"], [29, 35, "TYPE"], [36, 42, "ENTITY"]]}
+{"id": 2036, "text": "What is the overallwidth of window 174054?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 24, "ATTRIBUTE"], [28, 34, "TYPE"], [35, 41, "ENTITY"]]}
+{"id": 2037, "text": "What is the type of window 174054?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "ATTRIBUTE"], [20, 26, "TYPE"], [27, 33, "ENTITY"]]}
+{"id": 2038, "text": "What is the overallheight of window 175371?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 25, "ATTRIBUTE"], [29, 35, "TYPE"], [36, 42, "ENTITY"]]}
+{"id": 2039, "text": "What is the overallwidth of window 175371?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 24, "ATTRIBUTE"], [28, 34, "TYPE"], [35, 41, "ENTITY"]]}
+{"id": 2040, "text": "What is the overallheight of window 572075?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 25, "ATTRIBUTE"], [29, 35, "TYPE"], [36, 42, "ENTITY"]]}
+{"id": 2041, "text": "What is the overallwidth of window 572075?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 24, "ATTRIBUTE"], [28, 34, "TYPE"], [35, 41, "ENTITY"]]}
+{"id": 2042, "text": "What is the overallheight of window 624294?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 25, "ATTRIBUTE"], [29, 35, "TYPE"], [36, 42, "ENTITY"]]}
+{"id": 2043, "text": "What is the overallwidth of window 624294?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 24, "ATTRIBUTE"], [28, 34, "TYPE"], [35, 41, "ENTITY"]]}
+{"id": 2044, "text": "What is the type of window 624294?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "ATTRIBUTE"], [20, 26, "TYPE"], [27, 33, "ENTITY"]]}
+{"id": 2045, "text": "How many feet high is window 572075?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[14, 18, "ATTRIBUTE"], [22, 28, "TYPE"], [29, 35, "ENTITY"]]}
+{"id": 2046, "text": "How many feet wide is window 572075?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[14, 18, "ATTRIBUTE"], [22, 28, "TYPE"], [29, 35, "ENTITY"]]}
+{"id": 2047, "text": "What is the overallheight of door 300135?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 25, "ATTRIBUTE"], [29, 33, "TYPE"], [34, 40, "ENTITY"]]}
+{"id": 2048, "text": "What is the overallwidth of door 300135?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 24, "ATTRIBUTE"], [28, 32, "TYPE"], [33, 39, "ENTITY"]]}
+{"id": 2049, "text": "What is the type of door 300135?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "ATTRIBUTE"], [20, 24, "TYPE"], [25, 31, "ENTITY"]]}
+{"id": 2050, "text": "What is the overallheight of door 301555?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 25, "ATTRIBUTE"], [29, 33, "TYPE"], [34, 40, "ENTITY"]]}
+{"id": 2051, "text": "What is the overallwidth of door 301555?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 24, "ATTRIBUTE"], [28, 32, "TYPE"], [33, 39, "ENTITY"]]}
+{"id": 2052, "text": "What is the objecttype of door 301555?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 22, "ATTRIBUTE"], [26, 30, "TYPE"], [31, 37, "ENTITY"]]}
+{"id": 2053, "text": "What is door 380772's overallheight?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[8, 12, "TYPE"], [13, 19, "ENTITY"], [22, 35, "ATTRIBUTE"]]}
+{"id": 2054, "text": "What is door 380772's overallwidth?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[8, 12, "TYPE"], [13, 19, "ENTITY"], [22, 34, "ATTRIBUTE"]]}
+{"id": 2055, "text": "What is door 380772's type?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[8, 12, "TYPE"], [13, 19, "ENTITY"], [22, 26, "ATTRIBUTE"]]}
+{"id": 2056, "text": "What is door 380772's objecttype?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[8, 12, "TYPE"], [13, 19, "ENTITY"], [22, 32, "ATTRIBUTE"]]}
+{"id": 2057, "text": "What is the overall height of door 307650?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 26, "ATTRIBUTE"], [30, 34, "TYPE"], [35, 41, "ENTITY"]]}
+{"id": 2058, "text": "What is the overall width of door 307650?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 25, "ATTRIBUTE"], [29, 33, "TYPE"], [34, 40, "ENTITY"]]}
+{"id": 2059, "text": "What is the type of door 307650?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "ATTRIBUTE"], [20, 24, "TYPE"], [25, 31, "ENTITY"]]}
+{"id": 2060, "text": "How many feet high is door 307650?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[14, 18, "ATTRIBUTE"], [22, 26, "TYPE"], [27, 33, "ENTITY"]]}
+{"id": 2061, "text": "How many feet wide is door 300135?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[14, 18, "ATTRIBUTE"], [22, 26, "TYPE"], [27, 33, "ENTITY"]]}
+{"id": 2062, "text": "What is the objecttype of window 308816?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 22, "ATTRIBUTE"], [26, 32, "TYPE"], [33, 39, "ENTITY"]]}
+{"id": 2063, "text": "What is the objecttype of roof 271098?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 22, "ATTRIBUTE"], [26, 30, "TYPE"], [31, 37, "ENTITY"]]}
+{"id": 2064, "text": "What is the objecttype of roof 572606?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 22, "ATTRIBUTE"], [26, 30, "TYPE"], [31, 37, "ENTITY"]]}
+{"id": 2065, "text": "What is the type of ifcslab 161783?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "ATTRIBUTE"], [20, 27, "TYPE"], [28, 34, "ENTITY"]]}
+{"id": 2066, "text": "What is the type of ifcslab 162696?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "ATTRIBUTE"], [20, 27, "TYPE"], [28, 34, "ENTITY"]]}
+{"id": 2067, "text": "What is slab 570852's objecttype?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[8, 12, "TYPE"], [13, 19, "ENTITY"], [22, 32, "ATTRIBUTE"]]}
+{"id": 2068, "text": "What is the type of wall 143746?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "ATTRIBUTE"], [20, 24, "TYPE"], [25, 31, "ENTITY"]]}
+{"id": 2069, "text": "What is the objecttype of ifcwall 402251?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 22, "ATTRIBUTE"], [26, 33, "TYPE"], [34, 40, "ENTITY"]]}
+{"id": 2070, "text": "What is the type of ifcwall 410695?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "ATTRIBUTE"], [20, 27, "TYPE"], [28, 34, "ENTITY"]]}
+{"id": 2071, "text": "What is the type of ifcwall 425470?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "ATTRIBUTE"], [20, 27, "TYPE"], [28, 34, "ENTITY"]]}
+{"id": 2072, "text": "What is ifcwall 430851's objecttype?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[8, 15, "TYPE"], [16, 22, "ENTITY"], [25, 35, "ATTRIBUTE"]]}
+{"id": 2073, "text": "What is the objecttype of wall 430851?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 22, "ATTRIBUTE"], [26, 30, "TYPE"], [31, 37, "ENTITY"]]}
+{"id": 2074, "text": "What is the type of wall 452604?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "ATTRIBUTE"], [20, 24, "TYPE"], [25, 31, "ENTITY"]]}
+{"id": 2075, "text": "What is the objecttype of wall 452604?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 22, "ATTRIBUTE"], [26, 30, "TYPE"], [31, 37, "ENTITY"]]}
+{"id": 2076, "text": "What is type of wall 452604?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[8, 12, "ATTRIBUTE"], [16, 20, "TYPE"], [21, 27, "ENTITY"]]}
+{"id": 2077, "text": "What is the type of wall 467131?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "ATTRIBUTE"], [20, 24, "TYPE"], [25, 31, "ENTITY"]]}
+{"id": 2078, "text": "What is the objecttype of ifcwall 467156?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 22, "ATTRIBUTE"], [26, 33, "TYPE"], [34, 40, "ENTITY"]]}
+{"id": 2079, "text": "What is the height of louver 1?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "ATTRIBUTE"], [22, 30, "OBJECT"]]}
+{"id": 2080, "text": "What is the height of louver 2?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "ATTRIBUTE"], [22, 30, "OBJECT"]]}
+{"id": 2081, "text": "What is the overall height of louver 3?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 26, "ATTRIBUTE"], [30, 38, "OBJECT"]]}
+{"id": 2082, "text": "What is the overallheight of louver 4?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 25, "ATTRIBUTE"], [29, 37, "OBJECT"]]}
+{"id": 2083, "text": "What is the height of window of louver 5?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 19, "ATTRIBUTE"], [22, 28, "TYPE"], [32, 40, "OBJECT"]]}
+{"id": 2084, "text": "What is the width of window of louver 6?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 17, "ATTRIBUTE"], [21, 27, "TYPE"], [31, 39, "OBJECT"]]}
+{"id": 2085, "text": "What is the overall width of window louver 7?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 25, "ATTRIBUTE"], [29, 35, "TYPE"], [36, 44, "OBJECT"]]}
+{"id": 2086, "text": "What is the overallwidth of louver 8?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 24, "ATTRIBUTE"], [28, 36, "OBJECT"]]}
+{"id": 2087, "text": "What is the width of louver 9?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 17, "ATTRIBUTE"], [21, 29, "OBJECT"]]}
+{"id": 2088, "text": "What is louver 10's width?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[8, 17, "OBJECT"], [20, 25, "ATTRIBUTE"]]}
+{"id": 2089, "text": "What is the window's overall width of louver 11?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "TYPE"], [21, 34, "ATTRIBUTE"], [38, 47, "OBJECT"]]}
+{"id": 2090, "text": "What is the window's overallwidth of louver 12?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "TYPE"], [21, 33, "ATTRIBUTE"], [37, 46, "OBJECT"]]}
+{"id": 2091, "text": "What is the height of louver 13?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "ATTRIBUTE"], [22, 31, "OBJECT"]]}
+{"id": 2092, "text": "What is louver 14's height?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[8, 17, "OBJECT"], [20, 26, "ATTRIBUTE"]]}
+{"id": 2093, "text": "What is the window's overall height of louver 15?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "TYPE"], [21, 35, "ATTRIBUTE"], [39, 48, "OBJECT"]]}
+{"id": 2094, "text": "What is the window's overallheight of louver 16?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "TYPE"], [21, 34, "ATTRIBUTE"], [38, 47, "OBJECT"]]}
+{"id": 2095, "text": "What is louver 17's overall height?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[8, 17, "OBJECT"], [20, 34, "ATTRIBUTE"]]}
+{"id": 2096, "text": "What is louver 18's overall width?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[8, 17, "OBJECT"], [20, 33, "ATTRIBUTE"]]}
+{"id": 2097, "text": "What is louver 19's overallheight?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[8, 17, "OBJECT"], [20, 33, "ATTRIBUTE"]]}
+{"id": 2098, "text": "What is louver 20's overallwidth?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[8, 17, "OBJECT"], [20, 32, "ATTRIBUTE"]]}
+{"id": 2099, "text": "What is the window louver 21's width?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "TYPE"], [19, 28, "OBJECT"], [31, 36, "ATTRIBUTE"]]}
+{"id": 2100, "text": "What is the window louver 22's height?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "TYPE"], [19, 28, "OBJECT"], [31, 37, "ATTRIBUTE"]]}
+{"id": 2101, "text": "What is the window louver 23's overall height?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "TYPE"], [19, 28, "OBJECT"], [31, 45, "ATTRIBUTE"]]}
+{"id": 2102, "text": "What is the window louver 24's overall width?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "TYPE"], [19, 28, "OBJECT"], [31, 44, "ATTRIBUTE"]]}
+{"id": 2103, "text": "What is the window louver 25's overallheight?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "TYPE"], [19, 28, "OBJECT"], [31, 44, "ATTRIBUTE"]]}
+{"id": 2104, "text": "What is the window louver 26's overallwidth?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "TYPE"], [19, 28, "OBJECT"], [31, 43, "ATTRIBUTE"]]}
+{"id": 2105, "text": "What is the window of louver 27's width?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "TYPE"], [22, 31, "OBJECT"], [34, 39, "ATTRIBUTE"]]}
+{"id": 2106, "text": "What is the window of louver 28's height?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "TYPE"], [22, 31, "OBJECT"], [34, 40, "ATTRIBUTE"]]}
+{"id": 2107, "text": "What is the window of louver 29's overall height?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "TYPE"], [22, 31, "OBJECT"], [34, 48, "ATTRIBUTE"]]}
+{"id": 2108, "text": "What is the window of louver 30's overall width?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "TYPE"], [22, 31, "OBJECT"], [34, 47, "ATTRIBUTE"]]}
+{"id": 2109, "text": "What is the window of louver 31's overallheight?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "TYPE"], [22, 31, "OBJECT"], [34, 47, "ATTRIBUTE"]]}
+{"id": 2110, "text": "What is the window of louver 32's overallwidth?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "TYPE"], [22, 31, "OBJECT"], [34, 46, "ATTRIBUTE"]]}
+{"id": 2111, "text": "What is the height of the fixed window?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "ATTRIBUTE"], [26, 31, "OBJECT"], [32, 38, "TYPE"]]}
+{"id": 2112, "text": "What is the width of the fixed window?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 17, "ATTRIBUTE"], [25, 30, "OBJECT"], [31, 37, "TYPE"]]}
+{"id": 2113, "text": "What is the overall height of fixed window?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 26, "ATTRIBUTE"], [30, 35, "OBJECT"], [36, 42, "TYPE"]]}
+{"id": 2114, "text": "What is the overall width of fixed window?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 25, "ATTRIBUTE"], [29, 34, "OBJECT"], [35, 41, "TYPE"]]}
+{"id": 2115, "text": "What is the overallheight of fixed window?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 25, "ATTRIBUTE"], [29, 34, "OBJECT"], [35, 41, "TYPE"]]}
+{"id": 2116, "text": "What is the overallwidth of fixed window?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 24, "ATTRIBUTE"], [28, 33, "OBJECT"], [34, 40, "TYPE"]]}
+{"id": 2117, "text": "What is the height of window of fixed rinker?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "ATTRIBUTE"], [22, 28, "TYPE"], [32, 44, "OBJECT"]]}
+{"id": 2118, "text": "What is the height of window of fixed Rinker?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "ATTRIBUTE"], [22, 28, "TYPE"], [32, 44, "OBJECT"]]}
+{"id": 2119, "text": "What is the width of window of fixed rinker?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 17, "ATTRIBUTE"], [21, 27, "TYPE"], [31, 43, "OBJECT"]]}
+{"id": 2120, "text": "What is the width of window of fixed Rinker?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 17, "ATTRIBUTE"], [21, 27, "TYPE"], [31, 43, "OBJECT"]]}
+{"id": 2121, "text": "What is the height of fixed rinker?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "ATTRIBUTE"], [22, 34, "OBJECT"]]}
+{"id": 2122, "text": "What is the width of fixed Rinker?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 17, "ATTRIBUTE"], [21, 33, "OBJECT"]]}
+{"id": 2123, "text": "What is the overall height of fixed rinker?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 26, "ATTRIBUTE"], [30, 42, "OBJECT"]]}
+{"id": 2124, "text": "What is the overall width of fixed Rinker?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 25, "ATTRIBUTE"], [29, 41, "OBJECT"]]}
+{"id": 2125, "text": "What is the overallheight of fixed rinker?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 25, "ATTRIBUTE"], [29, 41, "OBJECT"]]}
+{"id": 2126, "text": "What is the overallwidth of fixed Rinker?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 24, "ATTRIBUTE"], [28, 40, "OBJECT"]]}
+{"id": 2127, "text": "What is the height of casement window?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "ATTRIBUTE"], [22, 30, "OBJECT"], [31, 37, "TYPE"]]}
+{"id": 2128, "text": "What is the width of casement window?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 17, "ATTRIBUTE"], [21, 29, "OBJECT"], [30, 36, "TYPE"]]}
+{"id": 2129, "text": "What is the overall height of casement window?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 26, "ATTRIBUTE"], [30, 38, "OBJECT"], [39, 45, "TYPE"]]}
+{"id": 2130, "text": "What is the overall width of casement window?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 25, "ATTRIBUTE"], [29, 37, "OBJECT"], [38, 44, "TYPE"]]}
+{"id": 2131, "text": "What is the overallheight of casement window?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 25, "ATTRIBUTE"], [29, 37, "OBJECT"], [38, 44, "TYPE"]]}
+{"id": 2132, "text": "What is the overallwidth of casement window?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 24, "ATTRIBUTE"], [28, 36, "OBJECT"], [37, 43, "TYPE"]]}
+{"id": 2133, "text": "What is the height of window of casement?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "ATTRIBUTE"], [22, 28, "TYPE"], [32, 40, "OBJECT"]]}
+{"id": 2134, "text": "What is the overall height of window of casement?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 26, "ATTRIBUTE"], [30, 36, "TYPE"], [40, 48, "OBJECT"]]}
+{"id": 2135, "text": "What is the overall width of window of casement?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 25, "ATTRIBUTE"], [29, 35, "TYPE"], [39, 47, "OBJECT"]]}
+{"id": 2136, "text": "What is the width of window of casement?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 17, "ATTRIBUTE"], [21, 27, "TYPE"], [31, 39, "OBJECT"]]}
+{"id": 2137, "text": "What is the height of casement?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "ATTRIBUTE"], [22, 30, "OBJECT"]]}
+{"id": 2138, "text": "What is the width of casement?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 17, "ATTRIBUTE"], [21, 29, "OBJECT"]]}
+{"id": 2139, "text": "What is the overall height of casement?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 26, "ATTRIBUTE"], [30, 38, "OBJECT"]]}
+{"id": 2140, "text": "What is the overall width of casement?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 25, "ATTRIBUTE"], [29, 37, "OBJECT"]]}
+{"id": 2141, "text": "What is the overallheight of casement?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 25, "ATTRIBUTE"], [29, 37, "OBJECT"]]}
+{"id": 2142, "text": "What is the overallwidth of casement?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 24, "ATTRIBUTE"], [28, 36, "OBJECT"]]}
+{"id": 2143, "text": "How high is louver 1?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[4, 8, "ATTRIBUTE"], [12, 20, "OBJECT"]]}
+{"id": 2144, "text": "How high is louver 21?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[4, 8, "ATTRIBUTE"], [12, 21, "OBJECT"]]}
+{"id": 2145, "text": "How high is casement?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[4, 8, "ATTRIBUTE"], [12, 20, "OBJECT"]]}
+{"id": 2146, "text": "How high is fixed window?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[4, 8, "ATTRIBUTE"], [12, 17, "OBJECT"], [18, 24, "TYPE"]]}
+{"id": 2147, "text": "How high is fixed rinker window?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[4, 8, "ATTRIBUTE"], [12, 24, "OBJECT"], [25, 31, "TYPE"]]}
+{"id": 2148, "text": "How high is the window of fixed Rinker?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[4, 8, "ATTRIBUTE"], [16, 22, "TYPE"], [26, 38, "OBJECT"]]}
+{"id": 2149, "text": "How high is the window louver 35?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[4, 8, "ATTRIBUTE"], [16, 22, "TYPE"], [23, 32, "OBJECT"]]}
+{"id": 2150, "text": "How high is window of louver 49?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[4, 8, "ATTRIBUTE"], [12, 18, "TYPE"], [22, 31, "OBJECT"]]}
+{"id": 2151, "text": "How high is the window louver 14?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[4, 8, "ATTRIBUTE"], [16, 22, "TYPE"], [23, 32, "OBJECT"]]}
+{"id": 2152, "text": "How many feet high is louver 33?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[14, 18, "ATTRIBUTE"], [22, 31, "OBJECT"]]}
+{"id": 2153, "text": "How many feet high is louver 56?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[14, 18, "ATTRIBUTE"], [22, 31, "OBJECT"]]}
+{"id": 2154, "text": "How wide is louver 6?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[4, 8, "ATTRIBUTE"], [12, 20, "OBJECT"]]}
+{"id": 2155, "text": "How wide is louver 65?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[4, 8, "ATTRIBUTE"], [12, 21, "OBJECT"]]}
+{"id": 2156, "text": "How wide is casement?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[4, 8, "ATTRIBUTE"], [12, 20, "OBJECT"]]}
+{"id": 2157, "text": "How wide is the fixed window?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[4, 8, "ATTRIBUTE"], [16, 21, "OBJECT"], [22, 28, "TYPE"]]}
+{"id": 2158, "text": "How wide is fixed rinker window?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[4, 8, "ATTRIBUTE"], [12, 24, "OBJECT"], [25, 31, "TYPE"]]}
+{"id": 2159, "text": "How wide is the window of fixed Rinker?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[4, 8, "ATTRIBUTE"], [16, 22, "TYPE"], [26, 38, "OBJECT"]]}
+{"id": 2160, "text": "How wide is the window louver 73?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[4, 8, "ATTRIBUTE"], [16, 22, "TYPE"], [23, 32, "OBJECT"]]}
+{"id": 2161, "text": "How wide is window of louver 89?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[4, 8, "ATTRIBUTE"], [12, 18, "TYPE"], [22, 31, "OBJECT"]]}
+{"id": 2162, "text": "How wide is the window louver 42?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[4, 8, "ATTRIBUTE"], [16, 22, "TYPE"], [23, 32, "OBJECT"]]}
+{"id": 2163, "text": "How many feet wide is louver 27?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[14, 18, "ATTRIBUTE"], [22, 31, "OBJECT"]]}
+{"id": 2164, "text": "How many feet wide is louver 14?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[14, 18, "ATTRIBUTE"], [22, 31, "OBJECT"]]}
+{"id": 2165, "text": "What's the height of window 572075?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 17, "ATTRIBUTE"], [21, 27, "TYPE"], [28, 34, "ENTITY"]]}
+{"id": 2166, "text": "What's the width of window 572097?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 16, "ATTRIBUTE"], [20, 26, "TYPE"], [27, 33, "ENTITY"]]}
+{"id": 2167, "text": "What's the height of window 174054?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 17, "ATTRIBUTE"], [21, 27, "TYPE"], [28, 34, "ENTITY"]]}
+{"id": 2168, "text": "What's width of window 174322?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 12, "ATTRIBUTE"], [16, 22, "TYPE"], [23, 29, "ENTITY"]]}
+{"id": 2169, "text": "What's the height of window 175055?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 17, "ATTRIBUTE"], [21, 27, "TYPE"], [28, 34, "ENTITY"]]}
+{"id": 2170, "text": "What's overall width of window 175193?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 20, "ATTRIBUTE"], [24, 30, "TYPE"], [31, 37, "ENTITY"]]}
+{"id": 2171, "text": "What's the overall height of window 175197?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 25, "ATTRIBUTE"], [29, 35, "TYPE"], [36, 42, "ENTITY"]]}
+{"id": 2172, "text": "What's overallheight of window 175235?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 20, "ATTRIBUTE"], [24, 30, "TYPE"], [31, 37, "ENTITY"]]}
+{"id": 2173, "text": "What's overallwidth of window 17529?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 19, "ATTRIBUTE"], [23, 29, "TYPE"], [30, 35, "ENTITY"]]}
+{"id": 2174, "text": "What's height of window 181653?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 13, "ATTRIBUTE"], [17, 23, "TYPE"], [24, 30, "ENTITY"]]}
+{"id": 2175, "text": "What's the width of window 181616?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 16, "ATTRIBUTE"], [20, 26, "TYPE"], [27, 33, "ENTITY"]]}
+{"id": 2176, "text": "What's the overallheight of window 181649?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 24, "ATTRIBUTE"], [28, 34, "TYPE"], [35, 41, "ENTITY"]]}
+{"id": 2177, "text": "What's the overallheight of window 181653?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 24, "ATTRIBUTE"], [28, 34, "TYPE"], [35, 41, "ENTITY"]]}
+{"id": 2178, "text": "What's overall height of window 181748?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 21, "ATTRIBUTE"], [25, 31, "TYPE"], [32, 38, "ENTITY"]]}
+{"id": 2179, "text": "What's overall width of window 181752?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 20, "ATTRIBUTE"], [24, 30, "TYPE"], [31, 37, "ENTITY"]]}
+{"id": 2180, "text": "What's the height of window with a tag of 387648?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 17, "ATTRIBUTE"], [21, 27, "TYPE"], [42, 48, "ENTITY"]]}
+{"id": 2181, "text": "What's the height of window with a tag of 387652?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 17, "ATTRIBUTE"], [21, 27, "TYPE"], [42, 48, "ENTITY"]]}
+{"id": 2182, "text": "What's the width of the window with a tag of 182192?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 16, "ATTRIBUTE"], [24, 30, "TYPE"], [45, 51, "ENTITY"]]}
+{"id": 2183, "text": "What's the width of the window with a tag of 182225?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 16, "ATTRIBUTE"], [24, 30, "TYPE"], [45, 51, "ENTITY"]]}
+{"id": 2184, "text": "What's the overall height of window with a tag of 182258?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 25, "ATTRIBUTE"], [29, 35, "TYPE"], [50, 56, "ENTITY"]]}
+{"id": 2185, "text": "What's the overall width of window with a tag of 182262?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 24, "ATTRIBUTE"], [28, 34, "TYPE"], [49, 55, "ENTITY"]]}
+{"id": 2186, "text": "What's the height of window of 182229?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 17, "ATTRIBUTE"], [21, 27, "TYPE"], [31, 37, "ENTITY"]]}
+{"id": 2187, "text": "What's the height of the window of 182262?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 17, "ATTRIBUTE"], [25, 31, "TYPE"], [35, 41, "ENTITY"]]}
+{"id": 2188, "text": "What's the width of the window of 387649?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 16, "ATTRIBUTE"], [24, 30, "TYPE"], [34, 40, "ENTITY"]]}
+{"id": 2189, "text": "What's the overall height of window of 387652?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 25, "ATTRIBUTE"], [29, 35, "TYPE"], [39, 45, "ENTITY"]]}
+{"id": 2190, "text": "What's the overall width of window of 391020?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 24, "ATTRIBUTE"], [28, 34, "TYPE"], [38, 44, "ENTITY"]]}
+{"id": 2191, "text": "What's the overallheight of the window of 391023?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 24, "ATTRIBUTE"], [32, 38, "TYPE"], [42, 48, "ENTITY"]]}
+{"id": 2192, "text": "What's the overallwidth of the window of 391122?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 23, "ATTRIBUTE"], [31, 37, "TYPE"], [41, 47, "ENTITY"]]}
+{"id": 2193, "text": "What's the height of a window with a tag of 391323?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 17, "ATTRIBUTE"], [23, 29, "TYPE"], [44, 50, "ENTITY"]]}
+{"id": 2194, "text": "What's the width of a window with a tag of 391546?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 16, "ATTRIBUTE"], [22, 28, "TYPE"], [43, 49, "ENTITY"]]}
+{"id": 2195, "text": "What's the height of a window with a tag of 391549?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 17, "ATTRIBUTE"], [23, 29, "TYPE"], [44, 50, "ENTITY"]]}
+{"id": 2196, "text": "What's the width of a window with a tag of 391819?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 16, "ATTRIBUTE"], [22, 28, "TYPE"], [43, 49, "ENTITY"]]}
+{"id": 2197, "text": "What's window 391125's height?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 13, "TYPE"], [14, 20, "ENTITY"], [23, 29, "ATTRIBUTE"]]}
+{"id": 2198, "text": "What's window 391822's width?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 13, "TYPE"], [14, 20, "ENTITY"], [23, 28, "ATTRIBUTE"]]}
+{"id": 2199, "text": "What's window 392072's height?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 13, "TYPE"], [14, 20, "ENTITY"], [23, 29, "ATTRIBUTE"]]}
+{"id": 2200, "text": "What's window 392030's width?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 13, "TYPE"], [14, 20, "ENTITY"], [23, 28, "ATTRIBUTE"]]}
+{"id": 2201, "text": "What's window 391926's overall height?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 13, "TYPE"], [14, 20, "ENTITY"], [23, 37, "ATTRIBUTE"]]}
+{"id": 2202, "text": "What's window 391929's overall width?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 13, "TYPE"], [14, 20, "ENTITY"], [23, 36, "ATTRIBUTE"]]}
+{"id": 2203, "text": "What's window 392178's overall height?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 13, "TYPE"], [14, 20, "ENTITY"], [23, 37, "ATTRIBUTE"]]}
+{"id": 2204, "text": "What's window 392181's overall width?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 13, "TYPE"], [14, 20, "ENTITY"], [23, 36, "ATTRIBUTE"]]}
+{"id": 2205, "text": "What's window 392292's overallheight?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 13, "TYPE"], [23, 36, "ATTRIBUTE"], [14, 20, "ENTITY"]]}
+{"id": 2206, "text": "What's window 392295's overallwidth?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 13, "TYPE"], [14, 20, "ENTITY"], [23, 35, "ATTRIBUTE"]]}
+{"id": 2207, "text": "What's the height of a window of 392387?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 17, "ATTRIBUTE"], [23, 29, "TYPE"], [33, 39, "ENTITY"]]}
+{"id": 2208, "text": "What's the width of a window of 392390?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 16, "ATTRIBUTE"], [22, 28, "TYPE"], [32, 38, "ENTITY"]]}
+{"id": 2209, "text": "What's the overallheight of a window of 398724?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 24, "ATTRIBUTE"], [30, 36, "TYPE"], [40, 46, "ENTITY"]]}
+{"id": 2210, "text": "What's the overallwidth of a window of 398728?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 23, "ATTRIBUTE"], [29, 35, "TYPE"], [39, 45, "ENTITY"]]}
+{"id": 2211, "text": "What's the overall height of a window of 624294?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 25, "ATTRIBUTE"], [31, 37, "TYPE"], [41, 47, "ENTITY"]]}
+{"id": 2212, "text": "What's the overall width of a window of 624296?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 24, "ATTRIBUTE"], [30, 36, "TYPE"], [40, 46, "ENTITY"]]}
+{"id": 2213, "text": "How high is a window with a tag of 624297?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[4, 8, "ATTRIBUTE"], [14, 20, "TYPE"], [35, 41, "ENTITY"]]}
+{"id": 2214, "text": "How wide is a window with a tag of 635607?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[4, 8, "ATTRIBUTE"], [14, 20, "TYPE"], [35, 41, "ENTITY"]]}
+{"id": 2215, "text": "How high is a window of 635608?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[4, 8, "ATTRIBUTE"], [14, 20, "TYPE"], [24, 30, "ENTITY"]]}
+{"id": 2216, "text": "How wide is a window of 635609?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[4, 8, "ATTRIBUTE"], [14, 20, "TYPE"], [24, 30, "ENTITY"]]}
+{"id": 2217, "text": "How high is window 635610?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[4, 8, "ATTRIBUTE"], [12, 18, "TYPE"], [19, 25, "ENTITY"]]}
+{"id": 2218, "text": "How wide is window 635749?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[4, 8, "ATTRIBUTE"], [12, 18, "TYPE"], [19, 25, "ENTITY"]]}
+{"id": 2219, "text": "How many feet high is window 635750?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[14, 18, "ATTRIBUTE"], [22, 28, "TYPE"], [29, 35, "ENTITY"]]}
+{"id": 2220, "text": "How many feet wide is window 635751?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[29, 35, "ENTITY"], [22, 28, "TYPE"], [14, 18, "ATTRIBUTE"]]}
+{"id": 2221, "text": "How many meters high is window 635752?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[16, 20, "ATTRIBUTE"], [24, 30, "TYPE"], [31, 37, "ENTITY"]]}
+{"id": 2222, "text": "How many meters wide is window 635838?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[31, 37, "ENTITY"], [16, 20, "ATTRIBUTE"], [24, 30, "TYPE"]]}
+{"id": 2223, "text": "How many meters high is window 635918?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[16, 20, "ATTRIBUTE"], [24, 30, "TYPE"], [31, 37, "ENTITY"]]}
+{"id": 2224, "text": "How many meters wide is window 636016?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[16, 20, "ATTRIBUTE"], [24, 30, "TYPE"], [31, 37, "ENTITY"]]}
+{"id": 2225, "text": "How many meters high is the window of 586126?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[16, 20, "ATTRIBUTE"], [28, 34, "TYPE"], [38, 44, "ENTITY"]]}
+{"id": 2226, "text": "How many meters wide is the window of 587524?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[38, 44, "ENTITY"], [28, 34, "TYPE"], [16, 20, "ATTRIBUTE"]]}
+{"id": 2227, "text": "How many meters high is the window of 597354?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[16, 20, "ATTRIBUTE"], [28, 34, "TYPE"], [38, 44, "ENTITY"]]}
+{"id": 2228, "text": "How many meters wide is the window of 597258?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[16, 20, "ATTRIBUTE"], [28, 34, "TYPE"], [38, 44, "ENTITY"]]}
+{"id": 2229, "text": "How many feet high is window 597022?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[14, 18, "ATTRIBUTE"], [22, 28, "TYPE"], [29, 35, "ENTITY"]]}
+{"id": 2230, "text": "How many feet wide is window 597066?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[14, 18, "ATTRIBUTE"], [22, 28, "TYPE"], [29, 35, "ENTITY"]]}
+{"id": 2231, "text": "How many feet high is window 597120?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[29, 35, "ENTITY"], [22, 28, "TYPE"], [14, 18, "ATTRIBUTE"]]}
+{"id": 2232, "text": "How many feet wide is window 597164?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[14, 18, "ATTRIBUTE"], [22, 28, "TYPE"], [29, 35, "ENTITY"]]}
+{"id": 2233, "text": "How many feet high is window 597310?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[14, 18, "ATTRIBUTE"], [22, 28, "TYPE"], [29, 35, "ENTITY"]]}
+{"id": 2234, "text": "How many feet wide is window 597354?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[14, 18, "ATTRIBUTE"], [22, 28, "TYPE"], [29, 35, "ENTITY"]]}
+{"id": 2235, "text": "What is the object type of window 174054?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 23, "ATTRIBUTE"], [27, 33, "TYPE"], [34, 40, "ENTITY"]]}
+{"id": 2236, "text": "What's the object type of window of 174322?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 22, "ATTRIBUTE"], [26, 32, "TYPE"], [36, 42, "ENTITY"]]}
+{"id": 2237, "text": "Tell me the objecttype of window with a tag of 175055.", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 22, "ATTRIBUTE"], [26, 32, "TYPE"], [47, 53, "ENTITY"]]}
+{"id": 2238, "text": "What is the object type of window 175059?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 23, "ATTRIBUTE"], [27, 33, "TYPE"], [34, 40, "ENTITY"]]}
+{"id": 2239, "text": "What's the object type of window of 175193?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 22, "ATTRIBUTE"], [26, 32, "TYPE"], [36, 42, "ENTITY"]]}
+{"id": 2240, "text": "Tell me the objecttype of the window with a tag of 175197.", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 22, "ATTRIBUTE"], [30, 36, "TYPE"], [51, 57, "ENTITY"]]}
+{"id": 2241, "text": "What is the object type of window 175235?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 23, "ATTRIBUTE"], [27, 33, "TYPE"], [34, 40, "ENTITY"]]}
+{"id": 2242, "text": "What's the object type of window of 175239?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 22, "ATTRIBUTE"], [26, 32, "TYPE"], [36, 42, "ENTITY"]]}
+{"id": 2243, "text": "Tell me the objecttype of window with a tag of 175279.", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 22, "ATTRIBUTE"], [26, 32, "TYPE"], [47, 53, "ENTITY"]]}
+{"id": 2244, "text": "What is the object type of window 175283?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 23, "ATTRIBUTE"], [27, 33, "TYPE"], [34, 40, "ENTITY"]]}
+{"id": 2245, "text": "What's the object type of window of 175323?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 22, "ATTRIBUTE"], [26, 32, "TYPE"], [36, 42, "ENTITY"]]}
+{"id": 2246, "text": "Tell me the objecttype of the window with a tag of 175327.", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 22, "ATTRIBUTE"], [30, 36, "TYPE"], [51, 57, "ENTITY"]]}
+{"id": 2247, "text": "What is the object type of window 175327?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 23, "ATTRIBUTE"], [27, 33, "TYPE"], [34, 40, "ENTITY"]]}
+{"id": 2248, "text": "What's the object type of window of 175367?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 22, "ATTRIBUTE"], [26, 32, "TYPE"], [36, 42, "ENTITY"]]}
+{"id": 2249, "text": "Tell me the objecttype of the window with a tag of 175371.", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 22, "ATTRIBUTE"], [30, 36, "TYPE"], [51, 57, "ENTITY"]]}
+{"id": 2250, "text": "What is window 175409's object type?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[8, 14, "TYPE"], [15, 21, "ENTITY"], [24, 35, "ATTRIBUTE"]]}
+{"id": 2251, "text": "What's window 175413's objecttype?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[14, 20, "ENTITY"], [7, 13, "TYPE"], [23, 33, "ATTRIBUTE"]]}
+{"id": 2252, "text": "What is window 175451's object type?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[8, 14, "TYPE"], [15, 21, "ENTITY"], [24, 35, "ATTRIBUTE"]]}
+{"id": 2253, "text": "What's window 391122's objecttype?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 13, "TYPE"], [14, 20, "ENTITY"], [23, 33, "ATTRIBUTE"]]}
+{"id": 2254, "text": "What is window 391020's object type?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[8, 14, "TYPE"], [15, 21, "ENTITY"], [24, 35, "ATTRIBUTE"]]}
+{"id": 2255, "text": "What's window 596044's objecttype?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 13, "TYPE"], [14, 20, "ENTITY"], [23, 33, "ATTRIBUTE"]]}
+{"id": 2256, "text": "What is window 596176's object type?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[8, 14, "TYPE"], [15, 21, "ENTITY"], [24, 35, "ATTRIBUTE"]]}
+{"id": 2257, "text": "What's window 624295's objecttype?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 13, "TYPE"], [14, 20, "ENTITY"], [23, 33, "ATTRIBUTE"]]}
+{"id": 2258, "text": "What is window 636354's object type?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[8, 14, "TYPE"], [15, 21, "ENTITY"], [24, 35, "ATTRIBUTE"]]}
+{"id": 2259, "text": "What's window 636351's objecttype?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 13, "TYPE"], [14, 20, "ENTITY"], [23, 33, "ATTRIBUTE"]]}
+{"id": 2260, "text": "What is the height of single flush A?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "ATTRIBUTE"], [22, 36, "OBJECT"]]}
+{"id": 2261, "text": "What is the height of single flush a?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "ATTRIBUTE"], [22, 36, "OBJECT"]]}
+{"id": 2262, "text": "What is the overall height of single flush B?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 26, "ATTRIBUTE"], [30, 44, "OBJECT"]]}
+{"id": 2263, "text": "What is the overallheight of single flush b?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 25, "ATTRIBUTE"], [29, 43, "OBJECT"]]}
+{"id": 2264, "text": "What is the height of the door of single flush C?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "ATTRIBUTE"], [26, 30, "TYPE"], [34, 48, "OBJECT"]]}
+{"id": 2265, "text": "What is the width of the door of single flush c?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 17, "ATTRIBUTE"], [25, 29, "TYPE"], [33, 47, "OBJECT"]]}
+{"id": 2266, "text": "What is the overall width of door single flush D?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 25, "ATTRIBUTE"], [29, 33, "TYPE"], [34, 48, "OBJECT"]]}
+{"id": 2267, "text": "What is the overallwidth of single flush d?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 24, "ATTRIBUTE"], [28, 42, "OBJECT"]]}
+{"id": 2268, "text": "What is the width of single flush E?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 17, "ATTRIBUTE"], [21, 35, "OBJECT"]]}
+{"id": 2269, "text": "What is single flush e's width?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[8, 22, "OBJECT"], [25, 30, "ATTRIBUTE"]]}
+{"id": 2270, "text": "What is single flush E's width?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[8, 22, "OBJECT"], [25, 30, "ATTRIBUTE"]]}
+{"id": 2271, "text": "What is the door's overall width of single flush F?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "TYPE"], [19, 32, "ATTRIBUTE"], [36, 50, "OBJECT"]]}
+{"id": 2272, "text": "What is the door's overallwidth of single flush f?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "TYPE"], [19, 31, "ATTRIBUTE"], [35, 49, "OBJECT"]]}
+{"id": 2273, "text": "What is the height of single flush G?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "ATTRIBUTE"], [22, 36, "OBJECT"]]}
+{"id": 2274, "text": "What is single flush g's height?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[8, 22, "OBJECT"], [25, 31, "ATTRIBUTE"]]}
+{"id": 2275, "text": "What is single flush G's height?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[8, 22, "OBJECT"], [25, 31, "ATTRIBUTE"]]}
+{"id": 2276, "text": "What is the door's overall height of single flush H?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "TYPE"], [19, 33, "ATTRIBUTE"], [37, 51, "OBJECT"]]}
+{"id": 2277, "text": "What is the door's overallheight of single flush h?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "TYPE"], [19, 32, "ATTRIBUTE"], [36, 50, "OBJECT"]]}
+{"id": 2278, "text": "What is single flush A's overall height?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[8, 22, "OBJECT"], [25, 39, "ATTRIBUTE"]]}
+{"id": 2279, "text": "What is single flush a's overall width?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[8, 22, "OBJECT"], [25, 38, "ATTRIBUTE"]]}
+{"id": 2280, "text": "What is single flush A's overallheight?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[8, 22, "OBJECT"], [25, 38, "ATTRIBUTE"]]}
+{"id": 2281, "text": "What is single flush a's overallwidth?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[8, 22, "OBJECT"], [25, 37, "ATTRIBUTE"]]}
+{"id": 2282, "text": "What is the door single flush K's width?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "TYPE"], [17, 31, "OBJECT"], [34, 39, "ATTRIBUTE"]]}
+{"id": 2283, "text": "What is the door single flush k's height?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "TYPE"], [17, 31, "OBJECT"], [34, 40, "ATTRIBUTE"]]}
+{"id": 2284, "text": "What is the door single flush K's overall height?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "TYPE"], [17, 31, "OBJECT"], [34, 48, "ATTRIBUTE"]]}
+{"id": 2285, "text": "What is the door single flush k's overall width?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "TYPE"], [17, 31, "OBJECT"], [34, 47, "ATTRIBUTE"]]}
+{"id": 2286, "text": "What is the door single flush K's overallheight?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "TYPE"], [17, 31, "OBJECT"], [34, 47, "ATTRIBUTE"]]}
+{"id": 2287, "text": "What is the door single flush a's overallwidth?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "TYPE"], [17, 31, "OBJECT"], [34, 46, "ATTRIBUTE"]]}
+{"id": 2288, "text": "What is the door single flush a's width?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "TYPE"], [17, 31, "OBJECT"], [34, 39, "ATTRIBUTE"]]}
+{"id": 2289, "text": "What is the door single flush A's height?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "TYPE"], [17, 31, "OBJECT"], [34, 40, "ATTRIBUTE"]]}
+{"id": 2290, "text": "What is the door of double glass K's overall height?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "TYPE"], [20, 34, "OBJECT"], [37, 51, "ATTRIBUTE"]]}
+{"id": 2291, "text": "What is the door of double glass k's overall width?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "TYPE"], [20, 34, "OBJECT"], [37, 50, "ATTRIBUTE"]]}
+{"id": 2292, "text": "What is the door of double glass D's overallheight?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "TYPE"], [20, 34, "OBJECT"], [37, 50, "ATTRIBUTE"]]}
+{"id": 2293, "text": "What is the door of double glass d's overallwidth?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "TYPE"], [20, 34, "OBJECT"], [37, 49, "ATTRIBUTE"]]}
+{"id": 2294, "text": "What is the height of double flush B?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "ATTRIBUTE"], [22, 36, "OBJECT"]]}
+{"id": 2295, "text": "What is the width of double flush B?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 17, "ATTRIBUTE"], [21, 35, "OBJECT"]]}
+{"id": 2296, "text": "What is the overall height of double flush B door?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 26, "ATTRIBUTE"], [30, 44, "OBJECT"], [45, 49, "TYPE"]]}
+{"id": 2297, "text": "What is the overall width of the double flush B door?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 25, "ATTRIBUTE"], [33, 47, "OBJECT"], [48, 52, "TYPE"]]}
+{"id": 2298, "text": "What is the overallheight of the double flush b door?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 25, "ATTRIBUTE"], [33, 47, "OBJECT"], [48, 52, "TYPE"]]}
+{"id": 2299, "text": "What is the overallwidth of the double flush b door?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 24, "ATTRIBUTE"], [32, 46, "OBJECT"], [47, 51, "TYPE"]]}
+{"id": 2300, "text": "What is the height of the door of double flush B?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "ATTRIBUTE"], [26, 30, "TYPE"], [34, 48, "OBJECT"]]}
+{"id": 2301, "text": "What is the width of the door of double flush b?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 17, "ATTRIBUTE"], [25, 29, "TYPE"], [33, 47, "OBJECT"]]}
+{"id": 2302, "text": "What is the height of double flush b?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "ATTRIBUTE"], [22, 36, "OBJECT"]]}
+{"id": 2303, "text": "What is the width of double flush G?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 17, "ATTRIBUTE"], [21, 35, "OBJECT"]]}
+{"id": 2304, "text": "What is the overall height of double flush B?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 26, "ATTRIBUTE"], [30, 44, "OBJECT"]]}
+{"id": 2305, "text": "What is the overall width of double flush b?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 25, "ATTRIBUTE"], [29, 43, "OBJECT"]]}
+{"id": 2306, "text": "What is the overallheight of double flush b?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 25, "ATTRIBUTE"], [29, 43, "OBJECT"]]}
+{"id": 2307, "text": "What is the overallwidth of double flush B?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 24, "ATTRIBUTE"], [28, 42, "OBJECT"]]}
+{"id": 2308, "text": "What is the height of Rinker double door?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "ATTRIBUTE"], [22, 35, "OBJECT"], [36, 40, "TYPE"]]}
+{"id": 2309, "text": "What is the width of rinker double door?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 17, "ATTRIBUTE"], [21, 34, "OBJECT"], [35, 39, "TYPE"]]}
+{"id": 2310, "text": "What is the overall height of Rinker double door?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 26, "ATTRIBUTE"], [30, 43, "OBJECT"], [44, 48, "TYPE"]]}
+{"id": 2311, "text": "What is the overall width of the rinker double door?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 25, "ATTRIBUTE"], [33, 46, "OBJECT"], [47, 51, "TYPE"]]}
+{"id": 2312, "text": "What is the overallheight of the Rinker double door?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 25, "ATTRIBUTE"], [33, 46, "OBJECT"], [47, 51, "TYPE"]]}
+{"id": 2313, "text": "What is the overallwidth of rinker double door?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 24, "ATTRIBUTE"], [28, 41, "OBJECT"], [42, 46, "TYPE"]]}
+{"id": 2314, "text": "What is the height of the door of Rinker double D?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "ATTRIBUTE"], [26, 30, "TYPE"], [34, 49, "OBJECT"]]}
+{"id": 2315, "text": "What is the overall height of door of Rinker double d?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 26, "ATTRIBUTE"], [30, 34, "TYPE"], [38, 53, "OBJECT"]]}
+{"id": 2316, "text": "What is the width of the door of Rinker double D?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 17, "ATTRIBUTE"], [25, 29, "TYPE"], [33, 48, "OBJECT"]]}
+{"id": 2317, "text": "What is the overall width of door of Rinker double d?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 25, "ATTRIBUTE"], [29, 33, "TYPE"], [37, 52, "OBJECT"]]}
+{"id": 2318, "text": "What is the height of rinker double D?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "ATTRIBUTE"], [22, 37, "OBJECT"]]}
+{"id": 2319, "text": "What is the width of rinker double d?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 17, "ATTRIBUTE"], [21, 36, "OBJECT"]]}
+{"id": 2320, "text": "What is the overall height of rinker double D?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 26, "ATTRIBUTE"], [30, 45, "OBJECT"]]}
+{"id": 2321, "text": "What is the overall width of rinker double D?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 25, "ATTRIBUTE"], [29, 44, "OBJECT"]]}
+{"id": 2322, "text": "What is the overallheight of Rinker double d?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 25, "ATTRIBUTE"], [29, 44, "OBJECT"]]}
+{"id": 2323, "text": "What is the overallwidth of Rinker double d?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 24, "ATTRIBUTE"], [28, 43, "OBJECT"]]}
+{"id": 2324, "text": "How high is double flush B?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[4, 8, "ATTRIBUTE"], [12, 26, "OBJECT"]]}
+{"id": 2325, "text": "How high is double flush b?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[4, 8, "ATTRIBUTE"], [12, 26, "OBJECT"]]}
+{"id": 2326, "text": "How high is double glass D?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[4, 8, "ATTRIBUTE"], [12, 26, "OBJECT"]]}
+{"id": 2327, "text": "How high is double glass d?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[4, 8, "ATTRIBUTE"], [12, 26, "OBJECT"]]}
+{"id": 2328, "text": "How high is double glass K?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[4, 8, "ATTRIBUTE"], [12, 26, "OBJECT"]]}
+{"id": 2329, "text": "How high is double glass k?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[4, 8, "ATTRIBUTE"], [12, 26, "OBJECT"]]}
+{"id": 2330, "text": "How high is single flush A door?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[4, 8, "ATTRIBUTE"], [12, 26, "OBJECT"], [27, 31, "TYPE"]]}
+{"id": 2331, "text": "How high is single flush a door?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[4, 8, "ATTRIBUTE"], [12, 26, "OBJECT"], [27, 31, "TYPE"]]}
+{"id": 2332, "text": "How high is the door of single flush E?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[4, 8, "ATTRIBUTE"], [16, 20, "TYPE"], [24, 38, "OBJECT"]]}
+{"id": 2333, "text": "How high is the door single flush e?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[4, 8, "ATTRIBUTE"], [16, 20, "TYPE"], [21, 35, "OBJECT"]]}
+{"id": 2334, "text": "How high is a door of single flush C?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[4, 8, "ATTRIBUTE"], [14, 18, "TYPE"], [22, 36, "OBJECT"]]}
+{"id": 2335, "text": "How high is the door single flush c?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[4, 8, "ATTRIBUTE"], [16, 20, "TYPE"], [21, 35, "OBJECT"]]}
+{"id": 2336, "text": "How many feet high is single flush G?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[14, 18, "ATTRIBUTE"], [22, 36, "OBJECT"]]}
+{"id": 2337, "text": "How many feet high is single flush g?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[14, 18, "ATTRIBUTE"], [22, 36, "OBJECT"]]}
+{"id": 2338, "text": "How wide is single flush H?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[4, 8, "ATTRIBUTE"], [12, 26, "OBJECT"]]}
+{"id": 2339, "text": "How wide is single flush h?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[4, 8, "ATTRIBUTE"], [12, 26, "OBJECT"]]}
+{"id": 2340, "text": "How wide is single flush D?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[4, 8, "ATTRIBUTE"], [12, 26, "OBJECT"]]}
+{"id": 2341, "text": "How wide is single flush d?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[4, 8, "ATTRIBUTE"], [12, 26, "OBJECT"]]}
+{"id": 2342, "text": "How wide is single J door?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[4, 8, "ATTRIBUTE"], [12, 20, "OBJECT"], [21, 25, "TYPE"]]}
+{"id": 2343, "text": "How wide is the door of single J?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[4, 8, "ATTRIBUTE"], [16, 20, "TYPE"], [24, 32, "OBJECT"]]}
+{"id": 2344, "text": "How wide is the door single j?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[4, 8, "ATTRIBUTE"], [16, 20, "TYPE"], [21, 29, "OBJECT"]]}
+{"id": 2345, "text": "How wide is a door of single J?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[4, 8, "ATTRIBUTE"], [14, 18, "TYPE"], [22, 30, "OBJECT"]]}
+{"id": 2346, "text": "How wide is the door single g?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[4, 8, "ATTRIBUTE"], [16, 20, "TYPE"], [21, 29, "OBJECT"]]}
+{"id": 2347, "text": "How many feet wide is double glass K door?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[14, 18, "ATTRIBUTE"], [22, 36, "OBJECT"], [37, 41, "TYPE"]]}
+{"id": 2348, "text": "How many feet wide is double glass k door?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[14, 18, "ATTRIBUTE"], [22, 36, "OBJECT"], [37, 41, "TYPE"]]}
+{"id": 2349, "text": "How many feet wide is double glass D door?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[14, 18, "ATTRIBUTE"], [22, 36, "OBJECT"], [37, 41, "TYPE"]]}
+{"id": 2350, "text": "How many feet wide is double glass d door?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[14, 18, "ATTRIBUTE"], [22, 36, "OBJECT"], [37, 41, "TYPE"]]}
+{"id": 2351, "text": "What's height of door 300135?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 13, "ATTRIBUTE"], [17, 21, "TYPE"], [22, 28, "ENTITY"]]}
+{"id": 2352, "text": "What's the width of door 467216?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 16, "ATTRIBUTE"], [20, 24, "TYPE"], [25, 31, "ENTITY"]]}
+{"id": 2353, "text": "What's the height of door 526266?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 17, "ATTRIBUTE"], [21, 25, "TYPE"], [26, 32, "ENTITY"]]}
+{"id": 2354, "text": "What's the width of door 310584?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 16, "ATTRIBUTE"], [20, 24, "TYPE"], [25, 31, "ENTITY"]]}
+{"id": 2355, "text": "What's the height of door 310799?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 17, "ATTRIBUTE"], [21, 25, "TYPE"], [26, 32, "ENTITY"]]}
+{"id": 2356, "text": "What's overall width of door 562735?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 20, "ATTRIBUTE"], [24, 28, "TYPE"], [29, 35, "ENTITY"]]}
+{"id": 2357, "text": "What's overall height of door 562775?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 21, "ATTRIBUTE"], [25, 29, "TYPE"], [30, 36, "ENTITY"]]}
+{"id": 2358, "text": "What's overallheight of door 570599?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 20, "ATTRIBUTE"], [24, 28, "TYPE"], [29, 35, "ENTITY"]]}
+{"id": 2359, "text": "What's overallwidth of door 563982?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 19, "ATTRIBUTE"], [23, 27, "TYPE"], [28, 34, "ENTITY"]]}
+{"id": 2360, "text": "What's height of door 308454?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 13, "ATTRIBUTE"], [17, 21, "TYPE"], [22, 28, "ENTITY"]]}
+{"id": 2361, "text": "What's width of door 308816?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 12, "ATTRIBUTE"], [16, 20, "TYPE"], [21, 27, "ENTITY"]]}
+{"id": 2362, "text": "What's the overallheight of door 560235?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 24, "ATTRIBUTE"], [28, 32, "TYPE"], [33, 39, "ENTITY"]]}
+{"id": 2363, "text": "What's the overallheight of door 368080?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 24, "ATTRIBUTE"], [28, 32, "TYPE"], [33, 39, "ENTITY"]]}
+{"id": 2364, "text": "What's overall height of door 385195?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 21, "ATTRIBUTE"], [25, 29, "TYPE"], [30, 36, "ENTITY"]]}
+{"id": 2365, "text": "What's overall width of door 387461?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 20, "ATTRIBUTE"], [24, 28, "TYPE"], [29, 35, "ENTITY"]]}
+{"id": 2366, "text": "What's the height of the door with a tag of 389449?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 17, "ATTRIBUTE"], [25, 29, "TYPE"], [44, 50, "ENTITY"]]}
+{"id": 2367, "text": "What's the height of the door with a tag of 368004?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 17, "ATTRIBUTE"], [25, 29, "TYPE"], [44, 50, "ENTITY"]]}
+{"id": 2368, "text": "What's the width of door with a tag of 380772?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 16, "ATTRIBUTE"], [20, 24, "TYPE"], [39, 45, "ENTITY"]]}
+{"id": 2369, "text": "What's the width of door with a tag of 383669?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 16, "ATTRIBUTE"], [20, 24, "TYPE"], [39, 45, "ENTITY"]]}
+{"id": 2370, "text": "What's the overall height of door with a tag of 637594?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 25, "ATTRIBUTE"], [29, 33, "TYPE"], [48, 54, "ENTITY"]]}
+{"id": 2371, "text": "What's the overall width of door with a tag of 582935?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 24, "ATTRIBUTE"], [28, 32, "TYPE"], [47, 53, "ENTITY"]]}
+{"id": 2372, "text": "What's the height of the door of 584134?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 17, "ATTRIBUTE"], [25, 29, "TYPE"], [33, 39, "ENTITY"]]}
+{"id": 2373, "text": "What's the height of the door of 367442?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 17, "ATTRIBUTE"], [25, 29, "TYPE"], [33, 39, "ENTITY"]]}
+{"id": 2374, "text": "What's the width of door of 559492?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 16, "ATTRIBUTE"], [20, 24, "TYPE"], [28, 34, "ENTITY"]]}
+{"id": 2375, "text": "What's the overall height of door of 561784?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 25, "ATTRIBUTE"], [29, 33, "TYPE"], [37, 43, "ENTITY"]]}
+{"id": 2376, "text": "What's the overall width of the door of 562012?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 24, "ATTRIBUTE"], [32, 36, "TYPE"], [40, 46, "ENTITY"]]}
+{"id": 2377, "text": "What's the overallheight of the door of 562428?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 24, "ATTRIBUTE"], [32, 36, "TYPE"], [40, 46, "ENTITY"]]}
+{"id": 2378, "text": "What's the overallwidth of door of 562465?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 23, "ATTRIBUTE"], [27, 31, "TYPE"], [35, 41, "ENTITY"]]}
+{"id": 2379, "text": "What's the height of a door with a tag of 562599?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 17, "ATTRIBUTE"], [23, 27, "TYPE"], [42, 48, "ENTITY"]]}
+{"id": 2380, "text": "What's the width of a door with a tag of 562640?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 16, "ATTRIBUTE"], [22, 26, "TYPE"], [41, 47, "ENTITY"]]}
+{"id": 2381, "text": "What's the height of a door with a tag of 562680?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 17, "ATTRIBUTE"], [23, 27, "TYPE"], [42, 48, "ENTITY"]]}
+{"id": 2382, "text": "What's the width of a door with a tag of 562753?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 16, "ATTRIBUTE"], [22, 26, "TYPE"], [41, 47, "ENTITY"]]}
+{"id": 2383, "text": "What's door 562775's height?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 11, "TYPE"], [12, 18, "ENTITY"], [21, 27, "ATTRIBUTE"]]}
+{"id": 2384, "text": "What's door 562866's width?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 11, "TYPE"], [12, 18, "ENTITY"], [21, 26, "ATTRIBUTE"]]}
+{"id": 2385, "text": "What's door 562909's height?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 11, "TYPE"], [12, 18, "ENTITY"], [21, 27, "ATTRIBUTE"]]}
+{"id": 2386, "text": "What's door 562941's width?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 11, "TYPE"], [12, 18, "ENTITY"], [21, 26, "ATTRIBUTE"]]}
+{"id": 2387, "text": "What's door 563001's overall height?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 11, "TYPE"], [12, 18, "ENTITY"], [21, 35, "ATTRIBUTE"]]}
+{"id": 2388, "text": "What's door 563023's overall width?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 11, "TYPE"], [12, 18, "ENTITY"], [21, 34, "ATTRIBUTE"]]}
+{"id": 2389, "text": "What's door 563043's overall height?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 11, "TYPE"], [12, 18, "ENTITY"], [21, 35, "ATTRIBUTE"]]}
+{"id": 2390, "text": "What's door 563065's overall width?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 11, "TYPE"], [12, 18, "ENTITY"], [21, 34, "ATTRIBUTE"]]}
+{"id": 2391, "text": "What's door 563081's overallheight?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 11, "TYPE"], [12, 18, "ENTITY"], [21, 34, "ATTRIBUTE"]]}
+{"id": 2392, "text": "What's door 563112's overallwidth?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 11, "TYPE"], [12, 18, "ENTITY"], [21, 33, "ATTRIBUTE"]]}
+{"id": 2393, "text": "What's the height of a door of 563137?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 17, "ATTRIBUTE"], [23, 27, "TYPE"], [31, 37, "ENTITY"]]}
+{"id": 2394, "text": "What's the width of a door of 563196?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 16, "ATTRIBUTE"], [22, 26, "TYPE"], [30, 36, "ENTITY"]]}
+{"id": 2395, "text": "What's the overallheight of a door of 563219?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 24, "ATTRIBUTE"], [30, 34, "TYPE"], [38, 44, "ENTITY"]]}
+{"id": 2396, "text": "What's the overallwidth of a door of 563233?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 23, "ATTRIBUTE"], [29, 33, "TYPE"], [37, 43, "ENTITY"]]}
+{"id": 2397, "text": "What's the overall height of a door of 563244?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 25, "ATTRIBUTE"], [31, 35, "TYPE"], [39, 45, "ENTITY"]]}
+{"id": 2398, "text": "What's the overall width of a door of 563266?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 24, "ATTRIBUTE"], [30, 34, "TYPE"], [38, 44, "ENTITY"]]}
+{"id": 2399, "text": "How high is a door with a tag of 563282?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[14, 18, "TYPE"], [4, 8, "ATTRIBUTE"], [33, 39, "ENTITY"]]}
+{"id": 2400, "text": "How wide is a door with a tag of 563602?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[4, 8, "ATTRIBUTE"], [14, 18, "TYPE"], [33, 39, "ENTITY"]]}
+{"id": 2401, "text": "How high is a door of 563637?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[4, 8, "ATTRIBUTE"], [14, 18, "TYPE"], [22, 28, "ENTITY"]]}
+{"id": 2402, "text": "How wide is a door of 563671?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[4, 8, "ATTRIBUTE"], [14, 18, "TYPE"], [22, 28, "ENTITY"]]}
+{"id": 2403, "text": "How high is door 563702?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[4, 8, "ATTRIBUTE"], [12, 16, "TYPE"], [17, 23, "ENTITY"]]}
+{"id": 2404, "text": "How wide is door 563740?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[4, 8, "ATTRIBUTE"], [12, 16, "TYPE"], [17, 23, "ENTITY"]]}
+{"id": 2405, "text": "How many feet high is door 563790?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[14, 18, "ATTRIBUTE"], [22, 26, "TYPE"], [27, 33, "ENTITY"]]}
+{"id": 2406, "text": "How many feet wide is door 563881?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[14, 18, "ATTRIBUTE"], [22, 26, "TYPE"], [27, 33, "ENTITY"]]}
+{"id": 2407, "text": "How many meters high is door 563925?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[16, 20, "ATTRIBUTE"], [24, 28, "TYPE"], [29, 35, "ENTITY"]]}
+{"id": 2408, "text": "How many meters wide is door 563982?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[16, 20, "ATTRIBUTE"], [24, 28, "TYPE"], [29, 35, "ENTITY"]]}
+{"id": 2409, "text": "How many meters high is door 570599?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[16, 20, "ATTRIBUTE"], [24, 28, "TYPE"], [29, 35, "ENTITY"]]}
+{"id": 2410, "text": "How many meters wide is door 592935?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[16, 20, "ATTRIBUTE"], [24, 28, "TYPE"], [29, 35, "ENTITY"]]}
+{"id": 2411, "text": "How many meters high is the door of 584134?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[16, 20, "ATTRIBUTE"], [28, 32, "TYPE"], [36, 42, "ENTITY"]]}
+{"id": 2412, "text": "How many meters wide is the door of 584668?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[16, 20, "ATTRIBUTE"], [28, 32, "TYPE"], [36, 42, "ENTITY"]]}
+{"id": 2413, "text": "How many meters high is the door of 628706?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[16, 20, "ATTRIBUTE"], [28, 32, "TYPE"], [36, 42, "ENTITY"]]}
+{"id": 2414, "text": "How many meters wide is the door of 630352?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[16, 20, "ATTRIBUTE"], [28, 32, "TYPE"], [36, 42, "ENTITY"]]}
+{"id": 2415, "text": "How many feet high is door 630482?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[14, 18, "ATTRIBUTE"], [22, 26, "TYPE"], [27, 33, "ENTITY"]]}
+{"id": 2416, "text": "How many feet wide is door 637594?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[14, 18, "ATTRIBUTE"], [22, 26, "TYPE"], [27, 33, "ENTITY"]]}
+{"id": 2417, "text": "How many feet high is door 656678?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[14, 18, "ATTRIBUTE"], [22, 26, "TYPE"], [27, 33, "ENTITY"]]}
+{"id": 2418, "text": "How many feet wide is door 658305?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[14, 18, "ATTRIBUTE"], [22, 26, "TYPE"], [27, 33, "ENTITY"]]}
+{"id": 2419, "text": "How many feet high is door 732154?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[14, 18, "ATTRIBUTE"], [22, 26, "TYPE"], [27, 33, "ENTITY"]]}
+{"id": 2420, "text": "How many feet wide is door 646512?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[14, 18, "ATTRIBUTE"], [22, 26, "TYPE"], [27, 33, "ENTITY"]]}
+{"id": 2421, "text": "What is the object type of door 300135?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 23, "ATTRIBUTE"], [27, 31, "TYPE"], [32, 38, "ENTITY"]]}
+{"id": 2422, "text": "What's the object type of door of 301555?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 22, "ATTRIBUTE"], [26, 30, "TYPE"], [34, 40, "ENTITY"]]}
+{"id": 2423, "text": "Tell me the objecttype of door with a tag of 467216.", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 22, "ATTRIBUTE"], [26, 30, "TYPE"], [45, 51, "ENTITY"]]}
+{"id": 2424, "text": "What is the object type of door 389499?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 23, "ATTRIBUTE"], [27, 31, "TYPE"], [32, 38, "ENTITY"]]}
+{"id": 2425, "text": "What's the object type of door of 380772?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 22, "ATTRIBUTE"], [26, 30, "TYPE"], [34, 40, "ENTITY"]]}
+{"id": 2426, "text": "Tell me the objecttype of the door with a tag of 389449.", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 22, "ATTRIBUTE"], [30, 34, "TYPE"], [49, 55, "ENTITY"]]}
+{"id": 2427, "text": "What is the object type of door 526266?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 23, "ATTRIBUTE"], [27, 31, "TYPE"], [32, 38, "ENTITY"]]}
+{"id": 2428, "text": "What's the object type of door of 558253?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 22, "ATTRIBUTE"], [26, 30, "TYPE"], [34, 40, "ENTITY"]]}
+{"id": 2429, "text": "Tell me the objecttype of door with a tag of 308454.", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 22, "ATTRIBUTE"], [26, 30, "TYPE"], [45, 51, "ENTITY"]]}
+{"id": 2430, "text": "What is the object type of door 307489?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 23, "ATTRIBUTE"], [27, 31, "TYPE"], [32, 38, "ENTITY"]]}
+{"id": 2431, "text": "What's the object type of door of 559668?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 22, "ATTRIBUTE"], [26, 30, "TYPE"], [34, 40, "ENTITY"]]}
+{"id": 2432, "text": "Tell me the objecttype of the door with a tag of 559366.", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 22, "ATTRIBUTE"], [30, 34, "TYPE"], [49, 55, "ENTITY"]]}
+{"id": 2433, "text": "What is the object type of door 560030?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 23, "ATTRIBUTE"], [27, 31, "TYPE"], [32, 38, "ENTITY"]]}
+{"id": 2434, "text": "What's the object type of door of 560175?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 22, "ATTRIBUTE"], [26, 30, "TYPE"], [34, 40, "ENTITY"]]}
+{"id": 2435, "text": "Tell me the objecttype of door with a tag of 561556.", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 22, "ATTRIBUTE"], [26, 30, "TYPE"], [45, 51, "ENTITY"]]}
+{"id": 2436, "text": "What is door 561736's object type?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[8, 12, "TYPE"], [13, 19, "ENTITY"], [22, 33, "ATTRIBUTE"]]}
+{"id": 2437, "text": "What's door 584134's objecttype?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 11, "TYPE"], [12, 18, "ENTITY"], [21, 31, "ATTRIBUTE"]]}
+{"id": 2438, "text": "What is door 570599's object type?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[8, 12, "TYPE"], [13, 19, "ENTITY"], [22, 33, "ATTRIBUTE"]]}
+{"id": 2439, "text": "What's door 628706's objecttype?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 11, "TYPE"], [12, 18, "ENTITY"], [21, 31, "ATTRIBUTE"]]}
+{"id": 2440, "text": "What is door 630352's object type?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[8, 12, "TYPE"], [13, 19, "ENTITY"], [22, 33, "ATTRIBUTE"]]}
+{"id": 2441, "text": "What's door 630482's objecttype?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 11, "TYPE"], [12, 18, "ENTITY"], [21, 31, "ATTRIBUTE"]]}
+{"id": 2442, "text": "What is door 637594's object type?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[8, 12, "TYPE"], [13, 19, "ENTITY"], [22, 33, "ATTRIBUTE"]]}
+{"id": 2443, "text": "What's door 658305's objecttype?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 11, "TYPE"], [12, 18, "ENTITY"], [21, 31, "ATTRIBUTE"]]}
+{"id": 2444, "text": "What is door 385195's object type?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[8, 12, "TYPE"], [13, 19, "ENTITY"], [22, 33, "ATTRIBUTE"]]}
+{"id": 2445, "text": "What's door 368004's objecttype?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 11, "TYPE"], [12, 18, "ENTITY"], [21, 31, "ATTRIBUTE"]]}
+{"id": 2446, "text": "What is the long name of room 0030?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [25, 29, "TYPE"], [30, 34, "ENTITY"]]}
+{"id": 2447, "text": "What is the long name of room 0030A?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [25, 29, "TYPE"], [30, 35, "ENTITY"]]}
+{"id": 2448, "text": "What is the long name of room 0106?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [25, 29, "TYPE"], [30, 34, "ENTITY"]]}
+{"id": 2449, "text": "What is the long name of room 0110?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [25, 29, "TYPE"], [30, 34, "ENTITY"]]}
+{"id": 2450, "text": "What is the long name of room 0110A?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [25, 29, "TYPE"], [30, 35, "ENTITY"]]}
+{"id": 2451, "text": "What is the longname of room 0140?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 20, "ATTRIBUTE"], [24, 28, "TYPE"], [29, 33, "ENTITY"]]}
+{"id": 2452, "text": "What is the longname of room 0140A?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 20, "ATTRIBUTE"], [24, 28, "TYPE"], [29, 34, "ENTITY"]]}
+{"id": 2453, "text": "What is the long name of room 0336B?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [25, 29, "TYPE"], [30, 35, "ENTITY"]]}
+{"id": 2454, "text": "What is the long name of room 0336b?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [25, 29, "TYPE"], [30, 35, "ENTITY"]]}
+{"id": 2455, "text": "What is the long name of room 0336?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [25, 29, "TYPE"], [30, 34, "ENTITY"]]}
+{"id": 2456, "text": "What is the longname of room 0336B?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 20, "ATTRIBUTE"], [24, 28, "TYPE"], [29, 34, "ENTITY"]]}
+{"id": 2457, "text": "What is the longname of room 0336?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 20, "ATTRIBUTE"], [24, 28, "TYPE"], [29, 33, "ENTITY"]]}
+{"id": 2458, "text": "What is the long name of room S198A?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [25, 29, "TYPE"], [30, 35, "ENTITY"]]}
+{"id": 2459, "text": "What is the long name of room s198a?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[30, 35, "ENTITY"], [12, 21, "ATTRIBUTE"], [25, 29, "TYPE"]]}
+{"id": 2460, "text": "What is the longname of room S198A?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 20, "ATTRIBUTE"], [24, 28, "TYPE"], [29, 34, "ENTITY"]]}
+{"id": 2461, "text": "What is the longname of room s198a?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 20, "ATTRIBUTE"], [24, 28, "TYPE"], [29, 34, "ENTITY"]]}
+{"id": 2462, "text": "What is the long name of room C199D?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [25, 29, "TYPE"], [30, 35, "ENTITY"]]}
+{"id": 2463, "text": "What is the longname of room C199D?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 20, "ATTRIBUTE"], [24, 28, "TYPE"], [29, 34, "ENTITY"]]}
+{"id": 2464, "text": "What is the long name of room c199d?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [25, 29, "TYPE"], [30, 35, "ENTITY"]]}
+{"id": 2465, "text": "What is the longname of room c199d?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 20, "ATTRIBUTE"], [24, 28, "TYPE"], [29, 34, "ENTITY"]]}
+{"id": 2466, "text": "What is the long name of room C299A?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [25, 29, "TYPE"], [30, 35, "ENTITY"]]}
+{"id": 2467, "text": "What is the longname of room C299A?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 20, "ATTRIBUTE"], [24, 28, "TYPE"], [29, 34, "ENTITY"]]}
+{"id": 2468, "text": "What is the long name of room c299a?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [25, 29, "TYPE"], [30, 35, "ENTITY"]]}
+{"id": 2469, "text": "What is the longname of room c299a?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 20, "ATTRIBUTE"], [24, 28, "TYPE"], [29, 34, "ENTITY"]]}
+{"id": 2470, "text": "What is the long name of room S398A?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [25, 29, "TYPE"], [30, 35, "ENTITY"]]}
+{"id": 2471, "text": "What is the longname of room S398A?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 20, "ATTRIBUTE"], [24, 28, "TYPE"], [29, 34, "ENTITY"]]}
+{"id": 2472, "text": "What is the long name of room s398a?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [25, 29, "TYPE"], [30, 35, "ENTITY"]]}
+{"id": 2473, "text": "What is the longname of room s398a?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 20, "ATTRIBUTE"], [24, 28, "TYPE"], [29, 34, "ENTITY"]]}
+{"id": 2474, "text": "What is room 0201's long name?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[8, 12, "TYPE"], [13, 17, "ENTITY"], [20, 29, "ATTRIBUTE"]]}
+{"id": 2475, "text": "What is room 0202's longname?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[8, 12, "TYPE"], [13, 17, "ENTITY"], [20, 28, "ATTRIBUTE"]]}
+{"id": 2476, "text": "What is room 0203's long name?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[8, 12, "TYPE"], [13, 17, "ENTITY"], [20, 29, "ATTRIBUTE"]]}
+{"id": 2477, "text": "What is room 0204's longname?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[8, 12, "TYPE"], [13, 17, "ENTITY"], [20, 28, "ATTRIBUTE"]]}
+{"id": 2478, "text": "What is room 0205's long name?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[8, 12, "TYPE"], [13, 17, "ENTITY"], [20, 29, "ATTRIBUTE"]]}
+{"id": 2479, "text": "What is room 0206's longname?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[8, 12, "TYPE"], [13, 17, "ENTITY"], [20, 28, "ATTRIBUTE"]]}
+{"id": 2480, "text": "What is room 0207's long name?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[8, 12, "TYPE"], [13, 17, "ENTITY"], [20, 29, "ATTRIBUTE"]]}
+{"id": 2481, "text": "What is room 0207's longname?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[8, 12, "TYPE"], [13, 17, "ENTITY"], [20, 28, "ATTRIBUTE"]]}
+{"id": 2482, "text": "What is room 0207A's long name?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[8, 12, "TYPE"], [13, 18, "ENTITY"], [21, 30, "ATTRIBUTE"]]}
+{"id": 2483, "text": "What is room 0207a's long name?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[8, 12, "TYPE"], [13, 18, "ENTITY"], [21, 30, "ATTRIBUTE"]]}
+{"id": 2484, "text": "What is room 0207A's longname?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[13, 18, "ENTITY"], [8, 12, "TYPE"], [21, 29, "ATTRIBUTE"]]}
+{"id": 2485, "text": "What is room 0235's long name?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[8, 12, "TYPE"], [13, 17, "ENTITY"], [20, 29, "ATTRIBUTE"]]}
+{"id": 2486, "text": "What is room 0235A's long name?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[8, 12, "TYPE"], [13, 18, "ENTITY"], [21, 30, "ATTRIBUTE"]]}
+{"id": 2487, "text": "What is room 0245A's long name?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[8, 12, "TYPE"], [13, 18, "ENTITY"], [21, 30, "ATTRIBUTE"]]}
+{"id": 2488, "text": "What is room 0246A's long name?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[8, 12, "TYPE"], [13, 18, "ENTITY"], [21, 30, "ATTRIBUTE"]]}
+{"id": 2489, "text": "What is room 0235a's long name?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[8, 12, "TYPE"], [13, 18, "ENTITY"], [21, 30, "ATTRIBUTE"]]}
+{"id": 2490, "text": "What is room 0245a's long name?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[8, 12, "TYPE"], [13, 18, "ENTITY"], [21, 30, "ATTRIBUTE"]]}
+{"id": 2491, "text": "What is room 0246a's long name?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[8, 12, "TYPE"], [13, 18, "ENTITY"], [21, 30, "ATTRIBUTE"]]}
+{"id": 2492, "text": "What is room 0245's long name?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[8, 12, "TYPE"], [13, 17, "ENTITY"], [20, 29, "ATTRIBUTE"]]}
+{"id": 2493, "text": "What is room 0246's long name?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[8, 12, "TYPE"], [13, 17, "ENTITY"], [20, 29, "ATTRIBUTE"]]}
+{"id": 2494, "text": "What is the length unit's name?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[26, 30, "ATTRIBUTE"], [12, 18, "ENTITY"], [19, 23, "TYPE"]]}
+{"id": 2495, "text": "What is the name of length unit?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "ATTRIBUTE"], [20, 26, "ENTITY"], [27, 31, "TYPE"]]}
+{"id": 2496, "text": "What's the length unit's name?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 17, "ENTITY"], [18, 22, "TYPE"], [25, 29, "ATTRIBUTE"]]}
+{"id": 2497, "text": "What's the name of the length unit?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 15, "ATTRIBUTE"], [23, 29, "ENTITY"], [30, 34, "TYPE"]]}
+{"id": 2498, "text": "What is the area unit's name?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "ENTITY"], [17, 21, "TYPE"], [24, 28, "ATTRIBUTE"]]}
+{"id": 2499, "text": "What is the name of area unit?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "ATTRIBUTE"], [20, 24, "ENTITY"], [25, 29, "TYPE"]]}
+{"id": 2500, "text": "What's the area unit's name?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 15, "ENTITY"], [16, 20, "TYPE"], [23, 27, "ATTRIBUTE"]]}
+{"id": 2501, "text": "What's the name of the area unit?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 15, "ATTRIBUTE"], [23, 27, "ENTITY"], [28, 32, "TYPE"]]}
+{"id": 2502, "text": "What is the volume unit's name?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "ENTITY"], [19, 23, "TYPE"], [26, 30, "ATTRIBUTE"]]}
+{"id": 2503, "text": "What is the name of the volume unit?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[31, 35, "TYPE"], [12, 16, "ATTRIBUTE"], [24, 30, "ENTITY"]]}
+{"id": 2504, "text": "What's the volume unit's name?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[18, 22, "TYPE"], [25, 29, "ATTRIBUTE"], [11, 17, "ENTITY"]]}
+{"id": 2505, "text": "What's the name of volume unit?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 15, "ATTRIBUTE"], [19, 25, "ENTITY"], [26, 30, "TYPE"]]}
+{"id": 2506, "text": "What is the angle unit's name?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 17, "ENTITY"], [18, 22, "TYPE"], [25, 29, "ATTRIBUTE"]]}
+{"id": 2507, "text": "What is the name of the angle unit?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "ATTRIBUTE"], [24, 29, "ENTITY"], [30, 34, "TYPE"]]}
+{"id": 2508, "text": "What's the angle unit's name?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 16, "ENTITY"], [17, 21, "TYPE"], [24, 28, "ATTRIBUTE"]]}
+{"id": 2509, "text": "What's the name of angle unit?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 15, "ATTRIBUTE"], [19, 24, "ENTITY"], [25, 29, "TYPE"]]}
+{"id": 2510, "text": "What is the elevation of building storey 0 top of slab?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [25, 40, "TYPE"], [41, 54, "ENTITY"]]}
+{"id": 2511, "text": "What is the elevation of building storey 01 top of slab?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [25, 40, "TYPE"], [41, 55, "ENTITY"]]}
+{"id": 2512, "text": "What is the elevation of building storey 02 top of slab?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [25, 40, "TYPE"], [41, 55, "ENTITY"]]}
+{"id": 2513, "text": "What is the elevation of building storey 03 top of slab?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [25, 40, "TYPE"], [41, 55, "ENTITY"]]}
+{"id": 2514, "text": "What is the elevation of building storey 02 top of structure?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [25, 40, "TYPE"], [41, 60, "ENTITY"]]}
+{"id": 2515, "text": "What is the elevation of building storey 03 top of structure?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [25, 40, "TYPE"], [41, 60, "ENTITY"]]}
+{"id": 2516, "text": "What is the elevation of building storey top of parapet?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [25, 40, "TYPE"], [41, 55, "ENTITY"]]}
+{"id": 2517, "text": "What is the elevation of building storey top of steel?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [25, 40, "TYPE"], [41, 53, "ENTITY"]]}
+{"id": 2518, "text": "What is the elevation of buildingstorey 0 top of slab?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [25, 39, "TYPE"], [40, 53, "ENTITY"]]}
+{"id": 2519, "text": "What is the elevation of buildingstorey 1 top of slab?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [25, 39, "TYPE"], [40, 53, "ENTITY"]]}
+{"id": 2520, "text": "What is the elevation of buildingstorey 2 top of slab?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [25, 39, "TYPE"], [40, 53, "ENTITY"]]}
+{"id": 2521, "text": "What is the elevation of buildingstorey 3 top of slab?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [25, 39, "TYPE"], [40, 53, "ENTITY"]]}
+{"id": 2522, "text": "What is the elevation of buildingstorey 2 top of structure?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [25, 39, "TYPE"], [40, 58, "ENTITY"]]}
+{"id": 2523, "text": "What is the elevation of buildingstorey 3 top of structure?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [25, 39, "TYPE"], [40, 58, "ENTITY"]]}
+{"id": 2524, "text": "What is the elevation of buildingstorey top of parapet?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [25, 39, "TYPE"], [40, 54, "ENTITY"]]}
+{"id": 2525, "text": "What is the elevation of buildingstorey top of steel?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [25, 39, "TYPE"], [40, 52, "ENTITY"]]}
+{"id": 2526, "text": "What is the elevation of level 0 top of slab?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [25, 30, "TYPE"], [31, 44, "ENTITY"]]}
+{"id": 2527, "text": "What is the elevation of level 1 top of slab?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [25, 30, "TYPE"], [31, 44, "ENTITY"]]}
+{"id": 2528, "text": "What is the elevation of level 2 top of slab?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [25, 30, "TYPE"], [31, 44, "ENTITY"]]}
+{"id": 2529, "text": "What is the elevation of level 3 top of slab?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [25, 30, "TYPE"], [31, 44, "ENTITY"]]}
+{"id": 2530, "text": "What is the elevation of level 2 top of structure?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [25, 30, "TYPE"], [31, 49, "ENTITY"]]}
+{"id": 2531, "text": "What is the elevation of level 3 top of structure?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [25, 30, "TYPE"], [31, 49, "ENTITY"]]}
+{"id": 2532, "text": "What is the elevation of level top of parapet?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [25, 30, "TYPE"], [31, 45, "ENTITY"]]}
+{"id": 2533, "text": "What is the elevation of level top of steel?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [25, 30, "TYPE"], [31, 43, "ENTITY"]]}
+{"id": 2534, "text": "What is the elevation of story 0 top of slab?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [25, 30, "TYPE"], [31, 44, "ENTITY"]]}
+{"id": 2535, "text": "What is the elevation of story 1 top of slab?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [25, 30, "TYPE"], [31, 44, "ENTITY"]]}
+{"id": 2536, "text": "What is the elevation of story 2 top of slab?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [25, 30, "TYPE"], [31, 44, "ENTITY"]]}
+{"id": 2537, "text": "What is the elevation of story 3 top of slab?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [25, 30, "TYPE"], [31, 44, "ENTITY"]]}
+{"id": 2538, "text": "What is the elevation of story 2 top of structure?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [25, 30, "TYPE"], [31, 49, "ENTITY"]]}
+{"id": 2539, "text": "What is the elevation of story 3 top of structure?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [25, 30, "TYPE"], [31, 49, "ENTITY"]]}
+{"id": 2540, "text": "What is the elevation of story top of parapet?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [25, 30, "TYPE"], [31, 45, "ENTITY"]]}
+{"id": 2541, "text": "What is the elevation of story top of steel?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [25, 30, "TYPE"], [31, 43, "ENTITY"]]}
+{"id": 2542, "text": "What's building storey 0 top of slab's elevation?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 22, "TYPE"], [23, 36, "ENTITY"], [39, 48, "ATTRIBUTE"]]}
+{"id": 2543, "text": "What's building storey 01 top of slab's elevation?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[40, 49, "ATTRIBUTE"], [23, 37, "ENTITY"], [7, 22, "TYPE"]]}
+{"id": 2544, "text": "What's building storey 02 top of slab's elevation?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 22, "TYPE"], [23, 37, "ENTITY"], [40, 49, "ATTRIBUTE"]]}
+{"id": 2545, "text": "What's building storey 03 top of slab's elevation?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 22, "TYPE"], [23, 37, "ENTITY"], [40, 49, "ATTRIBUTE"]]}
+{"id": 2546, "text": "What's building storey 2 top of structure's elevation?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 22, "TYPE"], [23, 41, "ENTITY"], [44, 53, "ATTRIBUTE"]]}
+{"id": 2547, "text": "What's building storey 3 top of structure's elevation?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 22, "TYPE"], [23, 41, "ENTITY"], [44, 53, "ATTRIBUTE"]]}
+{"id": 2548, "text": "What's building storey top of parapet's elevation?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 22, "TYPE"], [23, 37, "ENTITY"], [40, 49, "ATTRIBUTE"]]}
+{"id": 2549, "text": "What's building storey top of steel's elevation?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 22, "TYPE"], [23, 35, "ENTITY"], [38, 47, "ATTRIBUTE"]]}
+{"id": 2550, "text": "What's building story 0 top of slab's elevation?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 21, "TYPE"], [22, 35, "ENTITY"], [38, 47, "ATTRIBUTE"]]}
+{"id": 2551, "text": "What's building story 1 top of slab's elevation?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 21, "TYPE"], [22, 35, "ENTITY"], [38, 47, "ATTRIBUTE"]]}
+{"id": 2552, "text": "What's building story 2 top of slab's elevation?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 21, "TYPE"], [22, 35, "ENTITY"], [38, 47, "ATTRIBUTE"]]}
+{"id": 2553, "text": "What's building story 3 top of slab's elevation?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 21, "TYPE"], [22, 35, "ENTITY"], [38, 47, "ATTRIBUTE"]]}
+{"id": 2554, "text": "What's building story 02 top of structure's elevation?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 21, "TYPE"], [22, 41, "ENTITY"], [44, 53, "ATTRIBUTE"]]}
+{"id": 2555, "text": "What's building story 03 top of structure's elevation?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 21, "TYPE"], [22, 41, "ENTITY"], [44, 53, "ATTRIBUTE"]]}
+{"id": 2556, "text": "What's building story top of parapet's elevation?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 21, "TYPE"], [22, 36, "ENTITY"], [39, 48, "ATTRIBUTE"]]}
+{"id": 2557, "text": "What's building story top of steel's elevation?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 21, "TYPE"], [22, 34, "ENTITY"], [37, 46, "ATTRIBUTE"]]}
+{"id": 2558, "text": "How many feet elevated of story 0 top of slab?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[14, 22, "ATTRIBUTE"], [26, 31, "TYPE"], [32, 45, "ENTITY"]]}
+{"id": 2559, "text": "How many feet elevated of story 1 top of slab?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[14, 22, "ATTRIBUTE"], [26, 31, "TYPE"], [32, 45, "ENTITY"]]}
+{"id": 2560, "text": "How many feet elevated of story 2 top of slab?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[14, 22, "ATTRIBUTE"], [26, 31, "TYPE"], [32, 45, "ENTITY"]]}
+{"id": 2561, "text": "How many feet elevated of story 3 top of slab?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[14, 22, "ATTRIBUTE"], [26, 31, "TYPE"], [32, 45, "ENTITY"]]}
+{"id": 2562, "text": "How many feet elevated of story 2 top of structure?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[14, 22, "ATTRIBUTE"], [26, 31, "TYPE"], [32, 50, "ENTITY"]]}
+{"id": 2563, "text": "How many feet elevated of story 3 top of structure?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[14, 22, "ATTRIBUTE"], [26, 31, "TYPE"], [32, 50, "ENTITY"]]}
+{"id": 2564, "text": "How many feet elevated of story top of parapet?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[14, 22, "ATTRIBUTE"], [26, 31, "TYPE"], [32, 46, "ENTITY"]]}
+{"id": 2565, "text": "How many feet elevated of story top of steel?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[14, 22, "ATTRIBUTE"], [26, 31, "TYPE"], [32, 44, "ENTITY"]]}
+{"id": 2566, "text": "How many feet elevated of level 0 top of slab?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[14, 22, "ATTRIBUTE"], [26, 31, "TYPE"], [32, 45, "ENTITY"]]}
+{"id": 2567, "text": "How many feet elevated of level 1 top of slab?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[14, 22, "ATTRIBUTE"], [26, 31, "TYPE"], [32, 45, "ENTITY"]]}
+{"id": 2568, "text": "How many feet elevated of level 2 top of slab?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[14, 22, "ATTRIBUTE"], [26, 31, "TYPE"], [32, 45, "ENTITY"]]}
+{"id": 2569, "text": "How many feet elevated of level 3 top of slab?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[14, 22, "ATTRIBUTE"], [26, 31, "TYPE"], [32, 45, "ENTITY"]]}
+{"id": 2570, "text": "What's the elevation of level 1?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 20, "ATTRIBUTE"], [24, 29, "TYPE"], [30, 31, "ENTITY"]]}
+{"id": 2571, "text": "What is the elevation of level 1?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [25, 30, "TYPE"], [31, 32, "ENTITY"]]}
+{"id": 2572, "text": "What's level 1's elevation?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 12, "TYPE"], [13, 14, "ENTITY"], [17, 26, "ATTRIBUTE"]]}
+{"id": 2573, "text": "What's the elevation of level 2?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[30, 31, "ENTITY"], [24, 29, "TYPE"], [11, 20, "ATTRIBUTE"]]}
+{"id": 2574, "text": "What is the elevation of level 2?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [25, 30, "TYPE"], [31, 32, "ENTITY"]]}
+{"id": 2575, "text": "What's level 2's elevation?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 12, "TYPE"], [13, 14, "ENTITY"], [17, 26, "ATTRIBUTE"]]}
+{"id": 2576, "text": "What's the elevation of level 3?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 20, "ATTRIBUTE"], [24, 29, "TYPE"], [30, 31, "ENTITY"]]}
+{"id": 2577, "text": "What is the elevation of level 3?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [25, 30, "TYPE"], [31, 32, "ENTITY"]]}
+{"id": 2578, "text": "What's level 3's elevation?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 12, "TYPE"], [13, 14, "ENTITY"], [17, 26, "ATTRIBUTE"]]}
+{"id": 2579, "text": "What's the elevation of level 4?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 20, "ATTRIBUTE"], [24, 29, "TYPE"], [30, 31, "ENTITY"]]}
+{"id": 2580, "text": "What is the elevation of level 4?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [25, 30, "TYPE"], [31, 32, "ENTITY"]]}
+{"id": 2581, "text": "What's level 4's elevation?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[17, 26, "ATTRIBUTE"], [7, 12, "TYPE"], [13, 14, "ENTITY"]]}
+{"id": 2582, "text": "What is the elevation of level 5?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [25, 30, "TYPE"], [31, 32, "ENTITY"]]}
+{"id": 2583, "text": "What's level 5's elevation?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[17, 26, "ATTRIBUTE"], [7, 12, "TYPE"], [13, 14, "ENTITY"]]}
+{"id": 2584, "text": "What is the elevation of level 6?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [25, 30, "TYPE"], [31, 32, "ENTITY"]]}
+{"id": 2585, "text": "What's level 6's elevation?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 12, "TYPE"], [13, 14, "ENTITY"], [17, 26, "ATTRIBUTE"]]}
+{"id": 2586, "text": "What is the elevation of level 01?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [25, 30, "TYPE"], [31, 33, "ENTITY"]]}
+{"id": 2587, "text": "What's level 01's elevation?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[18, 27, "ATTRIBUTE"], [7, 12, "TYPE"], [13, 15, "ENTITY"]]}
+{"id": 2588, "text": "What is the elevation of level 0?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [25, 30, "TYPE"], [31, 32, "ENTITY"]]}
+{"id": 2589, "text": "What's level 0's elevation?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 12, "TYPE"], [13, 14, "ENTITY"], [17, 26, "ATTRIBUTE"]]}
+{"id": 2590, "text": "What is the elevation of level 00?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [25, 30, "TYPE"], [31, 33, "ENTITY"]]}
+{"id": 2591, "text": "What's level 00's elevation?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 12, "TYPE"], [13, 15, "ENTITY"], [18, 27, "ATTRIBUTE"]]}
+{"id": 2592, "text": "What is the elevation of level 02?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [25, 30, "TYPE"], [31, 33, "ENTITY"]]}
+{"id": 2593, "text": "What's level 02's elevation?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[18, 27, "ATTRIBUTE"], [7, 12, "TYPE"], [13, 15, "ENTITY"]]}
+{"id": 2594, "text": "What is the elevation of level 03?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [25, 30, "TYPE"], [31, 33, "ENTITY"]]}
+{"id": 2595, "text": "What's level 03's elevation?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 12, "TYPE"], [13, 15, "ENTITY"], [18, 27, "ATTRIBUTE"]]}
+{"id": 2596, "text": "What is the object type of the window in faculty office 0309?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 23, "ATTRIBUTE"], [31, 37, "TYPE"], [41, 60, "LOC-ROOM"]]}
+{"id": 2597, "text": "What is the object type of the window in room 0329?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 23, "ATTRIBUTE"], [31, 37, "TYPE"], [46, 50, "LOC-ROOM"]]}
+{"id": 2598, "text": "What is the height of the window in faculty office 0327?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "ATTRIBUTE"], [26, 32, "TYPE"], [36, 55, "LOC-ROOM"]]}
+{"id": 2599, "text": "What is the height of the window in room 0325?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "ATTRIBUTE"], [26, 32, "TYPE"], [41, 45, "LOC-ROOM"]]}
+{"id": 2600, "text": "What is the width of the window in faculty office 0323?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 17, "ATTRIBUTE"], [25, 31, "TYPE"], [35, 54, "LOC-ROOM"]]}
+{"id": 2601, "text": "What is the width of the window in room 0322?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 17, "ATTRIBUTE"], [25, 31, "TYPE"], [40, 44, "LOC-ROOM"]]}
+{"id": 2602, "text": "What is the object type of the door in faculty office 0321?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 23, "ATTRIBUTE"], [31, 35, "TYPE"], [39, 58, "LOC-ROOM"]]}
+{"id": 2603, "text": "What is the object type of the door in room 0319?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 23, "ATTRIBUTE"], [31, 35, "TYPE"], [44, 48, "LOC-ROOM"]]}
+{"id": 2604, "text": "What is the height of the door in faculty office 0316?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "ATTRIBUTE"], [26, 30, "TYPE"], [34, 53, "LOC-ROOM"]]}
+{"id": 2605, "text": "What is the height of the door in room 0315?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "ATTRIBUTE"], [26, 30, "TYPE"], [39, 43, "LOC-ROOM"]]}
+{"id": 2606, "text": "What is the width of the door in faculty office 0314?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 17, "ATTRIBUTE"], [25, 29, "TYPE"], [33, 52, "LOC-ROOM"]]}
+{"id": 2607, "text": "What is the width of the door in room 0311?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 17, "ATTRIBUTE"], [25, 29, "TYPE"], [38, 42, "LOC-ROOM"]]}
+{"id": 2608, "text": "What is the object type of the window in medium classroom 0210?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 23, "ATTRIBUTE"], [31, 37, "TYPE"], [41, 62, "LOC-ROOM"]]}
+{"id": 2609, "text": "What is the object type of the window in room 0215?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 23, "ATTRIBUTE"], [31, 37, "TYPE"], [46, 50, "LOC-ROOM"]]}
+{"id": 2610, "text": "What is the height of the window in medium classroom 0220?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "ATTRIBUTE"], [26, 32, "TYPE"], [36, 57, "LOC-ROOM"]]}
+{"id": 2611, "text": "What is the height of the window in room 0225?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "ATTRIBUTE"], [26, 32, "TYPE"], [41, 45, "LOC-ROOM"]]}
+{"id": 2612, "text": "What is the width of the window in medium classroom 0230?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 17, "ATTRIBUTE"], [25, 31, "TYPE"], [35, 56, "LOC-ROOM"]]}
+{"id": 2613, "text": "What is the width of the window in room 0210?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 17, "ATTRIBUTE"], [25, 31, "TYPE"], [40, 44, "LOC-ROOM"]]}
+{"id": 2614, "text": "What is the object type of the door in medium classroom 0215?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 23, "ATTRIBUTE"], [31, 35, "TYPE"], [39, 60, "LOC-ROOM"]]}
+{"id": 2615, "text": "What is the object type of the door in room 0220?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 23, "ATTRIBUTE"], [31, 35, "TYPE"], [44, 48, "LOC-ROOM"]]}
+{"id": 2616, "text": "What is the height of the door in medium classroom 0225?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "ATTRIBUTE"], [26, 30, "TYPE"], [34, 55, "LOC-ROOM"]]}
+{"id": 2617, "text": "What is the height of the door in room 0230?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "ATTRIBUTE"], [26, 30, "TYPE"], [39, 43, "LOC-ROOM"]]}
+{"id": 2618, "text": "What is the width of the door in the faculty office 0331?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 17, "ATTRIBUTE"], [25, 29, "TYPE"], [37, 56, "LOC-ROOM"]]}
+{"id": 2619, "text": "What is the width of the door in room 0331?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 17, "ATTRIBUTE"], [25, 29, "TYPE"], [38, 42, "LOC-ROOM"]]}
+{"id": 2620, "text": "What's the window's height in room 0110?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 17, "TYPE"], [20, 26, "ATTRIBUTE"], [35, 39, "LOC-ROOM"]]}
+{"id": 2621, "text": "What's the window's width in room 0106?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 17, "TYPE"], [20, 25, "ATTRIBUTE"], [34, 38, "LOC-ROOM"]]}
+{"id": 2622, "text": "What's the door's height in room 0206?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 15, "TYPE"], [18, 24, "ATTRIBUTE"], [33, 37, "LOC-ROOM"]]}
+{"id": 2623, "text": "What's the door's width in room 0204?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 15, "TYPE"], [18, 23, "ATTRIBUTE"], [32, 36, "LOC-ROOM"]]}
+{"id": 2624, "text": "What is the window's height in room 0115?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "TYPE"], [21, 27, "ATTRIBUTE"], [36, 40, "LOC-ROOM"]]}
+{"id": 2625, "text": "What is the window's width in room 0125?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "TYPE"], [21, 26, "ATTRIBUTE"], [35, 39, "LOC-ROOM"]]}
+{"id": 2626, "text": "What is the door's height in room 0136?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "TYPE"], [19, 25, "ATTRIBUTE"], [34, 38, "LOC-ROOM"]]}
+{"id": 2627, "text": "What is the door's width in room 0138?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "TYPE"], [19, 24, "ATTRIBUTE"], [33, 37, "LOC-ROOM"]]}
+{"id": 2628, "text": "What's the window's height in the shop?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 17, "TYPE"], [20, 26, "ATTRIBUTE"], [34, 38, "LOC-ROOM"]]}
+{"id": 2629, "text": "What's the window's width in the main conference room?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 17, "TYPE"], [20, 25, "ATTRIBUTE"], [33, 48, "LOC-ROOM"]]}
+{"id": 2630, "text": "What's the door's height in storage 0343?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 15, "TYPE"], [18, 24, "ATTRIBUTE"], [28, 40, "LOC-ROOM"]]}
+{"id": 2631, "text": "What's the door's width in the room of office manager?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 15, "TYPE"], [18, 23, "ATTRIBUTE"], [39, 53, "LOC-ROOM"]]}
+{"id": 2632, "text": "What's the door's object type in the room of c299a?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 15, "TYPE"], [18, 29, "ATTRIBUTE"], [45, 50, "LOC-ROOM"]]}
+{"id": 2633, "text": "What is the door's object type in the room of C299A?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "TYPE"], [19, 30, "ATTRIBUTE"], [46, 51, "LOC-ROOM"]]}
+{"id": 2634, "text": "What's the door's object type in the 0245a room?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 15, "TYPE"], [18, 29, "ATTRIBUTE"], [37, 42, "LOC-ROOM"]]}
+{"id": 2635, "text": "What is the door's object type in the 0246A room?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "TYPE"], [19, 30, "ATTRIBUTE"], [38, 43, "LOC-ROOM"]]}
+{"id": 2636, "text": "What's the window's object type in 0345a room?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 17, "TYPE"], [20, 31, "ATTRIBUTE"], [35, 40, "LOC-ROOM"]]}
+{"id": 2637, "text": "What is the window's object type in 0305A room?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "TYPE"], [21, 32, "ATTRIBUTE"], [36, 41, "LOC-ROOM"]]}
+{"id": 2638, "text": "What's the window's object type in 0334 room?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 17, "TYPE"], [20, 31, "ATTRIBUTE"], [35, 39, "LOC-ROOM"]]}
+{"id": 2639, "text": "What is the window's object type in 0320 room?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "TYPE"], [21, 32, "ATTRIBUTE"], [36, 40, "LOC-ROOM"]]}
+{"id": 2640, "text": "What's the window's object type in S198A room?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 17, "TYPE"], [20, 31, "ATTRIBUTE"], [35, 40, "LOC-ROOM"]]}
+{"id": 2641, "text": "What is the window's object type in s198a room?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "TYPE"], [21, 32, "ATTRIBUTE"], [36, 41, "LOC-ROOM"]]}
+{"id": 2642, "text": "Tell me the door's object type in computer lab.", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "TYPE"], [19, 30, "ATTRIBUTE"], [34, 46, "LOC-ROOM"]]}
+{"id": 2643, "text": "Tell me the door's width in grad studio.", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "TYPE"], [19, 24, "ATTRIBUTE"], [28, 39, "LOC-ROOM"]]}
+{"id": 2644, "text": "Tell me the window's height in medium classroom 0225.", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "TYPE"], [21, 27, "ATTRIBUTE"], [31, 52, "LOC-ROOM"]]}
+{"id": 2645, "text": "Tell me the door's object type in the computer lab.", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "TYPE"], [19, 30, "ATTRIBUTE"], [38, 50, "LOC-ROOM"]]}
+{"id": 2646, "text": "Tell me the door's width in the grad studio.", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "TYPE"], [19, 24, "ATTRIBUTE"], [32, 43, "LOC-ROOM"]]}
+{"id": 2647, "text": "Tell me the window's height in medium classroom 0227.", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "TYPE"], [21, 27, "ATTRIBUTE"], [31, 52, "LOC-ROOM"]]}
+{"id": 2648, "text": "Tell me the window's object type in the plan room.", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "TYPE"], [21, 32, "ATTRIBUTE"], [40, 44, "LOC-ROOM"]]}
+{"id": 2649, "text": "Tell me the window's width in the large classroom.", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "TYPE"], [21, 26, "ATTRIBUTE"], [34, 49, "LOC-ROOM"]]}
+{"id": 2650, "text": "Tell me the windows' object type in the faculty office.", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 19, "TYPE"], [21, 32, "ATTRIBUTE"], [40, 54, "LOC-ROOM"]]}
+{"id": 2651, "text": "Tell me the door's height in faculty office.", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "TYPE"], [19, 25, "ATTRIBUTE"], [29, 43, "LOC-ROOM"]]}
+{"id": 2652, "text": "Tell me the door's object type in men's room.", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "TYPE"], [19, 30, "ATTRIBUTE"], [34, 37, "LOC-ROOM"]]}
+{"id": 2653, "text": "Tell me the door's width in women's room.", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "TYPE"], [19, 24, "ATTRIBUTE"], [28, 33, "LOC-ROOM"]]}
+{"id": 2654, "text": "Tell me the window's height in the men's room.", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "TYPE"], [21, 27, "ATTRIBUTE"], [35, 38, "LOC-ROOM"]]}
+{"id": 2655, "text": "Tell me the door's object type in the women's room.", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "TYPE"], [19, 30, "ATTRIBUTE"], [38, 43, "LOC-ROOM"]]}
+{"id": 2656, "text": "Tell me the door's width in the interview room.", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "TYPE"], [19, 24, "ATTRIBUTE"], [32, 41, "LOC-ROOM"]]}
+{"id": 2657, "text": "Tell me the window's height in the room for interviews.", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "TYPE"], [21, 27, "ATTRIBUTE"], [44, 54, "LOC-ROOM"]]}
+{"id": 2658, "text": "Tell me the window's object type in the room for interviews.", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "TYPE"], [21, 32, "ATTRIBUTE"], [49, 59, "LOC-ROOM"]]}
+{"id": 2659, "text": "Tell me the window's width in the room for interviews.", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[43, 53, "LOC-ROOM"], [12, 18, "TYPE"], [21, 26, "ATTRIBUTE"]]}
+{"id": 2660, "text": "Tell me the windows' object type in faculty office 0332.", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 19, "TYPE"], [21, 32, "ATTRIBUTE"], [36, 55, "LOC-ROOM"]]}
+{"id": 2661, "text": "Tell me the door's height in the room of the construction lab.", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "TYPE"], [19, 25, "ATTRIBUTE"], [45, 61, "LOC-ROOM"]]}
+{"id": 2662, "text": "Tell me the window's overall height in the room for career office.", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "TYPE"], [21, 35, "ATTRIBUTE"], [52, 65, "LOC-ROOM"]]}
+{"id": 2663, "text": "Tell me the door's overall height in the room for director.", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "TYPE"], [19, 33, "ATTRIBUTE"], [50, 58, "LOC-ROOM"]]}
+{"id": 2664, "text": "Tell me the window's overall width in the room for journal editor.", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "TYPE"], [21, 34, "ATTRIBUTE"], [51, 65, "LOC-ROOM"]]}
+{"id": 2665, "text": "Tell me the door's overall width in the room for shop.", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[19, 32, "ATTRIBUTE"], [49, 53, "LOC-ROOM"], [12, 16, "TYPE"]]}
+{"id": 2666, "text": "Tell me the window's height in the room for server.", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "TYPE"], [21, 27, "ATTRIBUTE"], [44, 50, "LOC-ROOM"]]}
+{"id": 2667, "text": "Tell me the door's width in the room for construction lab.", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "TYPE"], [19, 24, "ATTRIBUTE"], [41, 57, "LOC-ROOM"]]}
+{"id": 2668, "text": "Tell me the window's object type in the room for men.", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "TYPE"], [21, 32, "ATTRIBUTE"], [49, 52, "LOC-ROOM"]]}
+{"id": 2669, "text": "Tell me the door's object type in the room for women.", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "TYPE"], [19, 30, "ATTRIBUTE"], [47, 52, "LOC-ROOM"]]}
+{"id": 2670, "text": "What is the object type of the window in the room for tech services?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 23, "ATTRIBUTE"], [31, 37, "TYPE"], [54, 67, "LOC-ROOM"]]}
+{"id": 2671, "text": "What is the object type of the door in the room for shower?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 23, "ATTRIBUTE"], [31, 35, "TYPE"], [52, 58, "LOC-ROOM"]]}
+{"id": 2672, "text": "What is the overall height of the door in the room for information tech?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 26, "ATTRIBUTE"], [34, 38, "TYPE"], [55, 71, "LOC-ROOM"]]}
+{"id": 2673, "text": "What is the overallheight of the door in the room of information tech?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 25, "ATTRIBUTE"], [33, 37, "TYPE"], [53, 69, "LOC-ROOM"]]}
+{"id": 2674, "text": "What is the overall width of the window in the room for office manager?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 25, "ATTRIBUTE"], [33, 39, "TYPE"], [56, 70, "LOC-ROOM"]]}
+{"id": 2675, "text": "What is the overallwidth of the window in the room of office manager?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 24, "ATTRIBUTE"], [32, 38, "TYPE"], [54, 68, "LOC-ROOM"]]}
+{"id": 2676, "text": "What is the overallheight of the door in the room for conference?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 25, "ATTRIBUTE"], [33, 37, "TYPE"], [54, 64, "LOC-ROOM"]]}
+{"id": 2677, "text": "What is the overallwidth of the door in the room for associate director?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 24, "ATTRIBUTE"], [32, 36, "TYPE"], [53, 71, "LOC-ROOM"]]}
+{"id": 2678, "text": "What is the overall height of the door in the room of associate director?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 26, "ATTRIBUTE"], [34, 38, "TYPE"], [54, 72, "LOC-ROOM"]]}
+{"id": 2679, "text": "What is the height of the door at men 0245?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "ATTRIBUTE"], [26, 30, "TYPE"], [34, 42, "LOC-ROOM"]]}
+{"id": 2680, "text": "What is the width of the door at women 0246?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 17, "ATTRIBUTE"], [25, 29, "TYPE"], [33, 43, "LOC-ROOM"]]}
+{"id": 2681, "text": "What's the window's width in grad studio 0328?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 17, "TYPE"], [20, 25, "ATTRIBUTE"], [29, 45, "LOC-ROOM"]]}
+{"id": 2682, "text": "What's the door's height in grad studio 0326?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 15, "TYPE"], [18, 24, "ATTRIBUTE"], [28, 44, "LOC-ROOM"]]}
+{"id": 2683, "text": "Can you tell me the height of the door located in room 1?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[20, 26, "ATTRIBUTE"], [34, 38, "TYPE"], [55, 56, "LOC-ROOM"]]}
+{"id": 2684, "text": "Can you tell me the width of the door located in room 2?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[20, 25, "ATTRIBUTE"], [33, 37, "TYPE"], [54, 55, "LOC-ROOM"]]}
+{"id": 2685, "text": "Can you tell me the object type of the door located in room 3?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[20, 31, "ATTRIBUTE"], [39, 43, "TYPE"], [60, 61, "LOC-ROOM"]]}
+{"id": 2686, "text": "Can you tell me the objecttype of the door located in room 4?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[20, 30, "ATTRIBUTE"], [38, 42, "TYPE"], [59, 60, "LOC-ROOM"]]}
+{"id": 2687, "text": "Can you tell me the height of the window located in room 5?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[57, 58, "LOC-ROOM"], [20, 26, "ATTRIBUTE"], [34, 40, "TYPE"]]}
+{"id": 2688, "text": "Can you tell me the width of the window located in room 6?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[20, 25, "ATTRIBUTE"], [33, 39, "TYPE"], [56, 57, "LOC-ROOM"]]}
+{"id": 2689, "text": "Can you tell me the object type of the window located in room 7?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[20, 31, "ATTRIBUTE"], [39, 45, "TYPE"], [62, 63, "LOC-ROOM"]]}
+{"id": 2690, "text": "Can you tell me the objecttype of the window located in room 8?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[20, 30, "ATTRIBUTE"], [38, 44, "TYPE"], [61, 62, "LOC-ROOM"]]}
+{"id": 2691, "text": "Can you tell me the door's height which located in room 9?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[20, 24, "TYPE"], [27, 33, "ATTRIBUTE"], [56, 57, "LOC-ROOM"]]}
+{"id": 2692, "text": "Can you tell me the door's width which located in room 10?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[20, 24, "TYPE"], [27, 32, "ATTRIBUTE"], [55, 57, "LOC-ROOM"]]}
+{"id": 2693, "text": "Can you tell me the door's object type which located in room 11?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[20, 24, "TYPE"], [27, 38, "ATTRIBUTE"], [61, 63, "LOC-ROOM"]]}
+{"id": 2694, "text": "Can you tell me the door's objecttype which located in room 12?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[20, 24, "TYPE"], [27, 37, "ATTRIBUTE"], [60, 62, "LOC-ROOM"]]}
+{"id": 2695, "text": "What's the window's height in room of 0331?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 17, "TYPE"], [20, 26, "ATTRIBUTE"], [38, 42, "LOC-ROOM"]]}
+{"id": 2696, "text": "What's the window's width in room of 0329?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 17, "TYPE"], [20, 25, "ATTRIBUTE"], [37, 41, "LOC-ROOM"]]}
+{"id": 2697, "text": "What's the door's height in room of 0327?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 15, "TYPE"], [18, 24, "ATTRIBUTE"], [36, 40, "LOC-ROOM"]]}
+{"id": 2698, "text": "What's the door's width in room of 0325?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 15, "TYPE"], [18, 23, "ATTRIBUTE"], [35, 39, "LOC-ROOM"]]}
+{"id": 2699, "text": "What is the window's height in room of 0323?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "TYPE"], [21, 27, "ATTRIBUTE"], [39, 43, "LOC-ROOM"]]}
+{"id": 2700, "text": "What is the window's width in room of 0309?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "TYPE"], [21, 26, "ATTRIBUTE"], [38, 42, "LOC-ROOM"]]}
+{"id": 2701, "text": "What is the door's height in room of 0307?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "TYPE"], [19, 25, "ATTRIBUTE"], [37, 41, "LOC-ROOM"]]}
+{"id": 2702, "text": "What is the door's width in room of 0315?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "TYPE"], [19, 24, "ATTRIBUTE"], [36, 40, "LOC-ROOM"]]}
+{"id": 2703, "text": "What is the window's object type in room of 0307?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "TYPE"], [21, 32, "ATTRIBUTE"], [44, 48, "LOC-ROOM"]]}
+{"id": 2704, "text": "What is the window's object type in room of 0240?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "TYPE"], [21, 32, "ATTRIBUTE"], [44, 48, "LOC-ROOM"]]}
+{"id": 2705, "text": "What is the door's object type in room of 0307?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "TYPE"], [19, 30, "ATTRIBUTE"], [42, 46, "LOC-ROOM"]]}
+{"id": 2706, "text": "What is the door's object type in room of 0245?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "TYPE"], [19, 30, "ATTRIBUTE"], [42, 46, "LOC-ROOM"]]}
+{"id": 2707, "text": "Tell me the door's object type in apartment 101.", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "TYPE"], [19, 30, "ATTRIBUTE"], [34, 47, "LOC-ROOM"]]}
+{"id": 2708, "text": "Tell me the door's width in apartment 102.", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "TYPE"], [19, 24, "ATTRIBUTE"], [28, 41, "LOC-ROOM"]]}
+{"id": 2709, "text": "Tell me the window's height in apartment 103.", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "TYPE"], [21, 27, "ATTRIBUTE"], [31, 44, "LOC-ROOM"]]}
+{"id": 2710, "text": "Tell me the door's object type in apartment 104.", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "TYPE"], [19, 30, "ATTRIBUTE"], [34, 47, "LOC-ROOM"]]}
+{"id": 2711, "text": "Tell me the door's width in apartment 105.", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "TYPE"], [19, 24, "ATTRIBUTE"], [28, 41, "LOC-ROOM"]]}
+{"id": 2712, "text": "Tell me the window's height in apartment 106.", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "TYPE"], [21, 27, "ATTRIBUTE"], [31, 44, "LOC-ROOM"]]}
+{"id": 2713, "text": "Tell me the window's object type in apartment 107.", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "TYPE"], [21, 32, "ATTRIBUTE"], [36, 49, "LOC-ROOM"]]}
+{"id": 2714, "text": "Tell me the window's width in apartment 108.", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "TYPE"], [21, 26, "ATTRIBUTE"], [30, 43, "LOC-ROOM"]]}
+{"id": 2715, "text": "Tell me the windows' object type in apartment 109.", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 19, "TYPE"], [21, 32, "ATTRIBUTE"], [36, 49, "LOC-ROOM"]]}
+{"id": 2716, "text": "Tell me the door's height in apartment 110.", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "TYPE"], [19, 25, "ATTRIBUTE"], [29, 42, "LOC-ROOM"]]}
+{"id": 2717, "text": "Tell me the door's object type in apartment 301.", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "TYPE"], [19, 30, "ATTRIBUTE"], [34, 47, "LOC-ROOM"]]}
+{"id": 2718, "text": "Tell me the door's width in apartment 302.", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "TYPE"], [19, 24, "ATTRIBUTE"], [28, 41, "LOC-ROOM"]]}
+{"id": 2719, "text": "Tell me the window's height in apartment 303.", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "TYPE"], [21, 27, "ATTRIBUTE"], [31, 44, "LOC-ROOM"]]}
+{"id": 2720, "text": "Tell me the door's object type in apartment 304.", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "TYPE"], [19, 30, "ATTRIBUTE"], [34, 47, "LOC-ROOM"]]}
+{"id": 2721, "text": "Tell me the door's width in apartment 305.", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "TYPE"], [19, 24, "ATTRIBUTE"], [28, 41, "LOC-ROOM"]]}
+{"id": 2722, "text": "Tell me the window's height in apartment 306.", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "TYPE"], [21, 27, "ATTRIBUTE"], [31, 44, "LOC-ROOM"]]}
+{"id": 2723, "text": "Tell me the window's object type in apartment 307.", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "TYPE"], [21, 32, "ATTRIBUTE"], [36, 49, "LOC-ROOM"]]}
+{"id": 2724, "text": "Tell me the window's width in apartment 308.", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "TYPE"], [21, 26, "ATTRIBUTE"], [30, 43, "LOC-ROOM"]]}
+{"id": 2725, "text": "Tell me the windows' object type in apartment 309.", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 19, "TYPE"], [21, 32, "ATTRIBUTE"], [36, 49, "LOC-ROOM"]]}
+{"id": 2726, "text": "Tell me the door's height in apartment 310.", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "TYPE"], [19, 25, "ATTRIBUTE"], [29, 42, "LOC-ROOM"]]}
+{"id": 2727, "text": "What is the elevation of the first floor?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [29, 34, "ENTITY"], [35, 40, "TYPE"]]}
+{"id": 2728, "text": "What's the elevation of the third floor?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 20, "ATTRIBUTE"], [34, 39, "TYPE"], [28, 33, "ENTITY"]]}
+{"id": 2729, "text": "What is the elevation of the fourth floor?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [36, 41, "TYPE"], [29, 35, "ENTITY"]]}
+{"id": 2730, "text": "What's the elevation of the fifth floor?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 20, "ATTRIBUTE"], [34, 39, "TYPE"], [28, 33, "ENTITY"]]}
+{"id": 2731, "text": "What is the elevation of the sixth floor?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [35, 40, "TYPE"], [29, 34, "ENTITY"]]}
+{"id": 2732, "text": "What's the elevation of the seventh floor?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 20, "ATTRIBUTE"], [28, 35, "ENTITY"], [36, 41, "TYPE"]]}
+{"id": 2733, "text": "What is the elevation of the eighth floor?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [29, 35, "ENTITY"], [36, 41, "TYPE"]]}
+{"id": 2734, "text": "What's the elevation of the 1st floor?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 20, "ATTRIBUTE"], [28, 31, "ENTITY"], [32, 37, "TYPE"]]}
+{"id": 2735, "text": "What is the elevation of the 2nd floor?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [29, 32, "ENTITY"], [33, 38, "TYPE"]]}
+{"id": 2736, "text": "What's the elevation of the 3rd floor?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 20, "ATTRIBUTE"], [28, 31, "ENTITY"], [32, 37, "TYPE"]]}
+{"id": 2737, "text": "What is the elevation of the 4th floor?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [29, 32, "ENTITY"], [33, 38, "TYPE"]]}
+{"id": 2738, "text": "What's the elevation of the 5th floor?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 20, "ATTRIBUTE"], [28, 31, "ENTITY"], [32, 37, "TYPE"]]}
+{"id": 2739, "text": "What is the elevation of the 6th floor?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [29, 32, "ENTITY"], [33, 38, "TYPE"]]}
+{"id": 2740, "text": "What's the elevation of the 7th floor?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 20, "ATTRIBUTE"], [28, 31, "ENTITY"], [32, 37, "TYPE"]]}
+{"id": 2741, "text": "What is the elevation of the 8th floor?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [29, 32, "ENTITY"], [33, 38, "TYPE"]]}
+{"id": 2742, "text": "What's the elevation of the 9th floor?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 20, "ATTRIBUTE"], [28, 31, "ENTITY"], [32, 37, "TYPE"]]}
+{"id": 2743, "text": "What is the elevation of the 10th floor?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 21, "ATTRIBUTE"], [29, 33, "ENTITY"], [34, 39, "TYPE"]]}
+{"id": 2744, "text": "What's 1st story's elevation?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 10, "ENTITY"], [11, 16, "TYPE"], [19, 28, "ATTRIBUTE"]]}
+{"id": 2745, "text": "What's 2nd story's elevation?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[19, 28, "ATTRIBUTE"], [7, 10, "ENTITY"], [11, 16, "TYPE"]]}
+{"id": 2746, "text": "What's 3rd story's elevation?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 10, "ENTITY"], [11, 16, "TYPE"], [19, 28, "ATTRIBUTE"]]}
+{"id": 2747, "text": "What's the 4th story's elevation?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 14, "ENTITY"], [15, 20, "TYPE"], [23, 32, "ATTRIBUTE"]]}
+{"id": 2748, "text": "What's the 5th story's elevation?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 14, "ENTITY"], [15, 20, "TYPE"], [23, 32, "ATTRIBUTE"]]}
+{"id": 2749, "text": "What's the 6th story's elevation?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 14, "ENTITY"], [15, 20, "TYPE"], [23, 32, "ATTRIBUTE"]]}
+{"id": 2750, "text": "What is the 7th story's elevation?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 15, "ENTITY"], [16, 21, "TYPE"], [24, 33, "ATTRIBUTE"]]}
+{"id": 2751, "text": "What is the 8th story's elevation?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 15, "ENTITY"], [16, 21, "TYPE"], [24, 33, "ATTRIBUTE"]]}
+{"id": 2752, "text": "What is the 9th story's elevation?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 15, "ENTITY"], [16, 21, "TYPE"], [24, 33, "ATTRIBUTE"]]}
+{"id": 2753, "text": "What is the 10th story's elevation?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "ENTITY"], [17, 22, "TYPE"], [25, 34, "ATTRIBUTE"]]}
+{"id": 2754, "text": "What's 1st building story's elevation?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 10, "ENTITY"], [11, 25, "TYPE"], [28, 37, "ATTRIBUTE"]]}
+{"id": 2755, "text": "What's 2nd building story's elevation?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 10, "ENTITY"], [11, 25, "TYPE"], [28, 37, "ATTRIBUTE"]]}
+{"id": 2756, "text": "What's 3rd building story's elevation?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[7, 10, "ENTITY"], [11, 25, "TYPE"], [28, 37, "ATTRIBUTE"]]}
+{"id": 2757, "text": "What's the 4th building story's elevation?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 14, "ENTITY"], [15, 29, "TYPE"], [32, 41, "ATTRIBUTE"]]}
+{"id": 2758, "text": "What's the 5th building story's elevation?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 14, "ENTITY"], [15, 29, "TYPE"], [32, 41, "ATTRIBUTE"]]}
+{"id": 2759, "text": "What is the 7th building storey's elevation?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 15, "ENTITY"], [16, 31, "TYPE"], [34, 43, "ATTRIBUTE"]]}
+{"id": 2760, "text": "What is the 8th building storey's elevation?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 15, "ENTITY"], [16, 31, "TYPE"], [34, 43, "ATTRIBUTE"]]}
+{"id": 2761, "text": "What is the 9th building storey's elevation?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 15, "ENTITY"], [16, 31, "TYPE"], [34, 43, "ATTRIBUTE"]]}
+{"id": 2762, "text": "What is the 10th building storey's elevation?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "ENTITY"], [17, 32, "TYPE"], [35, 44, "ATTRIBUTE"]]}
+{"id": 2763, "text": "What is the 11th buildingstorey's elevation?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "ENTITY"], [17, 31, "TYPE"], [34, 43, "ATTRIBUTE"]]}
+{"id": 2764, "text": "What's the 12th buildingstorey's elevation?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 15, "ENTITY"], [16, 30, "TYPE"], [33, 42, "ATTRIBUTE"]]}
+{"id": 2765, "text": "What's the 13th buildingstorey's elevation?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 15, "ENTITY"], [16, 30, "TYPE"], [33, 42, "ATTRIBUTE"]]}
+{"id": 2766, "text": "What's the 14th buildingstorey's elevation?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 15, "ENTITY"], [16, 30, "TYPE"], [33, 42, "ATTRIBUTE"]]}
+{"id": 2767, "text": "What's the buildingstorey 15th's elevation?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 25, "TYPE"], [26, 30, "ENTITY"], [33, 42, "ATTRIBUTE"]]}
+{"id": 2768, "text": "What's the buildingstorey 16th's elevation?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 25, "TYPE"], [26, 30, "ENTITY"], [33, 42, "ATTRIBUTE"]]}
+{"id": 2769, "text": "What's the buildingstorey 17th's elevation?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 25, "TYPE"], [26, 30, "ENTITY"], [33, 42, "ATTRIBUTE"]]}
+{"id": 2770, "text": "What's the buildingstorey 18th's elevation?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 25, "TYPE"], [26, 30, "ENTITY"], [33, 42, "ATTRIBUTE"]]}
+{"id": 2771, "text": "What's the overall height of the door in room of office 101?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 25, "ATTRIBUTE"], [33, 37, "TYPE"], [49, 59, "LOC-ROOM"]]}
+{"id": 2772, "text": "What's the overall width of the window in office 102?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 24, "ATTRIBUTE"], [32, 38, "TYPE"], [42, 52, "LOC-ROOM"]]}
+{"id": 2773, "text": "What's the door's overall height in room of office 103?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 15, "TYPE"], [18, 32, "ATTRIBUTE"], [44, 54, "LOC-ROOM"]]}
+{"id": 2774, "text": "What's the window's overall width in office 104?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 17, "TYPE"], [20, 33, "ATTRIBUTE"], [37, 47, "LOC-ROOM"]]}
+{"id": 2775, "text": "What's the object type of the door in office 105?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 22, "ATTRIBUTE"], [30, 34, "TYPE"], [38, 48, "LOC-ROOM"]]}
+{"id": 2776, "text": "What's the object type of the window in office 106?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 22, "ATTRIBUTE"], [30, 36, "TYPE"], [40, 50, "LOC-ROOM"]]}
+{"id": 2777, "text": "What's the overallheight of the door in room of office 101?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 24, "ATTRIBUTE"], [32, 36, "TYPE"], [48, 58, "LOC-ROOM"]]}
+{"id": 2778, "text": "What's the overallwidth of the window in office 102?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 23, "ATTRIBUTE"], [31, 37, "TYPE"], [41, 51, "LOC-ROOM"]]}
+{"id": 2779, "text": "What's the door's overallheight in room of office 103?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 15, "TYPE"], [18, 31, "ATTRIBUTE"], [43, 53, "LOC-ROOM"]]}
+{"id": 2780, "text": "What's the window's overallwidth in office 104?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 17, "TYPE"], [20, 32, "ATTRIBUTE"], [36, 46, "LOC-ROOM"]]}
+{"id": 2781, "text": "What's the objectype of the door in office 105?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 20, "ATTRIBUTE"], [28, 32, "TYPE"], [36, 46, "LOC-ROOM"]]}
+{"id": 2782, "text": "What's the objecttype of the window in office 106?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 21, "ATTRIBUTE"], [29, 35, "TYPE"], [39, 49, "LOC-ROOM"]]}
+{"id": 2783, "text": "What is the door's object type in the office 201?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "TYPE"], [19, 30, "ATTRIBUTE"], [38, 48, "LOC-ROOM"]]}
+{"id": 2784, "text": "What is the door's height in the office 202?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "TYPE"], [19, 25, "ATTRIBUTE"], [33, 43, "LOC-ROOM"]]}
+{"id": 2785, "text": "What is the door's width in the office 203?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "TYPE"], [19, 24, "ATTRIBUTE"], [32, 42, "LOC-ROOM"]]}
+{"id": 2786, "text": "What is the window's object type in the office 201?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "TYPE"], [21, 32, "ATTRIBUTE"], [40, 50, "LOC-ROOM"]]}
+{"id": 2787, "text": "What is the window's height in the office 202?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "TYPE"], [21, 27, "ATTRIBUTE"], [35, 45, "LOC-ROOM"]]}
+{"id": 2788, "text": "What is the window's width in the office 203?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "TYPE"], [21, 26, "ATTRIBUTE"], [34, 44, "LOC-ROOM"]]}
+{"id": 2789, "text": "What's the overall height of the door in room of office 101a?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 25, "ATTRIBUTE"], [33, 37, "TYPE"], [49, 60, "LOC-ROOM"]]}
+{"id": 2790, "text": "What's the overall width of the window in office O102c?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 24, "ATTRIBUTE"], [32, 38, "TYPE"], [42, 54, "LOC-ROOM"]]}
+{"id": 2791, "text": "What's the door's overall height in room of office 103A?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 15, "TYPE"], [18, 32, "ATTRIBUTE"], [44, 55, "LOC-ROOM"]]}
+{"id": 2792, "text": "What's the window's overall width in office O104C?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 17, "TYPE"], [20, 33, "ATTRIBUTE"], [37, 49, "LOC-ROOM"]]}
+{"id": 2793, "text": "What's the object type of the door in office 105F?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 22, "ATTRIBUTE"], [30, 34, "TYPE"], [38, 49, "LOC-ROOM"]]}
+{"id": 2794, "text": "What's the object type of the window in office a106?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 22, "ATTRIBUTE"], [30, 36, "TYPE"], [40, 51, "LOC-ROOM"]]}
+{"id": 2795, "text": "What's the overallheight of the door in room of office c101?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 24, "ATTRIBUTE"], [32, 36, "TYPE"], [48, 59, "LOC-ROOM"]]}
+{"id": 2796, "text": "What's the overallwidth of the window in office B102?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 23, "ATTRIBUTE"], [31, 37, "TYPE"], [41, 52, "LOC-ROOM"]]}
+{"id": 2797, "text": "What's the door's overallheight in room of office C103?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 15, "TYPE"], [18, 31, "ATTRIBUTE"], [43, 54, "LOC-ROOM"]]}
+{"id": 2798, "text": "What's the window's overallwidth in office C104?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 17, "TYPE"], [20, 32, "ATTRIBUTE"], [36, 47, "LOC-ROOM"]]}
+{"id": 2799, "text": "What's the objectype of the door in office a105?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 20, "ATTRIBUTE"], [28, 32, "TYPE"], [36, 47, "LOC-ROOM"]]}
+{"id": 2800, "text": "What's the objecttype of the window in office b106?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 21, "ATTRIBUTE"], [29, 35, "TYPE"], [39, 50, "LOC-ROOM"]]}
+{"id": 2801, "text": "What is the door's object type in the office o201a?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "TYPE"], [19, 30, "ATTRIBUTE"], [38, 50, "LOC-ROOM"]]}
+{"id": 2802, "text": "What is the door's height in the office O202c?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "TYPE"], [19, 25, "ATTRIBUTE"], [33, 45, "LOC-ROOM"]]}
+{"id": 2803, "text": "What is the door's width in the office o203B?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "TYPE"], [19, 24, "ATTRIBUTE"], [32, 44, "LOC-ROOM"]]}
+{"id": 2804, "text": "What is the window's object type in the office o201C?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "TYPE"], [21, 32, "ATTRIBUTE"], [40, 52, "LOC-ROOM"]]}
+{"id": 2805, "text": "What is the window's height in the office O202A?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "TYPE"], [21, 27, "ATTRIBUTE"], [35, 47, "LOC-ROOM"]]}
+{"id": 2806, "text": "What is the window's width in the office O203D?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "TYPE"], [21, 26, "ATTRIBUTE"], [34, 46, "LOC-ROOM"]]}
+{"id": 2807, "text": "What is the door's operationtype in the office o201a?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "TYPE"], [19, 32, "ATTRIBUTE"], [40, 52, "LOC-ROOM"]]}
+{"id": 2808, "text": "What is the door's operation type in the office O202c?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "TYPE"], [19, 33, "ATTRIBUTE"], [41, 53, "LOC-ROOM"]]}
+{"id": 2809, "text": "What is the door's operationtype in the office o203B?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 16, "TYPE"], [19, 32, "ATTRIBUTE"], [40, 52, "LOC-ROOM"]]}
+{"id": 2810, "text": "What is the window's operation type in the office o201C?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "TYPE"], [21, 35, "ATTRIBUTE"], [43, 55, "LOC-ROOM"]]}
+{"id": 2811, "text": "What is the window's operationtype in the office O202A?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "TYPE"], [21, 34, "ATTRIBUTE"], [42, 54, "LOC-ROOM"]]}
+{"id": 2812, "text": "What is the window's operation type in the office O203D?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[12, 18, "TYPE"], [21, 35, "ATTRIBUTE"], [43, 55, "LOC-ROOM"]]}
+{"id": 2813, "text": "What's the operation type of the door in apartment 0301?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 25, "ATTRIBUTE"], [33, 37, "TYPE"], [41, 55, "LOC-ROOM"]]}
+{"id": 2814, "text": "What's the operation type of the window in apartment 0302?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 25, "ATTRIBUTE"], [33, 39, "TYPE"], [43, 57, "LOC-ROOM"]]}
+{"id": 2815, "text": "What's the operationtype of the door in apartment 0303?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 24, "ATTRIBUTE"], [32, 36, "TYPE"], [40, 54, "LOC-ROOM"]]}
+{"id": 2816, "text": "What's the operationtype of the window in apartment 0304?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 24, "ATTRIBUTE"], [32, 38, "TYPE"], [42, 56, "LOC-ROOM"]]}
+{"id": 2817, "text": "What's the operation type of the door in apartment 0305?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 25, "ATTRIBUTE"], [33, 37, "TYPE"], [41, 55, "LOC-ROOM"]]}
+{"id": 2818, "text": "What's the operation type of the window in apartment 0306?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 25, "ATTRIBUTE"], [33, 39, "TYPE"], [43, 57, "LOC-ROOM"]]}
+{"id": 2819, "text": "What's the door's operation type in the office s203b?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 15, "TYPE"], [18, 32, "ATTRIBUTE"], [40, 52, "LOC-ROOM"]]}
+{"id": 2820, "text": "What's the window's operationtype in the office s201c?", "meta": {}, "annotation_approver": "admin", "comments": [], "labels": [[11, 17, "TYPE"], [20, 33, "ATTRIBUTE"], [41, 53, "LOC-ROOM"]]}
