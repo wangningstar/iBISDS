@@ -24,19 +24,19 @@ What is the elevation of buildingstorey T.O. PARAPET?,196.67 feet
 How many feet of T.O. PARAPET?,196.67
 What is floor 00 MECH RM T.O. SLAB's elevation?,147.0 feet
 How high is floor 00 MECH RM T.O. SLAB?,147.0 feet
-How many feet of storey 00 MECH RM T.O. SLAB?,147.0
+How many feet of storey 00 MECH RM T.O. SLAB?,147
 How high is floor T.O. PARAPET?,196.67 feet
 What is the height of storey 00 MECH RM T.O. SLAB?,147.0 feet
 How high of the floor T.O. Footing Elev?,150.0 feet
 What is the T.O. Footing Elev's elevation?,150.0 feet
-How many feet of T.O. Footing Elev?,150.0
+How many feet of T.O. Footing Elev?,150
 What is the elevation of floor B.O. Footing?,151.0 feet
 What is the B.O. Footing's elevation?,151.0 feet
 What is the elevation of buildingstorey T.O. Footing?,153.0 feet
 What is storey T.O. Footing's elevation,153.0 feet
 What is the buildingstorey 01 FL 01 T.O. SLAB' elevation?,155.0 feet
 What is the height of 01 FL 01 T.O. SLAB?,155.0 feet
-How many feet of floor 01 FL 01 T.O. SLAB?,155.0
+How many feet of floor 01 FL 01 T.O. SLAB?,155
 What is the height of floor MECH RM ROOF?,164.33 feet
 How elevated of the storey of MECH RM ROOF?,164.33 feet
 How many feet of MECH RM ROOF?,164.33
@@ -44,7 +44,7 @@ What is the elevation of FL 02 t.o. Structure?,168.666666666667 feet
 What is floor FL 02 t.o. Structure's elevation?,168.666666666667 feet
 What is the elevation of 02 FL 02 T.O. SLAB?,169.0 feet
 What is storey 02 FL 02 T.O. SLAB's elevation?,169.0 feet
-How many feet of 02 FL 02 T.O. SLAB?,169.0
+How many feet of 02 FL 02 T.O. SLAB?,169
 What is the elevation of floor FL 03 t.o. Structure?,181.166666666667 feet
 What is storey FL 03 t.o. Structure's elevation?,181.166666666667 feet
 How elevated of floor 03 FL 03 T.O. SLAB?,181.5 feet
@@ -99,10 +99,3 @@ What is the objecttype of wall 452604?,Basic Wall:Bathroom Wall-Tile-Rinker
 What is type of wall 452604?,Basic Wall:Bathroom Wall-Tile-Rinker
 What is the type of wall 467131?,Basic Wall:Interior - W006-Wall-RINKER
 What is the objecttype of ifcwall 467156?,Basic Wall:Interior -W103-Rated Wall( 1-hr)-RINKER
-What is the author's name?, Ning Wang
-What is the author's email?, n.wang@ufl.edu
-What is the organization?, University of Florida
-What is the authorization?, Ning_University of Florida
-What is the project number?, 2016332
-
-What is the length unit?
