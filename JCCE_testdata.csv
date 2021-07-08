@@ -1,0 +1,81 @@
+,model,query,truth,pre
+0,Sample1.ifc,What is model's creation date?,The model creation date is Thu Dec 03 21:53:27 2020.,The model creation date is thu dec 03 21:53:27 2020.
+1,Sample1.ifc, Can you tell me the schema?,The schema is IFC4.,The schema is ifc4.
+2,Sample1.ifc,What is model's schema?,The model schema is IFC4.,The model schema is ifc4.
+3,Sample1.ifc,Who is the host?,The host is Ning-PC.,The host is ning-pc.
+4,Sample1.ifc,model's date.,The model date is Thu Dec 03 21:53:27 2020.,The model date is thu dec 03 21:53:27 2020.
+5,Sample1.ifc,What is the height of the second floor?,The height of the second floor is 10.0 feet.,The height of the second floor is 10.0 feet.
+6,Sample1.ifc,What is the elevation of the second floor?,The elevation of the second floor is 10.0 feet.,The elevation of the second floor is 10.0 feet.
+7,Sample1.ifc,Tell me height of the second level.,The height of the second level is 10.0 feet.,The height of the second level is 10.0 feet.
+8,Sample1.ifc,Tell me the elevation of the second level.,The elevation of the second level is 10.0 feet.,The elevation of the second level is 10.0 feet.
+9,Sample1.ifc,Elevation of the level 3.,The elevation of the level 3 is 20.0 feet.,The Elevation of the level 3 is 20.0 feet.
+10,Sample1.ifc,What is the Elevation of level 3?,The elevation of the level 3 is 20.0 feet.,The Elevation of the level 3 is 20.0 feet.
+11,Sample1.ifc,What is the width of window 1?,The width of the window 1 is 3.0 feet.,The width of the window 1 is 3.0 feet.
+12,Sample1.ifc,What is the height of window 1?,The height of the window 1 is 4.0 feet.,The height of the window 1 is 4.0 feet.
+13,Sample1.ifc,What is the type of window 1?,"The type of the window 1 is Fixed:36"" x 48"".","The type of the window 1 is fixed:36"" x 48""."
+14,Sample1.ifc,Tell me the type of window 1.,"The type of the window 1 is Fixed:36"" x 48"".","The type of the window 1 is fixed:36"" x 48""."
+15,Sample1.ifc,What is the width of door 1?,The width of the door 1 is 2.83333333333333 feet.,The width of the door 1 is 2.83333333333333 feet.
+16,Sample1.ifc,Tell me the type of door 1.,"The type of the door 1 is Single-Flush:34"" x 80"".","The type of the door 1 is single-flush:34"" x 80""."
+17,Sample1.ifc,What is the height of door 1?,The height of the door 1 is 6.66666666666667 feet.,The height of the door 1 is 6.66666666666667 feet.
+18,Sample1.ifc,Identify the height of the door 312.,The height of the door 312 is 6.66666666666667 feet.,The height of the door 312 is 6.66666666666667 feet.
+19,Sample1.ifc,What is the width of door 312?,The width of the door 312 is 2.83333333333333 feet.,The width of the door 312 is 2.83333333333333 feet.
+20,Sample1.ifc,type of door 312,"The type of the door 312 is Single-Flush:34"" x 80"".","The type of the door 312 is single-flush:34"" x 80""."
+21,VDC.ifc,What is model's creation date?,The model creation date is Mon Oct 12 15:11:50 2020.,The model creation date is mon oct 12 15:11:50 2020.
+22,VDC.ifc, Can you tell me the schema?,The schema is IFC4.,The schema is ifc4.
+23,VDC.ifc,What is model's schema?,The model schema is IFC4.,The model schema is ifc4.
+24,VDC.ifc,Who is the host?,The host is Ning-PC.,The host is ning-pc.
+25,VDC.ifc,model's date.,The model date is Mon Oct 12 15:11:50 2020.,The model date is mon oct 12 15:11:50 2020.
+26,VDC.ifc,What is the height of story 2?,The height of the story 2 is 15.0 feet.,The height of the story 2 is 6.66666666666667 feet.
+27,VDC.ifc,What is the elevation of story 3?,The elevation of the story 3 is 30.0 feet.,The elevation of the story 3 is 6.66666666666667 feet.
+28,VDC.ifc,Tell me elevation of story 2.,The elevation of the story 2 is 15.0 feet.,The elevation of the story 2 is 6.66666666666667 feet.
+29,VDC.ifc,What is the elevation of level 3?,The elevation of the level 3 is 30.0 feet.,The elevation of the level 3 is 45.0 feet.
+30,VDC.ifc,What is the elevation of level 2?,The elevation of the level 2 is 15.0 feet.,The elevation of the level 2 is 45.0 feet.
+31,VDC.ifc,What is the elevation of level 4?,The elevation of the level 4 is 45.0 feet.,The elevation of the level 4 is 45.0 feet.
+32,VDC.ifc,What is the type of window 400883?,"The type of the window 400883 is Window-Casement-Triple-Side-Transom:B2020100_Triple Side WIndow_B_85"" x 60"".","The type of the window 400883 is window-casement-triple-side-transom:b2020100_triple side window_b_85"" x 60""."
+33,VDC.ifc,Tell me the height of window 400883?,The height of the window 400883 is 4.99999999999999 feet.,The height of the window 400883 is 4.99999999999999 feet.
+34,VDC.ifc,What is the width of window 400883?,The width of the window 400883 is 7.08333333333331 feet.,The width of the window 400883 is 7.08333333333331 feet.
+35,VDC.ifc,What is the type of window 400928?,"The type of the window 400928 is Window-Casement-Triple-Side-Transom:B2020100_Triple Side WIndow_B_85"" x 60"".","The type of the window 400928 is window-casement-triple-side-transom:b2020100_triple side window_b_85"" x 60""."
+36,VDC.ifc,Tell me the height of window 400928?,The height of the window 400928 is 4.99999999999999 feet.,The height of the window 400928 is 4.99999999999999 feet.
+37,VDC.ifc,What is the width of window 400928?,The width of the window 400928 is 7.08333333333331 feet.,The width of the window 400928 is 7.08333333333331 feet.
+38,VDC.ifc,What is the type of door 391688?,The type of the door 391688 is Door-Curtain-Wall-Single-Glass:B2030100_ Single Glass Door.,"The type of the door 391688 is door-passage-single-flush:b2030200_door passage single flush_36"" x 80""."
+39,VDC.ifc,Tell me the width of door 391688.,The width of the door 391688 is 4.16005041002317 feet.,The width of the door 391688 is 3.33333333333334 feet.
+40,VDC.ifc,What is the height of door 391688?,The height of the door 391688 is 9.89583333333334 feet.,The height of the door 391688 is 7.0 feet.
+41,Rinker arch.ifc,What is model's creation date?,The model creation date is Mon Oct 12 15:13:18 2020.,The model creation date is mon oct 12 15:13:18 2020.
+42,Rinker arch.ifc,Can you tell me the schema?,The schema is IFC4.,The schema is ifc4.
+43,Rinker arch.ifc,What is model's schema?,The model schema is IFC4.,The model schema is ifc4.
+44,Rinker arch.ifc,Who is the host?,The host is Ning-PC.,The host is ning-pc.
+45,Rinker arch.ifc,model's date.,The model date is Mon Oct 12 15:13:18 2020.,The model date is mon oct 12 15:13:18 2020.
+46,Rinker arch.ifc,What is the height of level 2?,The height of the level 2 is 155.0 feet.,The height of the level 2 is 155.0 feet.
+47,Rinker arch.ifc,What is the elevation of level 2?,The elevation of the level 2 is 155.0 feet.,The elevation of the level 2 is 155.0 feet.
+48,Rinker arch.ifc,Tell me  the height of floor 1.,The height of the floor 1 is 147.0 feet.,The height of the floor 1 is 155.0 feet.
+49,Rinker arch.ifc,Tell me the elevation of floor 1.,The elevation of the floor 1 is 147.0 feet.,The elevation of the floor 1 is 155.0 feet.
+50,Rinker arch.ifc,What is the type of window 587151?,The type of the window 587151 is Louver2:Louver.,The type of the window 587151 is louver2:louver.
+51,Rinker arch.ifc,What is the height of window 587151?,The height of the window 587151 is 3.27013421317488 feet.,The height of the window 587151 is 3.27013421317488 feet.
+52,Rinker arch.ifc,Tell me the width of window 587151.,The width of the window 587151 is 3.6875 feet.,The width of the window 587151 is 3.6875 feet.
+53,Rinker arch.ifc,What is the type of window 587298?,The type of the window 587298 is Louver4:Louver.,The type of the window 587298 is louver4:louver.
+54,Rinker arch.ifc,Tell me the height of window 587298.,The height of the window 587298 is 3.27013421317488 feet.,The height of the window 587298 is 3.27013421317488 feet.
+55,Rinker arch.ifc,What is the width of window 587298?,The width of the window 587298 is 3.6875 feet.,The width of the window 587298 is 3.6875 feet.
+56,Rinker arch.ifc,What is the type of door 628706?,"The type of the door 628706 is Single-Flush Vision:C- 6""8x3""0.",The type of the door 628706 is single-flush vision:c- 68x30.
+57,Rinker arch.ifc,Tell me the height of door 628706.,The height of the door 628706 is 6.66666666666666 feet.,The height of the door 628706 is 6.66666666666666 feet.
+58,Rinker arch.ifc,The width of door 628706,The width of the door 628706 is 2.99999999999999 feet.,The width of the door 628706 is 2.99999999999999 feet.
+59,Rinker arch.ifc,What is the height of door 630352?,The height of the door 630352 is 6.91666666666666 feet.,The height of the door 630352 is 6.91666666666666 feet.
+60,Rinker arch.ifc,Tell me the width of door 630352.,The width of the door 630352 is 3.5 feet.,The width of the door 630352 is 3.5 feet.
+61,Airport.ifc,What is model's creation date?,The model creation date is Wed Jul 08 15:29:35 2020.,The model creation date is wed jul 08 15:29:35 2020.
+62,Airport.ifc, Can you tell me the schema?,The schema is IFC4.,The schema is ifc4.
+63,Airport.ifc,What is model's schema?,The model schema is IFC4.,The model schema is ifc4.
+64,Airport.ifc,Who is the host?,The host is DESKTOP-PG8TEJL.,The host is desktop-pg8tejl.
+65,Airport.ifc,model's date.,The model date is Wed Jul 08 15:29:35 2020.,The model date is wed jul 08 15:29:35 2020.
+66,Airport.ifc,What is the elevation of the story 1?,The elevation of the story 1 is 84.5 feet.,The elevation of the story 1 is 6.91666666666666 feet.
+67,Airport.ifc,What is the height of the floor 1?,The height of the floor 1 is 84.5 feet.,The height of the floor 1 is 84.5 feet.
+68,Airport.ifc,Tell me the elevation of level 03.,The elevation of the level 03 is 111.0 feet.,The elevation of the level 03 is 111.0 feet.
+69,Airport.ifc,What is the height of floor 03?,The height of the floor 03 is 111.0 feet.,The height of the floor 03 is 111.0 feet.
+70,Airport.ifc,What is the elevation of level 2?,The elevation of the level 2 is 86.0000000000001 feet.,The elevation of the level 2 is 86.0000000000001 feet.
+71,Airport.ifc,What is the type of door 1379794?,The type of the door 1379794 is 081000-MLM-DOUBLEDOOR:081000-MLM-DOUBLEDOOR.,The type of the door 1379794 is 083323-cornell coil door:100 series unidierctional.
+72,Airport.ifc,Tell me the height of door 1379794.,The height of the door 1379794 is 8.0 feet.,The height of the door 1379794 is 10.0037356321838 feet.
+73,Airport.ifc,What is the width of door 1379794?,The width of the door 1379794 is 8.00000000000006 feet.,The width of the door 1379794 is 10.0 feet.
+74,Airport.ifc,The type of door 2939322,The type of the door 2939322 is 081000-MLM-SINGLEDOOR:081000-MLM-SINGLEDOOR.,The type of the door 2939322 is 081000-mlm-singledoor:081000-mlm-singledoor.
+75,Airport.ifc,The height of door 2939322,The height of the door 2939322 is 8.0 feet.,The height of the door 2939322 is 8.0 feet.
+76,Airport.ifc,The width of door 2939322,The width of the door 2939322 is 3.33333333333327 feet.,The width of the door 2939322 is 3.33333333333327 feet.
+77,Airport.ifc,Tell me the type of door 2939440.,The type of the door 2939440 is 081000-MLM-SINGLEDOOR:081000-MLM-SINGLEDOOR.,The type of the door 2939440 is 081000-mlm-singledoor:081000-mlm-singledoor.
+78,Airport.ifc,What is the height of door 2939440?,The height of the door 2939440 is 8.0 feet.,The height of the door 2939440 is 8.0 feet.
+79,Airport.ifc,What is the width of door 2939440?,The width of the door 2939440 is 3.33333333333327 feet.,The width of the door 2939440 is 3.33333333333327 feet.
