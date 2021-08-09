@@ -4,17 +4,17 @@ Tell me the door's overall height in the room for director.,ATT-DOOR
 Tell me the door's width in the room for construction lab.,ATT-DOOR
 What's the elevation of the 5th floor?,ATT-STOREY
 What's the 13th buildingstorey's elevation?,ATT-STOREY
-How many doors with double glass on 02 FL 02 top of SLAB?,QTY-DOOR
+How many doors with double glass are there on 02 FL 02 top of SLAB?,QTY-DOOR
 What are the quantities of women restrooms on floor FL 02 t.o. Structure?,QTY-ROOM
 What are the quantities of storage rooms on T.O. Footing Elev?,QTY-ROOM
 What is the object type of the door in the room for shower?,ATT-DOOR
 How high is louver 21?,ATT-WINDOW
 What are the numbers of double flush doors in classroom 0112?,QTY-DOOR
-"In interview 0141 room, how many doors of single flush b in there?",QTY-DOOR
+"In interview 0141 room, how many doors of single flush b are there?",QTY-DOOR
 "In the medium classroom 0225, there are how many windows?",QTY-WINDOW
 "In the room 0110, there are how many double doors?",QTY-DOOR
 "In the room of classroom 0110, there are how many single flush doors?",QTY-DOOR
-How many windows on FL 02 t.o. Structure?,QTY-WINDOW
+How many windows are there on FL 02 t.o. Structure?,QTY-WINDOW
 What's the height of window 175055?,ATT-WINDOW
 What is the elevation of level 3?,ATT-STOREY
 Calculate fixed windows' numbers.,QTY-WINDOW
@@ -42,10 +42,10 @@ What is the width of the door in the faculty office 0331?,ATT-DOOR
 Is there a grad studio in T.O. STEEL?,QTY-ROOM
 Does t.o. footing elev contain a door of single flush g?,QTY-DOOR
 Is there a storage room on FL 03 t.o. Structure?,QTY-ROOM
-How many doors of double glass D on FL 03 t.o. Structure?,QTY-DOOR
+How many doors of double glass D are there on FL 03 t.o. Structure?,QTY-DOOR
 What are the quantities of medium classrooms in FL 02 t.o. Structure?,QTY-ROOM
 What is the door's width in the office o203B?,ATT-DOOR
-How many men restrooms are in level T.O. STEEL?,QTY-ROOM
+How many men restrooms are there in level T.O. STEEL?,QTY-ROOM
 What's the name of the length unit?,ATT-UNIT
 Tell me the door's object type in apartment 304.,ATT-DOOR
 What are the numbers of doors on floor FL 03 t.o. Structure?,QTY-DOOR
@@ -53,32 +53,32 @@ Does the level top of steel contain a double flush door?,QTY-DOOR
 "In the room 0110, there are how many single flush f doors?",QTY-DOOR
 Does the classroom 0210 have a casement?,QTY-WINDOW
 Tell me the objecttype of door with a tag of 308454.,ATT-DOOR
-"In the room 0230, how many single flush doors in there?",QTY-DOOR
-How many doors of double flush in medium classroom 0215?,QTY-DOOR
+"In the room 0230, how many single flush doors are there?",QTY-DOOR
+How many doors of double flush are there in medium classroom 0215?,QTY-DOOR
 What's the objecttype of the window in office b106?,ATT-WINDOW
-How many doors of double flush are in classroom 0110?,QTY-DOOR
+How many doors of double flush are there in classroom 0110?,QTY-DOOR
 Is there a door in room 108?,QTY-DOOR
 Is there a fixed Rinker window in the building?,QTY-WINDOW
 What is the door's height in room of 0307?,ATT-DOOR
 "In the room 0323, there are how many double doors?",QTY-DOOR
 What is the overallwidth of casement?,ATT-WINDOW
-How many women's rooms are in the building?,QTY-ROOM
-How many doors are in room 104?,QTY-DOOR
+How many women's rooms are there in the building?,QTY-ROOM
+How many doors are there in room 104?,QTY-DOOR
 Is there a large classroom in T.O. STEEL?,QTY-ROOM
 What's level 3's elevation?,ATT-STOREY
-How many louver 16 are in the building?,QTY-WINDOW
-How many women's rooms are at 01 FL 01 T.O. SLAB?,QTY-ROOM
+How many louver 16 are there in the building?,QTY-WINDOW
+How many women's rooms are there at 01 FL 01 T.O. SLAB?,QTY-ROOM
 Is there a janitor room in the model?,QTY-ROOM
 What is the window's width in the office 203?,ATT-WINDOW
 What are the quantities of louvers on 00 mech rm t.o. slab?,QTY-WINDOW
 Tell me the window's height in medium classroom 0225.,ATT-WINDOW
 What's level 5's elevation?,ATT-STOREY
 "In the room 0322, there are how many single flush doors?",QTY-DOOR
-How many single flush h doors are on 03 fl 03 top of slab?,QTY-DOOR
+How many single flush h doors are there on 03 fl 03 top of slab?,QTY-DOOR
 What's window 392178's overall height?,ATT-WINDOW
 Does the floor 01 fl 01 t.o. slab have a fixed window?,QTY-WINDOW
 Is there a door of single flush a in medium classroom 0217?,QTY-DOOR
-"In the room of classroom 0112, how many doors of single flush A in there?",QTY-DOOR
+"In the room of classroom 0112, how many doors of single flush A are there?",QTY-DOOR
 How high is floor T.O. PARAPET?,ATT-STOREY
 What is the 8th story's elevation?,ATT-STOREY
 How many feet wide is window 597164?,ATT-WINDOW
@@ -90,21 +90,21 @@ What's 3rd story's elevation?,ATT-STOREY
 What's the elevation of the third floor?,ATT-STOREY
 What are the three construction subsectors?,OOD
 "In the room 0230, there are how many doors?",QTY-DOOR
-How many doors are in the model?,QTY-DOOR
+How many doors are there in the model?,QTY-DOOR
 What is the name of area unit?,ATT-UNIT
 Is there a door in room 107?,QTY-DOOR
 What is the height of louver 1?,ATT-WINDOW
-How many ladies' rooms are on level 03 FL 03 T.O. SLAB?,QTY-ROOM
-How many windows are in room 302?,QTY-WINDOW
-"In the room of large classroom 0110, how many doors of single flush in there?",QTY-DOOR
-How many large classrooms are on T.O. PARAPET?,QTY-ROOM
-How many medium classrooms are at level 01 FL 01 T.O. SLAB?,QTY-ROOM
+How many ladies' rooms are there on level 03 FL 03 T.O. SLAB?,QTY-ROOM
+How many windows are there in room 302?,QTY-WINDOW
+"In the room of large classroom 0110, how many doors of single flush are there?",QTY-DOOR
+How many large classrooms are there on T.O. PARAPET?,QTY-ROOM
+How many medium classrooms are there at level 01 FL 01 T.O. SLAB?,QTY-ROOM
 What are the quantities of windows on FL 02 t.o. Structure?,QTY-WINDOW
 What are the quantities of louver 22 on t.o. footing elevation?,QTY-WINDOW
-How many doors are in the medium classroom 0106?,QTY-DOOR
+How many doors are there in the medium classroom 0106?,QTY-DOOR
 What's building story top of steel's elevation?,ATT-STOREY
 What is the window's overall width of louver 11?,ATT-WINDOW
-How many large classrooms are in FL 02 t.o. Structure?,QTY-ROOM
+How many large classrooms are there in FL 02 t.o. Structure?,QTY-ROOM
 Does the large classroom 0110 contain a single flush door?,QTY-DOOR
 What's the height of window 174054?,ATT-WINDOW
 Does the level t.o. footing elev have a door of single flush G?,QTY-DOOR
@@ -112,43 +112,43 @@ What is the elevation of buildingstorey 3 top of slab?,ATT-STOREY
 Is there a door of single flush a in Room 0217?,QTY-DOOR
 Does the room 0331 have a fixed window?,QTY-WINDOW
 What are the quantities of doors of double glass D in the model?,QTY-DOOR
-How many doors of single flush w are in Room 0214?,QTY-DOOR
+How many doors of single flush w are there in Room 0214?,QTY-DOOR
 What are the quantities of medium classrooms in T.O. STEEL?,QTY-ROOM
 How many feet high is door 307650?,ATT-DOOR
 What are the quantities of fixed rinker windows on mech rm roof?,QTY-WINDOW
-How many single flush doors are on 03 fl 03 t.o. slab?,QTY-DOOR
+How many single flush doors are there on 03 fl 03 t.o. slab?,QTY-DOOR
 Tell me the door's height in the room of the construction lab.,ATT-DOOR
 What's level 1's elevation?,ATT-STOREY
-How many single flush doors on fl 03 t.o. structure?,QTY-DOOR
+How many single flush doors are there on fl 03 t.o. structure?,QTY-DOOR
 "In the room of classroom 0230, there are how many double doors?",QTY-DOOR
 What is the height of casement window?,ATT-WINDOW
 What is the door's height in the office 202?,ATT-DOOR
 What is the door of double glass K's overall height?,ATT-DOOR
 Does the apartment 104 have a door?,QTY-DOOR
-How many fixed rinker windows on 00 MECH RM T.O. SLAB?,QTY-WINDOW
+How many fixed rinker windows are there on 00 MECH RM T.O. SLAB?,QTY-WINDOW
 What's window 391125's height?,ATT-WINDOW
 What's 1st building story's elevation?,ATT-STOREY
 What's building story 02 top of structure's elevation?,ATT-STOREY
-How many classrooms are on FL 03 t.o. Structure?,QTY-ROOM
+How many classrooms are there on FL 03 t.o. Structure?,QTY-ROOM
 How high is the door single flush c?,ATT-DOOR
 The model is host by who?,HEAD
-How many doors of single flush?,QTY-DOOR
-How many doors are in room of 3?,QTY-DOOR
+How many doors of single flush are there?,QTY-DOOR
+How many doors are there in room of 3?,QTY-DOOR
 What are the numbers of doors on floor 03 FL 03 T.O. SLAB?,QTY-DOOR
-How many single doors are on 03 fl 03 t.o. slab?,QTY-DOOR
+How many single doors are there on 03 fl 03 t.o. slab?,QTY-DOOR
 What is the overall width of fixed Rinker?,ATT-WINDOW
 What's the overall width of a door of 563266?,ATT-DOOR
 Does the floor 00 mech rm t.o. slab have a fixed rinker window?,QTY-WINDOW
 How many windows does Room 0212 have?,QTY-WINDOW
 Does the medium classroom 0230 contain a door of single flush d?,QTY-DOOR
-How many louver 11 on t.o. footing elevation?,QTY-WINDOW
+How many louver 11 are there on t.o. footing elevation?,QTY-WINDOW
 What is room 0207's long name?,ATT-ROOM
-How many windows on B.O. Footing?,QTY-WINDOW
+How many windows are there on B.O. Footing?,QTY-WINDOW
 What are the quantities of windows on level 4?,QTY-WINDOW
 Is there a faculty office on 03 FL 03 T.O. SLAB?,QTY-ROOM
-"In the room of medium classroom 0230, how many doors of single flush in there?",QTY-DOOR
-How many double flush doors are in large classroom 0110?,QTY-DOOR
-How many windows on FL 03 t.o. Structure?,QTY-WINDOW
+"In the room of medium classroom 0230, how many doors of single flush are there?",QTY-DOOR
+How many double flush doors are there in large classroom 0110?,QTY-DOOR
+How many windows are there on FL 03 t.o. Structure?,QTY-WINDOW
 Can you tell me the object type of the window located in room 7?,ATT-WINDOW
 What is room 0206's longname?,ATT-ROOM
 What's the window's height in the shop?,ATT-WINDOW
@@ -160,22 +160,22 @@ What's door 368004's objecttype?,ATT-DOOR
 Is there a small classroom in the model?,QTY-ROOM
 What is the width of the window in faculty office 0323?,ATT-WINDOW
 What is window 596176's object type?,ATT-WINDOW
-How many doors are at level 1?,QTY-DOOR
-How many doors are on the second floor?,QTY-DOOR
+How many doors are there at level 1?,QTY-DOOR
+How many doors are there on the second floor?,QTY-DOOR
 Who normally manages the environmental impact of the job?,OOD
 What is the elevation of level 4?,ATT-STOREY
 What is the elevation of story 3 top of slab?,ATT-STOREY
 Is there a faculty office on B.O. Footing?,QTY-ROOM
 Is there a window in classroom 0110?,QTY-WINDOW
-"In the room of 0310, how many single flush doors in there?",QTY-DOOR
+"In the room of 0310, how many single flush doors are there?",QTY-DOOR
 How many meters high is window 635752?,ATT-WINDOW
 What are the quantities of double doors included in 0112?,QTY-DOOR
 What can curtail the risk of occupational injuries in the construction industry?,OOD
 What are the quantities of windows in the building information model?,QTY-WINDOW
 What's the height of window of 182229?,ATT-WINDOW
-How many double flush doors are in medium classroom 0215?,QTY-DOOR
+How many double flush doors are there in medium classroom 0215?,QTY-DOOR
 What's the height of window with a tag of 387648?,ATT-WINDOW
-"In 0110, how many single flush C doors are in there?",QTY-DOOR
+"In 0110, how many single flush C doors are there?",QTY-DOOR
 "In the room of grade studio 0326, there are how many double doors?",QTY-DOOR
 What is window 175409's object type?,ATT-WINDOW
 What is the elevation of level 1?,ATT-STOREY
@@ -185,25 +185,25 @@ What's the length unit's name?,ATT-UNIT
 How high is fixed rinker window?,ATT-WINDOW
 What is the elevation of the first floor?,ATT-STOREY
 Does the floor 02 fl 02 t.o. slab have a fixed window?,QTY-WINDOW
-How many louver 24 on b.o. footing?,QTY-WINDOW
+How many louver 24 are there on b.o. footing?,QTY-WINDOW
 What's level 4's elevation?,ATT-STOREY
 What is the overallheight of window 572075?,ATT-WINDOW
 What is the overallheight of door 300135?,ATT-DOOR
-How many large classrooms are on 03 FL 03 T.O. SLAB?,QTY-ROOM
+How many large classrooms are there on 03 FL 03 T.O. SLAB?,QTY-ROOM
 Can you tell me the objecttype of the door located in room 4?,ATT-DOOR
 Does the room of grad studio 0320 have a window of fixed rinker?,QTY-WINDOW
-How many medium classrooms are on level 02 FL 02 T.O. SLAB?,QTY-ROOM
+How many medium classrooms are there on level 02 FL 02 T.O. SLAB?,QTY-ROOM
 What is the longname of room C299A?,ATT-ROOM
-How many windows are on level T.O. PARAPET?,QTY-WINDOW
-How many single doors on 02 fl 02 t.o. slab?,QTY-DOOR
-How many classrooms are on FL 02 t.o. Structure?,QTY-ROOM
+How many windows are there on level T.O. PARAPET?,QTY-WINDOW
+How many single doors are there on 02 fl 02 t.o. slab?,QTY-DOOR
+How many classrooms are there on FL 02 t.o. Structure?,QTY-ROOM
 Is there a faculty office in the Rinker model?,QTY-ROOM
-How many windows are on the second floor?,QTY-WINDOW
+How many windows are there on the second floor?,QTY-WINDOW
 Is there a casement in the interview 0142 room?,QTY-WINDOW
 Tell me the IFC schema.,HEAD
 Tell me single flush doors' quantities in medium classroom 0230.,QTY-DOOR
 Can you tell me the door's object type which located in room 11?,ATT-DOOR
-How many louver 51 on mech room roof?,QTY-WINDOW
+How many louver 51 are there on mech room roof?,QTY-WINDOW
 Is there a fixed window on fl 02 t.o. structure?,QTY-WINDOW
 What are most detailed plans in construction?,OOD
 Does the apartment 101 contain a window?,QTY-WINDOW
@@ -212,38 +212,38 @@ What is the elevation of level 02?,ATT-STOREY
 What is the overallwidth of Rinker double d?,ATT-DOOR
 What's the door's overall height in room of office 103A?,ATT-DOOR
 Is there a window in room 109?,QTY-WINDOW
-How many louver 66 on b.o. footing?,QTY-WINDOW
+How many louver 66 are there on b.o. footing?,QTY-WINDOW
 Is there a medium classroom on level 01 FL 01 T.O. SLAB?,QTY-ROOM
 What are the quantities of fixed Rinker windows in the model?,QTY-WINDOW
-How many single flush H doors in Rinker?,QTY-DOOR
+How many single flush H doors are there in Rinker?,QTY-DOOR
 Does the associate director's room include louver 43?,QTY-WINDOW
 What is the overallheight of window 174054?,ATT-WINDOW
 What's building storey 03 top of slab's elevation?,ATT-STOREY
-How many men's room are on MECH RM ROOF?,QTY-ROOM
-"In the room of 0315, how many doors of single flush a in there?",QTY-DOOR
+How many men's room are there on MECH RM ROOF?,QTY-ROOM
+"In the room of 0315, how many doors of single flush a are there?",QTY-DOOR
 What's building story 1 top of slab's elevation?,ATT-STOREY
-How many double doors are on t.o. steel?,QTY-DOOR
+How many double doors are there on t.o. steel?,QTY-DOOR
 What is the elevation of story 3 top of structure?,ATT-STOREY
 How high is a door with a tag of 563282?,ATT-DOOR
-How many doors with double glass are on 03 fl 03 t.o. slab?,QTY-DOOR
+How many doors with double glass are there on 03 fl 03 t.o. slab?,QTY-DOOR
 Tell me the door's width in apartment 105.,ATT-WINDOW
-How many large classrooms are on B.O. Footing?,QTY-ROOM
-How many louvers on 01 fl 01 t.o. slab?,QTY-WINDOW
+How many large classrooms are there on B.O. Footing?,QTY-ROOM
+How many louvers are there on 01 fl 01 t.o. slab?,QTY-WINDOW
 What are the quantities of windows on 02 FL 02 T.O. SLAB?,QTY-WINDOW
 How many meters high is door 570599?,ATT-DOOR
 What is the window's overall height of louver 15?,ATT-WINDOW
 Does interview 0143 room have a window?,QTY-WINDOW
-How many doors of single flush h are on top of steel?,QTY-DOOR
-"In the room of 0322, how many single flush doors are in there?",QTY-DOOR
-How many doors of single flush are on 03 fl 03 t.o. slab?,QTY-DOOR
+How many doors of single flush h are there on top of steel?,QTY-DOOR
+"In the room of 0322, how many single flush doors are there?",QTY-DOOR
+How many doors of single flush are there on 03 fl 03 t.o. slab?,QTY-DOOR
 How wide is the window louver 73?,ATT-WINDOW
 What are the quantities of casements on b.o. footing?,QTY-WINDOW
 What are the quantities of medium classrooms in FL 03 top of Structure?,QTY-ROOM
 What are the quantities of women's restrooms on floor T.O. Footing Elevation?,QTY-ROOM
 What are the numbers of louver 89 on mech room roof?,QTY-WINDOW
-How many ladies' rooms are in the model?,QTY-ROOM
+How many ladies' rooms are there in the model?,QTY-ROOM
 What is the elevation of story top of parapet?,ATT-STOREY
-How many doors of double glass D are in Rinker?,QTY-DOOR
+How many doors of double glass D are there in Rinker?,QTY-DOOR
 What are the quantities of storage on 02 FL 02 T.O. SLAB?,QTY-ROOM
 What is the overallheight of the door in the room of information tech?,ATT-DOOR
 What's building story 0 top of slab's elevation?,ATT-STOREY
@@ -253,7 +253,7 @@ Does the floor top of steel have a fixed window?,QTY-WINDOW
 How many feet wide is double glass k door?,ATT-DOOR
 What's the door's object type in the 0245a room?,ATT-DOOR
 Does 00 mech rm t.o. slab have a louver?,QTY-WINDOW
-How many grad studios are at the level FL 02 t.o. Structure?,QTY-ROOM
+How many grad studios are there at the level FL 02 t.o. Structure?,QTY-ROOM
 What is the overall width of double flush b?,ATT-DOOR
 What is the width of the door of Rinker double D?,ATT-DOOR
 Is there any corridor in the building?,QTY-ROOM
@@ -271,9 +271,9 @@ What are the quantities of louver 18 on fl 02 top of structure?,QTY-WINDOW
 Does the apartment 203 have a door?,QTY-DOOR
 Is there a conference room in Rinker?,QTY-ROOM
 What's the door's width in the room of office manager?,ATT-DOOR
-How many men's rooms are on 03 FL 03 T.O. SLAB?,QTY-ROOM
-How many corridors are in the model?,QTY-ROOM
-How many doors are in room 101?,QTY-DOOR
+How many men's rooms are there on 03 FL 03 T.O. SLAB?,QTY-ROOM
+How many corridors are there in the model?,QTY-ROOM
+How many doors are there in room 101?,QTY-DOOR
 What's level 2's elevation?,ATT-STOREY
 Tell me the quantities of medium classrooms in the model.,QTY-ROOM
 What are the numbers of single flush F located in classroom 0110?,QTY-DOOR
@@ -293,21 +293,21 @@ What is the overallwidth of fixed window?,ATT-WINDOW
 "In the room of 0229, there are how many doors?",QTY-DOOR
 What is the object type of the window in the room for tech services?,ATT-WINDOW
 What is the overallheight of casement window?,ATT-WINDOW
-How many double flush doors are in the model?,QTY-DOOR
-"In the room of associate director, how many single flush doors in there?",QTY-DOOR
+How many double flush doors are there in the model?,QTY-DOOR
+"In the room of associate director, how many single flush doors are there?",QTY-DOOR
 What is storey FL 03 t.o. Structure's elevation?,ATT-STOREY
 What are the quantities of windows on level T.O. Footing Elev?,QTY-WINDOW
 What's the door's width in room of 0325?,ATT-DOOR
-How many doors of single flush e in the model?,QTY-DOOR
+How many doors of single flush e are there in the model?,QTY-DOOR
 What are the quantities of women restrooms on floor T.O. STEEL?,QTY-ROOM
 "In faculty office 0329, there are how many fixed windows?",QTY-WINDOW
-How many ladies' room are on level MECH RM ROOF?,QTY-ROOM
+How many ladies' room are there on level MECH RM ROOF?,QTY-ROOM
 What's the height of a door with a tag of 562680?,ATT-DOOR
 "In medium classroom 0225, there are how many casements?",QTY-WINDOW
 Tell me the objecttype of the window with a tag of 175327.,ATT-WINDOW
 What is the objecttype of door 301555?,ATT-DOOR
 Does the room 0210 have a casement?,QTY-WINDOW
-How many faculty offices are in T.O. STEEL?,QTY-ROOM
+How many faculty offices are there in T.O. STEEL?,QTY-ROOM
 Is there a window located in room 306?,QTY-WINDOW
 Does the model have a casement?,QTY-WINDOW
 What are the numbers of doors on floor 02 FL 02 T.O. SLAB?,QTY-DOOR
@@ -318,20 +318,20 @@ Tell me the quantities of fixed windows in grad studio 0320.,QTY-WINDOW
 Tell me the number of doors in the model.,QTY-DOOR
 What compiles and reports on data about the size of design and construction companies?,OOD
 What is door 385195's object type?,ATT-DOOR
-How many grad studios are in the building?,QTY-ROOM
+How many grad studios are there in the building?,QTY-ROOM
 What is louver 14's height?,ATT-WINDOW
 What is the door's operationtype in the office o203B?,ATT-DOOR
-How many large classrooms are in 01 FL 01 T.O. SLAB?,QTY-ROOM
+How many large classrooms are there in 01 FL 01 T.O. SLAB?,QTY-ROOM
 Does the floor 01 fl 01 t.o. slab contain a door of single flush D?,QTY-DOOR
 Identify the height of the door 300135.,ATT-DOOR
 What are the quantities of doors of double glass D on FL 03 t.o. Structure?,QTY-DOOR
 Tell me the objecttype of door with a tag of 561556.,ATT-DOOR
 "In the large classroom 0112, there are how many windows?",QTY-WINDOW
 What is the 8th building storey's elevation?,ATT-STOREY
-How many doors of double glass d are on t.o. steel?,QTY-DOOR
-"In the room of medium classroom 0220, how many doors of single flush a in there?",QTY-DOOR
+How many doors of double glass d are there on t.o. steel?,QTY-DOOR
+"In the room of medium classroom 0220, how many doors of single flush a are there?",QTY-DOOR
 What is the door's operationtype in the office o201a?,ATT-DOOR
-How many doors of single flush c in the model?,QTY-DOOR
+How many doors of single flush c are there in the model?,QTY-DOOR
 Tell me the window's width in apartment 108.,ATT-WINDOW
 Tell me windows' quantities in the room of main office.,QTY-WINDOW
 What are the quantities of louver 72 on 01 fl 01 t.o. slab?,QTY-WINDOW
@@ -341,15 +341,15 @@ What are the quantities of faculty offices on 03 FL 03 T.O. SLAB?,QTY-ROOM
 Does the classroom 0215 have a window?,QTY-WINDOW
 What are malum prohibitum considerations?,OOD
 What's building story 3 top of slab's elevation?,ATT-STOREY
-How many single doors on FL 03 t.o. Structure?,QTY-DOOR
-How many windows are in room 103?,QTY-WINDOW
+How many single doors are there on FL 03 t.o. Structure?,QTY-DOOR
+How many windows are there in room 103?,QTY-WINDOW
 Does the apartment 101 have a door?,QTY-DOOR
-"In faculty office 0311, how many doors in there?",QTY-DOOR
-How many windows of louver 17 are in the model?,QTY-WINDOW
+"In faculty office 0311, how many doors are there?",QTY-DOOR
+How many windows of louver 17 are there in the model?,QTY-WINDOW
 What are the quantities of fixed rinker windows on fl 02 t.o. structure?,QTY-WINDOW
 What is room 0245A's long name?,ATT-ROOM
 What's door 562909's height?,ATT-DOOR
-How many windows are in room 3?,QTY-WINDOW
+How many windows are there in room 3?,QTY-WINDOW
 Is there any window in Room 0211?,QTY-WINDOW
 Is there a men's room on B.O. Footing?,QTY-ROOM
 How many meters high is the window of 597354?,ATT-WINDOW
@@ -357,27 +357,27 @@ What are the quantities of louver 14 on b.o. footing?,QTY-WINDOW
 What is the width of rinker double door?,ATT-DOOR
 What is the window of louver 30's overall width?,ATT-WINDOW
 "In the room of 0230, there are how many doors?",QTY-DOOR
-How many men's rooms are on T.O. PARAPET?,QTY-ROOM
-How many doors are in room 4?,QTY-DOOR
+How many men's rooms are there on T.O. PARAPET?,QTY-ROOM
+How many doors are there in room 4?,QTY-DOOR
 Does the room 0331 have a window?,QTY-WINDOW
-"In the room of 0230, how many doors of single flush in there?",QTY-DOOR
+"In the room of 0230, how many doors of single flush are there?",QTY-DOOR
 What is the door single flush K's overall height?,ATT-DOOR
 What is the door's height in the office O202c?,ATT-DOOR
-How many fixed rinker windows on B.O. Footing?,QTY-WINDOW
-How many louver 91 on 00 mech rm t.o. slab?,QTY-WINDOW
+How many fixed rinker windows are there on B.O. Footing?,QTY-WINDOW
+How many louver 91 are there on 00 mech rm t.o. slab?,QTY-WINDOW
 What are the quantities of windows of louver 20 in the model?,QTY-WINDOW
-How many double doors in classroom 0215?,QTY-DOOR
-How many large classrooms are in 00 MECH RM T.O. SLAB?,QTY-ROOM
+How many double doors are there in classroom 0215?,QTY-DOOR
+How many large classrooms are there in 00 MECH RM T.O. SLAB?,QTY-ROOM
 What is the overall height of louver 3?,ATT-WINDOW
 How high is window 635610?,ATT-WINDOW
 Who applies expertise to relate the work and materials involved to a proper valuation?,OOD
-How many storage rooms are on the level 00 MECH RM T.O. SLAB?,QTY-ROOM
-How many single flush e located are in 0110?,QTY-DOOR
+How many storage rooms are there on the level 00 MECH RM T.O. SLAB?,QTY-ROOM
+How many single flush e are there located in 0110?,QTY-DOOR
 What is the window's object type in room of 0240?,ATT-WINDOW
 Does the room 0301 include a door of single flush a?,QTY-DOOR
 What is the length unit's name?,ATT-UNIT
 Is there a door located in room 305?,QTY-DOOR
-How many doors on the level MECH RM ROOF?,QTY-DOOR
+How many doors are there on the level MECH RM ROOF?,QTY-DOOR
 What is storey T.O. Footing's elevation,ATT-STOREY
 What are the numbers of doors on level 01 FL 01 T.O. SLAB?,QTY-DOOR
 What is room 0205's long name?,ATT-ROOM
@@ -387,12 +387,12 @@ What is the author's name?,HEAD
 Calculate the numbers of windows in faculty office 0327?,QTY-WINDOW
 What are the quantities of louver 21 on fl 02 top of structure?,QTY-WINDOW
 What's the buildingstorey 16th's elevation?,ATT-STOREY
-How many doors on the floor B.O. Footing?,QTY-DOOR
-How many men restrooms are in the building?,QTY-ROOM
+How many doors are there on the floor B.O. Footing?,QTY-DOOR
+How many men restrooms are there in the building?,QTY-ROOM
 What's the 6th story's elevation?,ATT-STOREY
 Is there a window located in room 308?,QTY-WINDOW
 What is the width of fixed Rinker?,ATT-WINDOW
-How many medium classrooms are on level B.O. Footing?,QTY-ROOM
+How many medium classrooms are there on level B.O. Footing?,QTY-ROOM
 How many feet wide is door 658305?,ATT-DOOR
 "In large classroom 0112, there are how many fixed windows?",QTY-WINDOW
 What is the elevation of buildingstorey 0 top of slab?,ATT-STOREY
@@ -403,7 +403,7 @@ What is the overallwidth of single flush d?,ATT-DOOR
 What are the quantities of louver 70 at mech room roof?,QTY-WINDOW
 How high is double glass D?,ATT-DOOR
 "In the room of office 0329, there are how many doors?",QTY-DOOR
-How many windows of louver 56 are in Room 0106?,QTY-WINDOW
+How many windows of louver 56 are there in Room 0106?,QTY-WINDOW
 What are the quantities of ladies' room at level 01 FL 01 T.O. SLAB?,QTY-ROOM
 What's the door's overall height in room of office 103?,ATT-DOOR
 Does the main conference room 0303 have a window?,QTY-WINDOW
@@ -413,21 +413,21 @@ Is there a door of single flush on t.o. parapet?,QTY-DOOR
 What are the numbers of single flush V located in room 0234?,QTY-DOOR
 What is the width of the door of single flush c?,ATT-DOOR
 What's building storey top of parapet's elevation?,ATT-STOREY
-How many double flush doors are in classroom 0110?,QTY-DOOR
+How many double flush doors are there in classroom 0110?,QTY-DOOR
 What is the width of window of louver 6?,ATT-WINDOW
 What are the quantities of louvers on 01 fl 01 t.o. slab?,QTY-WINDOW
 How wide is the door single g?,ATT-DOOR
 What is the overall height of fixed window?,ATT-WINDOW
-How many doors of double glass d on 02 FL 02 top of SLAB?,QTY-DOOR
+How many doors of double glass d are there on 02 FL 02 top of SLAB?,QTY-DOOR
 What is the overall height of the door in the room of associate director?,ATT-DOOR
 What is the height of fixed rinker?,ATT-WINDOW
 Does the floor t.o. footing elev contain a door of single flush d?,QTY-DOOR
 How many doors of single flush h does medium classroom 0215 contain?,QTY-DOOR
-How many doors in the large classroom 0110?,QTY-DOOR
-How many single flush h doors on 02 fl 02 t.o. slab?,QTY-DOOR
-How many double doors are in room 0236?,QTY-DOOR
+How many doors are there in the large classroom 0110?,QTY-DOOR
+How many single flush h doors are there on 02 fl 02 t.o. slab?,QTY-DOOR
+How many double doors are there in room 0236?,QTY-DOOR
 Is there an information room in Rinker?,QTY-ROOM
-"In the room 0322, how many single flush doors in there?",QTY-DOOR
+"In the room 0322, how many single flush doors are there?",QTY-DOOR
 What is the window's object type in the office o201C?,ATT-WINDOW
 What's the window's height in room of 0331?,ATT-WINDOW
 What is the elevation of story 2 top of slab?,ATT-STOREY
@@ -439,26 +439,26 @@ How many feet high is louver 33?,ATT-WINDOW
 How high is a door of single flush C?,ATT-DOOR
 What is the objecttype of window 636354?,ATT-WINDOW
 Is there a door of single flush F in large classroom 0110?,QTY-DOOR
-How many classrooms are in Rinker?,QTY-ROOM
+How many classrooms are there in Rinker?,QTY-ROOM
 "In the room of classroom 0110, there are how many double doors?",QTY-DOOR
-"In the room of 0314, how many doors of single flush are in there?",QTY-DOOR
+"In the room of 0314, how many doors of single flush are there?",QTY-DOOR
 What's level 02's elevation?,ATT-STOREY
 What is the longname of room 0336B?,ATT-ROOM
-How many windows are in medium classroom 0207?,QTY-WINDOW
+How many windows are there in medium classroom 0207?,QTY-WINDOW
 What is the overall width of the window in the room for office manager?,ATT-WINDOW
 What is the window's overallwidth of louver 12?,ATT-WINDOW
 What's the overall height of window 175197?,ATT-WINDOW
-How many men's rooms are at 01 FL 01 T.O. SLAB?,QTY-ROOM
-How many double doors are in the building?,QTY-DOOR
+How many men's rooms are there at 01 FL 01 T.O. SLAB?,QTY-ROOM
+How many double doors are there in the building?,QTY-DOOR
 What are the numbers of large classrooms in the Rinker model?,QTY-ROOM
 What does the owner produce to show how to attain the goals?,OOD
-"In the room of associate director, how many doors of single flush in there?",QTY-DOOR
+"In the room of associate director, how many doors of single flush are there?",QTY-DOOR
 What is the overall width of the double flush B door?,ATT-DOOR
 What are the quantities of double flush doors on 02 FL 02 top of SLAB?,QTY-DOOR
 Tell me the windows' quantities in office 0322.,QTY-WINDOW
 What is the overallwidth of window 624294?,ATT-WINDOW
-How many storage rooms are in the building?,QTY-ROOM
-How many large classrooms are in T.O. STEEL?,QTY-ROOM
+How many storage rooms are there in the building?,QTY-ROOM
+How many large classrooms are there in T.O. STEEL?,QTY-ROOM
 What are the numbers of louver 82 on t.o. footing elevation?,QTY-WINDOW
 What are the quantities of double doors located in room 0232?,QTY-DOOR
 What is the height of the door 300135?,ATT-DOOR
@@ -470,34 +470,34 @@ Does the interview 0143 room contain a window of louver 88?,QTY-WINDOW
 "In the room of office 0322, there are how many single flush doors?",QTY-DOOR
 Tell me the width of the window 387649.,ATT-WINDOW
 What's the elevation of the 9th floor?,ATT-STOREY
-"In the room of 0230, how many single flush doors in there?",QTY-DOOR
+"In the room of 0230, how many single flush doors are there?",QTY-DOOR
 Does t.o. footing elev have a louver?,QTY-WINDOW
 What's the buildingstorey 15th's elevation?,ATT-STOREY
-"In the room 0315, how many doors of single flush D are in there?",QTY-DOOR
-How many single flush h doors on fl 03 top of structure?,QTY-DOOR
+"In the room 0315, how many doors of single flush D are there?",QTY-DOOR
+How many single flush h doors are there on fl 03 top of structure?,QTY-DOOR
 What's the overall width of the door of 562012?,ATT-DOOR
-How many louver 9 are in the model?,QTY-WINDOW
-How many ladies' rooms are on level B.O. Footing?,QTY-ROOM
-How many doors of single flush a on t.o. steel?,QTY-DOOR
-How many windows on MECH RM ROOF?,QTY-WINDOW
+How many louver 9 are there in the model?,QTY-WINDOW
+How many ladies' rooms are there on level B.O. Footing?,QTY-ROOM
+How many doors of single flush a are there on t.o. steel?,QTY-DOOR
+How many windows are there on MECH RM ROOF?,QTY-WINDOW
 What is the width of double flush B?,ATT-DOOR
 Tell me the objecttype of the door with a tag of 559366.,ATT-DOOR
-How many faculty offices are in the model?,QTY-ROOM
+How many faculty offices are there in the model?,QTY-ROOM
 What is the door single flush a's overallwidth?,ATT-DOOR
 What's the width of a window of 392390?,ATT-WINDOW
-How many doors are in room of 103?,QTY-DOOR
+How many doors are there in room of 103?,QTY-DOOR
 Does the apartment 202 have a door?,QTY-DOOR
 What's the object type of window of 175193?,ATT-WINDOW
-How many doors are in room 1?,QTY-DOOR
+How many doors are there in room 1?,QTY-DOOR
 How many meters wide is the window of 587524?,ATT-WINDOW
-How many casements on mech rm roof?,QTY-WINDOW
+How many casements are there on mech rm roof?,QTY-WINDOW
 Does the room 0230 contain a door of single flush d?,QTY-DOOR
 What is the model's view definition?,HEAD
 What is the height of the door of single flush C?,ATT-DOOR
 What are the numbers of doors on the MECH RM T.O. SLAB?,QTY-DOOR
 What is the elevation of level top of parapet?,ATT-STOREY
 Is there a grad studio in FL 02 t.o. Structure?,QTY-ROOM
-"In faculty office 0309, how many doors of single flush C in there?",QTY-DOOR
+"In faculty office 0309, how many doors of single flush C are there?",QTY-DOOR
 What is the object type of window 175327?,ATT-WINDOW
 Does the floor top of parapet have a fixed window?,QTY-WINDOW
 What is door 570599's object type?,ATT-DOOR
@@ -505,22 +505,22 @@ What is the overall height of double flush B door?,ATT-DOOR
 What is the window louver 24's overall width?,ATT-WINDOW
 Calculate double flush doors' quantities.,QTY-DOOR
 What is the height of the door in faculty office 0316?,ATT-DOOR
-How many louver 25 on t.o. footing elevation?,QTY-WINDOW
-How many windows of louver 21 on mech rm roof?,QTY-WINDOW
-How many plan rooms are in the Rinker?,QTY-ROOM
+How many louver 25 are there on t.o. footing elevation?,QTY-WINDOW
+How many windows of louver 21 are there on mech rm roof?,QTY-WINDOW
+How many plan rooms are there in the Rinker?,QTY-ROOM
 What is room 0207's longname?,ATT-ROOM
 What is room 0245's long name?,ATT-ROOM
 What's the width of door 467216?,ATT-DOOR
 What are the quantities of faculty offices on MECH RM ROOF?,QTY-ROOM
 What are the quantities of single doors located in classroom 0215?,QTY-DOOR
 What's the width of a window with a tag of 391546?,ATT-WINDOW
-How many doors are in the room 0106?,QTY-DOOR
+How many doors are there in the room 0106?,QTY-DOOR
 Does the room 0215 have a window?,QTY-WINDOW
 Does the apartment 203 contain a door?,QTY-DOOR
 How many meters wide is the door of 630352?,ATT-DOOR
 What's the overallheight of a window of 398724?,ATT-WINDOW
-How many windows of louver 15 are in the model?,QTY-WINDOW
-How many doors are in room 103?,QTY-DOOR
+How many windows of louver 15 are there in the model?,QTY-WINDOW
+How many doors are there in room 103?,QTY-DOOR
 Does the level 02 fl 02 t.o. slab contain a double flush door?,QTY-DOOR
 What is the window's height in room 0115?,ATT-WINDOW
 What are the numbers of doors on T.O. PARAPET?,QTY-DOOR
@@ -532,7 +532,7 @@ What is the longname of room 0336?,ATT-ROOM
 Is there a window in room 107?,QTY-WINDOW
 What's the operation type of the door in apartment 0305?,ATT-DOOR
 "In the room of 0230, there are how many single flush doors?",QTY-DOOR
-How many louver 59 on 01 fl 01 t.o. slab?,QTY-WINDOW
+How many louver 59 are there on 01 fl 01 t.o. slab?,QTY-WINDOW
 How many windows does medium classroom 0212 have?,QTY-WINDOW
 Is there a men's room at FL 03 t.o. Structure?,QTY-ROOM
 Is there any ladies' room on level 02 FL 02 T.O. SLAB?,QTY-ROOM
@@ -540,18 +540,18 @@ Does 01 fl 01 t.o. slab have a casement?,QTY-WINDOW
 Does the level top of parapet contain a double flush door?,QTY-DOOR
 What are the quantities of women's restrooms on floor T.O. PARAPET?,QTY-ROOM
 Is there a fixed window on b.o. footing?,QTY-WINDOW
-How many fixed rinker windows on 01 fl 01 t.o. slab?,QTY-WINDOW
+How many fixed rinker windows are there on 01 fl 01 t.o. slab?,QTY-WINDOW
 Does the floor top of parapet include a door of single flush B?,QTY-DOOR
 What's the overallheight of the door of 562428?,ATT-DOOR
 What is the height of the door of double flush B?,ATT-DOOR
 How high is double glass d?,ATT-DOOR
-How many large classrooms are on 02 FL 02 T.O. SLAB?,QTY-ROOM
-How many double flush doors are on t.o. steel?,QTY-DOOR
-How many windows are in the model?,QTY-WINDOW
+How many large classrooms are there on 02 FL 02 T.O. SLAB?,QTY-ROOM
+How many double flush doors are there on t.o. steel?,QTY-DOOR
+How many windows are there in the model?,QTY-WINDOW
 What is the height of the door in medium classroom 0225?,ATT-DOOR
 What is the height of rinker double D?,ATT-DOOR
-"In the room of main office, how many doors of single flush B in there?",QTY-DOOR
-How many doors of single flush G on fl 03 top of structure?,QTY-DOOR
+"In the room of main office, how many doors of single flush B are there?",QTY-DOOR
+How many doors of single flush G are there on fl 03 top of structure?,QTY-DOOR
 Does the model include a door of single flush A?,QTY-DOOR
 Tell me the door's width in apartment 305.,ATT-DOOR
 What are the quantities of louvers in the building?,QTY-WINDOW
@@ -560,7 +560,7 @@ Tell me the door's width in grad studio.,ATT-DOOR
 What's the overallheight of the door in room of office c101?,ATT-DOOR
 What is the view definition of this model?,HEAD
 Is there a window located in room 307?,QTY-WINDOW
-How many louver 1 on 00 mech rm t.o. slab?,QTY-WINDOW
+How many louver 1 are there on 00 mech rm t.o. slab?,QTY-WINDOW
 What's the overallwidth of the window of 391122?,ATT-WINDOW
 What is the height of window of louver 5?,ATT-WINDOW
 What are the quantities of ladies' rooms at level T.O. STEEL?,QTY-ROOM
@@ -568,18 +568,18 @@ How high is the door of single flush E?,ATT-DOOR
 What's the width of a door with a tag of 562640?,ATT-DOOR
 What's the elevation of the 1st floor?,ATT-STOREY
 What is the overallwidth of louver 8?,ATT-WINDOW
-How many classrooms are on floor T.O. Footing Elev?,QTY-ROOM
+How many classrooms are there on floor T.O. Footing Elev?,QTY-ROOM
 Is there a fixed window in the building?,QTY-WINDOW
 Calculate the quantities of men's rooms in the building.,QTY-ROOM
 "In the room of faculty office 0322, there are how many single flush doors?",QTY-DOOR
-How many doors of single flush on fl 03 t.o. structure?,QTY-DOOR
-How many louver 55 on t.o. footing elev?,QTY-WINDOW
+How many doors of single flush are there on fl 03 t.o. structure?,QTY-DOOR
+How many louver 55 are there on t.o. footing elev?,QTY-WINDOW
 Is there a fixed rinker window on 00 MECH RM T.O. SLAB?,QTY-WINDOW
-"In the room of office 0322, how many single flush doors in there?",QTY-DOOR
+"In the room of office 0322, how many single flush doors are there?",QTY-DOOR
 Does the apartment 102 have a door?,QTY-DOOR
 What is the elevation of floor B.O. Footing?,ATT-STOREY
 What's the overall width of a window of 624296?,ATT-WINDOW
-How many medium classrooms are on level MECH RM ROOF?,QTY-ROOM
+How many medium classrooms are there on level MECH RM ROOF?,QTY-ROOM
 Calculate the quantities of large classrooms in the model.,QTY-ROOM
 What is the name of the volume unit?,ATT-UNIT
 Does the floor top of steel contain a door of single flush d?,QTY-DOOR
@@ -587,22 +587,22 @@ How many meters wide is the door of 584668?,ATT-DOOR
 How many feet high is door 656678?,ATT-DOOR
 Tell me the window's height in the room for server.,ATT-WINDOW
 What is single flush E's width?,ATT-DOOR
-How many windows are in room 1?,QTY-WINDOW
-How many doors of single flush e are on 03 fl 03 top of slab?,QTY-DOOR
+How many windows are there in room 1?,QTY-WINDOW
+How many doors of single flush e are there on 03 fl 03 top of slab?,QTY-DOOR
 What's window 392292's overallheight?,ATT-WINDOW
-How many fixed rinker windows on fl 02 t.o. structure?,QTY-WINDOW
+How many fixed rinker windows are there on fl 02 t.o. structure?,QTY-WINDOW
 Does the apartment 205 have a window?,QTY-WINDOW
 How many feet high is single flush G?,ATT-DOOR
-"In the room of classroom 0230, how many doors of single flush in there?",QTY-DOOR
-"In 0112, how many doors of single flush a are in there?",QTY-DOOR
+"In the room of classroom 0230, how many doors of single flush are there?",QTY-DOOR
+"In 0112, how many doors of single flush a are there?",QTY-DOOR
 What is the door's overallwidth of single flush f?,ATT-DOOR
 What's the object type of window of 175323?,ATT-WINDOW
 What is the overallheight of fixed window?,ATT-WINDOW
 Tell me the window's height in apartment 103.,ATT-WINDOW
 Is there a window in Room 0215?,QTY-WINDOW
-How many women's rooms are at T.O. STEEL?,QTY-ROOM
+How many women's rooms are there at T.O. STEEL?,QTY-ROOM
 What is the overallwidth of fixed Rinker?,ATT-WINDOW
-How many classrooms are on 01 fl 01 t.o. slab?,QTY-ROOM
+How many classrooms are there on 01 fl 01 t.o. slab?,QTY-ROOM
 What are the quantities of windows on FL 03 t.o. Structure?,QTY-WINDOW
 How many feet wide is window 572075?,ATT-WINDOW
 What is window 387649's height?,ATT-WINDOW
@@ -615,39 +615,39 @@ Is there any louver 45 on 00 mech rm t.o. slab?,QTY-WINDOW
 Does the apartment 202 contain a door?,QTY-DOOR
 What's the window's width in room of 0329?,ATT-WINDOW
 What's the object type of the window in office 106?,ATT-WINDOW
-How many doors are on level T.O. PARAPET?,QTY-DOOR
-"In the room of faculty office 0315, how many doors of single flush D in there?",QTY-DOOR
-How many louver 67 on t.o. footing elevation?,QTY-WINDOW
+How many doors are there on level T.O. PARAPET?,QTY-DOOR
+"In the room of faculty office 0315, how many doors of single flush D are there?",QTY-DOOR
+How many louver 67 are there on t.o. footing elevation?,QTY-WINDOW
 What are the quantities of double flush doors on 03 fl 03 t.o. slab?,QTY-DOOR
 What is T.O. STEEL's elevation?,ATT-STOREY
 What's overallwidth of door 563982?,ATT-DOOR
 Calculate casements' quantities.,QTY-WINDOW
 What's door 562866's width?,ATT-DOOR
-How many single flush doors are in 0110?,QTY-DOOR
+How many single flush doors are there in 0110?,QTY-DOOR
 How many meters wide is window 635838?,ATT-WINDOW
 What is the longname of room c299a?,ATT-ROOM
 Does the room 0329 have a window of louver 25?,QTY-WINDOW
-"In the room 0112, how many doors of single flush a are in there?",QTY-DOOR
+"In the room 0112, how many doors of single flush a are there?",QTY-DOOR
 What are the quantities of doors of double flush on 02 FL 02 T.O. SLAB?,QTY-DOOR
 What is the elevation of level top of steel?,ATT-STOREY
 What is the average construction salary in the Middle East?,OOD
 Is there a window in main conference room 0303?,QTY-WINDOW
-How many classrooms are on t.o. steel?,QTY-ROOM
+How many classrooms are there on t.o. steel?,QTY-ROOM
 Is there a window in room 106?,QTY-WINDOW
 How many feet wide is louver 27?,ATT-WINDOW
 How many feet high is door 563790?,ATT-DOOR
 How wide is a door with a tag of 563602?,ATT-DOOR
 What's the object type of the window in office a106?,ATT-WINDOW
 What is the elevation of building storey 02 top of slab?,ATT-STOREY
-How many fixed windows are in main conference room 0303?,QTY-WINDOW
-How many louver 21 on mech rm roof?,QTY-WINDOW
+How many fixed windows are there in main conference room 0303?,QTY-WINDOW
+How many louver 21 are there on mech rm roof?,QTY-WINDOW
 What is the width of the window in room 0210?,ATT-WINDOW
 Can you tell me the width of the window located in room 6?,ATT-WINDOW
 What is louver 17's overall height?,ATT-WINDOW
-How many windows are in room 102?,QTY-WINDOW
+How many windows are there in room 102?,QTY-WINDOW
 Tell me the window's overall width in the room for journal editor.,ATT-WINDOW
 Is there any louver on 01 fl 01 t.o. slab?,QTY-WINDOW
-How many louver 15 are in the model?,QTY-WINDOW
+How many louver 15 are there in the model?,QTY-WINDOW
 What's door 563081's overallheight?,ATT-DOOR
 What is the width of window of casement?,ATT-WINDOW
 What is the window's height in the office 202?,ATT-WINDOW
@@ -655,24 +655,24 @@ What's the window's object type in 0345a room?,ATT-WINDOW
 What's the width of window 572097?,ATT-WINDOW
 Tell me the quantities of doors single flush a in faculty office 0311.,QTY-DOOR
 How wide is the window louver 42?,ATT-WINDOW
-How many casements on B.O. Footing?,QTY-WINDOW
+How many casements are there on B.O. Footing?,QTY-WINDOW
 What are the numbers of classrooms on 03 FL 03 T.O. SLAB?,QTY-ROOM
-How many louver 90 on t.o. footing elev?,QTY-WINDOW
+How many louver 90 are there on t.o. footing elev?,QTY-WINDOW
 What's building storey 01 top of slab's elevation?,ATT-STOREY
 What is room 0235A's long name?,ATT-ROOM
 Does the apartment 104 contain a window?,QTY-WINDOW
 What are the quantities of single doors located in room 0233?,QTY-DOOR
 Is there a faculty office on T.O. PARAPET?,QTY-ROOM
-How many grad studios are on MECH RM ROOF?,QTY-ROOM
-How many windows are on the third level?,QTY-WINDOW
+How many grad studios are there on MECH RM ROOF?,QTY-ROOM
+How many windows are there on the third level?,QTY-WINDOW
 What's the width of door of 559492?,ATT-DOOR
-How many casements on 00 MECH RM T.O. SLAB?,QTY-WINDOW
+How many casements are there on 00 MECH RM T.O. SLAB?,QTY-WINDOW
 What are the quantities of windows on the fourth floor?,QTY-WINDOW
 What are the quantities of louver 77 on b.o. footing?,QTY-WINDOW
 What is the overall width of door 307650?,ATT-DOOR
 What is the overallheight of casement?,ATT-WINDOW
 What are the quantities of double doors included in room 0231?,QTY-DOOR
-How many louvers on b.o. footing?,QTY-WINDOW
+How many louvers are there on b.o. footing?,QTY-WINDOW
 What are the quantities of windows on level 00 MECH RM T.O. SLAB?,QTY-WINDOW
 What are the numbers of louver 85 in the building?,QTY-WINDOW
 Is there any women's room at FL 03 t.o. Structure?,QTY-ROOM
@@ -684,14 +684,14 @@ Is there a women restroom in Rinker?,QTY-ROOM
 Tell me the width of door 300135.,ATT-DOOR
 What's the overallheight of door 368080?,ATT-DOOR
 Is there a men's room at 01 FL 01 T.O. SLAB?,QTY-ROOM
-How many faculty offices are on B.O. Footing?,QTY-ROOM
+How many faculty offices are there on B.O. Footing?,QTY-ROOM
 What is the object type of window 175283?,ATT-WINDOW
 Does the room of faculty office 0322 have a door of single flush h?,QTY-DOOR
 What are the quantities of doors of single flush c in classroom 0112?,QTY-DOOR
-How many women restrooms are on T.O. PARAPET?,QTY-ROOM
+How many women restrooms are there on T.O. PARAPET?,QTY-ROOM
 What are the quantities of louver 20 in the model?,QTY-WINDOW
 What is the elevation of level 01?,ATT-STOREY
-How many storage rooms are on the level FL 02 t.o. Structure?,QTY-ROOM
+How many storage rooms are there on the level FL 02 t.o. Structure?,QTY-ROOM
 Is there a door of single flush b in medium classroom 0215?,QTY-DOOR
 In what year did ENR compile data in nine market segments?,OOD
 What are the three sectors of construction?,OOD
@@ -700,32 +700,32 @@ What is storey 02 FL 02 T.O. SLAB's elevation?,ATT-STOREY
 What is the elevation of buildingstorey top of parapet?,ATT-STOREY
 Who is the model's host?,HEAD
 What elements make up a room edition?,OOD
-How many grad studios are at the level 01 fl 01 t.o. slab?,QTY-ROOM
+How many grad studios are there at the level 01 fl 01 t.o. slab?,QTY-ROOM
 What is the elevation of buildingstorey 1 top of slab?,ATT-STOREY
 What is the elevation of level 00?,ATT-STOREY
 What are the quantities of women's restrooms are on floor MECH RM ROOF?,QTY-ROOM
-How many ladies' room are on level 02 FL 02 T.O. SLAB?,QTY-ROOM
-How many men's rooms are at FL 03 t.o. Structure?,QTY-ROOM
+How many ladies' room are there on level 02 FL 02 T.O. SLAB?,QTY-ROOM
+How many men's rooms are there at FL 03 t.o. Structure?,QTY-ROOM
 What's the elevation of the fifth floor?,ATT-STOREY
 When is the model generated?,HEAD
 Who doesn't benefit when a project doesn't follow a residential district?,OOD
-How many double doors are in classroom 0236?,QTY-DOOR
+How many double doors are there in classroom 0236?,QTY-DOOR
 What is the elevation of level 6?,ATT-STOREY
 Tell me the window's height in the men's room.,ATT-WINDOW
 "In the room of grade studio 0326, there are how many single flush doors?",QTY-DOOR
-How many louver 62 windows are in the Room 0211?,QTY-WINDOW
+How many louver 62 windows are there in the Room 0211?,QTY-WINDOW
 What is single flush g's height?,ATT-DOOR
 Does the room 0225 include a door of single flush i?,QTY-DOOR
 What is issued once construction is complete and a final inspection has been passed?,OOD
 What time was the model created?,HEAD
-How many windows in classroom 0110?,QTY-WINDOW
+How many windows are there in classroom 0110?,QTY-WINDOW
 What is the window's object type in 0305A room?,ATT-WINDOW
-How many doors of single flush C are on 03 fl 03 top of slab?,QTY-DOOR
+How many doors of single flush C are there on 03 fl 03 top of slab?,QTY-DOOR
 Many construction companies are now placing more emphasis on what?,OOD
 Tell me the quantities of doors single flush a in office 0311.,QTY-DOOR
 What are the quantities of single doors located in 0112?,QTY-DOOR
 Is there a window in medium classroom 0213?,QTY-WINDOW
-How many men's rooms are on T.O. Footing Elev?,QTY-ROOM
+How many men's rooms are there on T.O. Footing Elev?,QTY-ROOM
 What are the quantities of doors of single flush g on top of steel?,QTY-DOOR
 What is the overall width of door of Rinker double d?,ATT-DOOR
 What are the quantities of double doors included in classroom 0112?,QTY-DOOR
@@ -736,10 +736,10 @@ What's the width of a door of 563196?,ATT-DOOR
 What are the quantities of women's restrooms on floor 03 FL 03 T.O. SLAB?,QTY-ROOM
 Is there any ladies' room on level T.O. PARAPET?,QTY-ROOM
 Is there any women's room at FL 02 t.o. Structure?,QTY-ROOM
-"In the room of classroom 0110, how many doors of single flush in there?",QTY-DOOR
-How many doors of single flush h on 02 fl 02 t.o. slab?,QTY-DOOR
+"In the room of classroom 0110, how many doors of single flush are there?",QTY-DOOR
+How many doors of single flush h are there on 02 fl 02 t.o. slab?,QTY-DOOR
 What is the overall width of door single flush D?,ATT-DOOR
-How many doors on the floor MECH RM T.O. SLAB?,QTY-DOOR
+How many doors are there on the floor MECH RM T.O. SLAB?,QTY-DOOR
 What are the quantities of louver 17 on t.o. footing elev?,QTY-WINDOW
 How many shower rooms are in the rinker building?,QTY-ROOM
 What is the elevation of the 6th floor?,ATT-STOREY
@@ -748,7 +748,7 @@ What is the volume unit's name?,ATT-UNIT
 What's height of window 181653?,ATT-WINDOW
 "In the room of 0315, there are how many doors?",QTY-DOOR
 What are the quantities of double flush doors in rinker?,QTY-DOOR
-How many doors are on the level T.O. STEEL?,QTY-DOOR
+How many doors are there on the level T.O. STEEL?,QTY-DOOR
 How wide is window 635749?,ATT-WINDOW
 Does the medium classroom 0210 have a casement?,QTY-WINDOW
 What is the overall width of casement window?,ATT-WINDOW
@@ -758,14 +758,14 @@ What is the overallheight of fixed rinker?,ATT-WINDOW
 "Before they hire a contractor, what do the D&B contractors also do about a project?",OOD
 What is the objecttype of window 308816?,ATT-WINDOW
 What is the door's operation type in the office O202c?,ATT-DOOR
-How many men's rooms are at 00 MECH RM T.O. SLAB?,QTY-ROOM
+How many men's rooms are there at 00 MECH RM T.O. SLAB?,QTY-ROOM
 What are the numbers of windows on the floor T.O. PARAPET?,QTY-WINDOW
 What's 3rd building story's elevation?,ATT-STOREY
 What's the overallheight of window 181649?,ATT-WINDOW
-How many large classrooms are on MECH RM ROOF?,QTY-ROOM
+How many large classrooms are there on MECH RM ROOF?,QTY-ROOM
 Does the floor 02 fl 02 t.o. slab include a door of single flush D?,QTY-DOOR
 Tell me the window's object type in the plan room.,ATT-WINDOW
-How many medium classrooms are in the building information model?,QTY-ROOM
+How many medium classrooms are there in the building information model?,QTY-ROOM
 Does the room of main office contain a double door?,QTY-WINDOW
 Is there any interview room in the building?,QTY-ROOM
 What's the overall height of door of 561784?,ATT-DOOR
@@ -780,11 +780,11 @@ Is there a single door on t.o. parapet?,QTY-DOOR
 What is the overallwidth of window 572075?,ATT-WINDOW
 What are the quantities of louver 18 on 00 mech rm t.o. slab?,QTY-WINDOW
 What's the 5th story's elevation?,ATT-STOREY
-"In the room of 0230, how many single flush K doors in there?",QTY-DOOR
+"In the room of 0230, how many single flush K doors are there?",QTY-DOOR
 What is the 11th buildingstorey's elevation?,ATT-STOREY
 What are the quantities of doors of single flush c in Room 0215?,QTY-DOOR
 Calculate the quantities of single flush J in grade studio 0322.,QTY-DOOR
-How many single flush B are located in classroom 0215?,QTY-DOOR
+How many single flush B are there located in classroom 0215?,QTY-DOOR
 What does comprise 69 percent of?,OOD
 "In the room of large classroom 0110, there are how many doors?",QTY-DOOR
 How wide is the fixed window?,ATT-WINDOW
@@ -810,12 +810,12 @@ What's the elevation of the seventh floor?,ATT-STOREY
 What are the quantities of doors of double glass d on 03 fl 03 t.o. slab?,QTY-DOOR
 Tell me the objecttype of the window with a tag of 175371.,ATT-WINDOW
 Does the 01 fl 01 t.o. slab include a window of louver H?,QTY-WINDOW
-How many men restrooms are in level 01 FL 01 T.O. SLAB?,QTY-ROOM
+How many men restrooms are there in level 01 FL 01 T.O. SLAB?,QTY-ROOM
 What is the elevation of buildingstorey T.O. Footing?,ATT-STOREY
 What is the overall height of Rinker double door?,ATT-DOOR
 What is the elevation of level 3 top of slab?,ATT-STOREY
 How many windows does Room 0215 include?,QTY-WINDOW
-How many windows of casements are in main conference room 0303?,QTY-WINDOW
+How many windows of casements are there in main conference room 0303?,QTY-WINDOW
 Is there any louver on b.o. footing?,QTY-WINDOW
 Tell me the height of the second floor.,ATT-STOREY
 How wide is single flush h?,ATT-DOOR
@@ -823,29 +823,29 @@ How high is window of louver 49?,ATT-WINDOW
 Does the floor t.o. footing elev include a door of single flush C?,QTY-DOOR
 Does the apartment 201 have a door?,QTY-DOOR
 What is the name of the angle unit?,ATT-UNIT
-How many classrooms are on 00 MECH RM T.O. SLAB?,QTY-ROOM
+How many classrooms are there on 00 MECH RM T.O. SLAB?,QTY-ROOM
 What's the overall height of door with a tag of 637594?,ATT-DOOR
 What is the width of casement window?,ATT-WINDOW
 "In the room of medium classroom 0230, there are how many double doors?",QTY-DOOR
-How many shops are in the building?,QTY-ROOM
+How many shops are there in the building?,QTY-ROOM
 What's the objectype of the door in office 105?,ATT-DOOR
-"In office 0309, how many doors of single flush C are in there?",QTY-DOOR
+"In office 0309, how many doors of single flush C are there?",QTY-DOOR
 What is the elevation of floor FL 03 t.o. Structure?,ATT-STOREY
 Does the apartment 204 contain a door?,QTY-DOOR
 What's door 563065's overall width?,ATT-DOOR
 What is the elevation of story 2 top of structure?,ATT-STOREY
-How many doors are on the third level?,QTY-DOOR
+How many doors are there on the third level?,QTY-DOOR
 "In classroom 0112, there are how many fixed windows?",QTY-WINDOW
 "In the faculty office 0331, there are how many windows?",QTY-WINDOW
 What's the overall height of a door of 563244?,ATT-DOOR
 Is there any louver 48 on 01 fl 01 t.o. slab?,QTY-WINDOW
 Tell me the window's height in the room for interviews.,ATT-WINDOW
 "In the room of storage, there are how many casements?",QTY-WINDOW
-How many louvers on mech rm roof?,QTY-WINDOW
-How many louver 13 on mech rm roof?,QTY-WINDOW
+How many louvers are there on mech rm roof?,QTY-WINDOW
+How many louver 13 are there on mech rm roof?,QTY-WINDOW
 What is door 380772's overallheight?,ATT-DOOR
-How many grad studios are at the level 00 MECH RM T.O. SLAB?,QTY-ROOM
-How many doors are in room 2?,QTY-DOOR
+How many grad studios are there at the level 00 MECH RM T.O. SLAB?,QTY-ROOM
+How many doors are there in room 2?,QTY-DOOR
 Does the level 01 fl 01 t.o. slab have a door of single flush f?,QTY-DOOR
 Is there a fixed window on 01 fl 01 t.o. slab?,QTY-WINDOW
 What is the elevation of buildingstorey T.O. PARAPET?,ATT-STOREY
@@ -853,27 +853,27 @@ What's the object type of the door in office 105?,ATT-DOOR
 What is the object type of door 560030?,ATT-DOOR
 Is there a door in room 5?,QTY-DOOR
 Does the level t.o. footing elev have a window of casement?,QTY-WINDOW
-How many windows are in room 303?,QTY-WINDOW
+How many windows are there in room 303?,QTY-WINDOW
 What are the numbers of doors on floor MECH RM ROOF?,QTY-DOOR
 Does the room of office manager have a casement?,QTY-WINDOW
 What is the elevation of the 10th floor?,ATT-STOREY
 What's window 392295's overallwidth?,ATT-WINDOW
 Is there a faculty office on 02 FL 02 T.O. SLAB?,QTY-ROOM
-How many louver 63 are in the building?,QTY-WINDOW
+How many louver 63 are there in the building?,QTY-WINDOW
 What sector includes large public works but not utility distribution?,OOD
 What is the window louver 21's width?,ATT-WINDOW
-How many double flush doors are in medium classroom 0216?,QTY-DOOR
+How many double flush doors are there in medium classroom 0216?,QTY-DOOR
 What are the quantities of building storeys in the Rinker model?,QTY-STOREY
 Tell me the view definition.,HEAD
 What is floor 00 MECH RM T.O. SLAB's elevation?,ATT-STOREY
-"In the room of classroom 0110, how many single flush doors in there?",QTY-DOOR
-How many windows are in room 101?,QTY-WINDOW
+"In the room of classroom 0110, how many single flush doors are there?",QTY-DOOR
+How many windows are there in room 101?,QTY-WINDOW
 What is the width of the window 387649?,ATT-WINDOW
 Does the top of parapet include a window of louver b?,QTY-WINDOW
-How many double flush doors on 02 FL 02 T.O. SLAB?,QTY-DOOR
-How many doors of single flush on t.o. steel?,QTY-DOOR
+How many double flush doors are there on 02 FL 02 T.O. SLAB?,QTY-DOOR
+How many doors of single flush are there on t.o. steel?,QTY-DOOR
 What's the window's width in room 0106?,ATT-WINDOW
-How many windows are on level 2?,QTY-WINDOW
+How many windows are there on level 2?,QTY-WINDOW
 Does the apartment 205 contain a door?,QTY-DOOR
 What is the window louver 26's overallwidth?,ATT-WINDOW
 Is there a door of single flush F in classroom 0110?,QTY-DOOR
@@ -883,25 +883,25 @@ What is the longname of room S398A?,ATT-ROOM
 What's the door's height in room 0206?,ATT-DOOR
 What is the 9th building storey's elevation?,ATT-STOREY
 What is the B.O. Footing's elevation?,ATT-STOREY
-How many doors of single flush a are on 03 fl 03 t.o. slab?,QTY-DOOR
+How many doors of single flush a are there on 03 fl 03 t.o. slab?,QTY-DOOR
 What is the angle unit's name?,ATT-UNIT
 "In the room of large classroom 0110, there are how many double doors?",QTY-DOOR
 Does the level 01 fl 01 t.o. slab contain a double flush door?,QTY-DOOR
 Is there a men's room on 02 FL 02 T.O. SLAB?,QTY-ROOM
-How many faculty offices are on T.O. PARAPET?,QTY-ROOM
-How many double flush doors are on 03 fl 03 t.o. slab?,QTY-DOOR
-How many windows are in room 304?,QTY-WINDOW
-How many doors on the level 03 FL 03 T.O. SLAB?,QTY-DOOR
-How many stories are in the model?,QTY-STOREY
+How many faculty offices are there on T.O. PARAPET?,QTY-ROOM
+How many double flush doors are there on 03 fl 03 t.o. slab?,QTY-DOOR
+How many windows are there in room 304?,QTY-WINDOW
+How many doors are there on the level 03 FL 03 T.O. SLAB?,QTY-DOOR
+How many stories are there in the model?,QTY-STOREY
 How high is casement?,ATT-WINDOW
-"In the office 0314, how many doors of single flush are in there?",QTY-DOOR
+"In the office 0314, how many doors of single flush are there?",QTY-DOOR
 What is the height of the door in room 0315?,ATT-DOOR
 What's the door's height in storage 0343?,ATT-DOOR
 How high is louver 1?,ATT-WINDOW
 Does the model have a door of single flush G?,QTY-DOOR
 Is there a door located in room 307?,QTY-DOOR
 What is the window's operation type in the office o201C?,ATT-WINDOW
-What is necessary for successfully completing  bidding on a project?,OOD
+What is necessary for successfully completing bidding on a project?,OOD
 Tell me the quantities of windows in the model.,QTY-WINDOW
 "In the room of 0230, there are how many double doors?",QTY-DOOR
 Height of door 300135,ATT-DOOR
@@ -917,20 +917,20 @@ Is there a men's room on T.O. PARAPET?,QTY-ROOM
 Tell me the numbers of single flush doors in the model.,QTY-DOOR
 Calculate rooms' quantities in the model.,QTY-ROOM
 What's the height of the door with a tag of 368004?,ATT-DOOR
-How many storage rooms are on the level 01 fl 01 t.o. slab?,QTY-ROOM
+How many storage rooms are there on the level 01 fl 01 t.o. slab?,QTY-ROOM
 Does the model contain a double flush door?,QTY-DOOR
 What's window 624295's objecttype?,ATT-WINDOW
 What is single flush A's overallheight?,ATT-DOOR
 What is the elevation of building storey 03 top of structure?,ATT-STOREY
 What are the quantities of double doors located in Room 0215?,QTY-DOOR
 What's the height of a door with a tag of 562599?,ATT-DOOR
-How many windows are in room 301?,QTY-WINDOW
+How many windows are there in room 301?,QTY-WINDOW
 "In the room of 0330, there are how many single flush doors?",QTY-DOOR
-How many louver 12 on b.o. footing?,QTY-WINDOW
+How many louver 12 are there on b.o. footing?,QTY-WINDOW
 Does the faculty office 0329 have a window of louver 25?,QTY-WINDOW
 How many feet high is window 597310?,ATT-WINDOW
 What are the numbers of single flush F located in 0110?,QTY-DOOR
-How many classrooms are on floor T.O. PARAPET?,QTY-ROOM
+How many classrooms are there on floor T.O. PARAPET?,QTY-ROOM
 What are the quantities of casements on mech rm roof?,QTY-WINDOW
 What is the organization?,HEAD
 What is the elevation of level 2 top of structure?,ATT-STOREY
@@ -938,19 +938,19 @@ Is there a shop in level FL 03 t.o. Structure?,QTY-ROOM
 What are the quantities of double doors located in medium classroom 0215?,QTY-DOOR
 Does the interview 0141 room include a door of single flush A?,QTY-DOOR
 What are the quantities of louver 89 in the medium classroom 0210?,QTY-WINDOW
-"In classroom 0220, how many doors of single flush g in there?",QTY-DOOR
+"In classroom 0220, how many doors of single flush g are there?",QTY-DOOR
 What's the object type of door of 558253?,ATT-DOOR
 The modern trend in design is toward integration of what?,OOD
 "In the room 0329, there are how many doors?",QTY-DOOR
 Does the apartment 101 contain a door?,QTY-DOOR
-"In the room 0314, how many doors of single flush are in there?",QTY-DOOR
+"In the room 0314, how many doors of single flush are there?",QTY-DOOR
 "In the room of faculty office 0323, there are how many double doors?",QTY-DOOR
-"In the room of office 0315, how many doors of single flush D in there?",QTY-DOOR
+"In the room of office 0315, how many doors of single flush D are there?",QTY-DOOR
 Tell me the quantities of rooms in the model.,QTY-ROOM
 Does the apartment 104 have a window?,QTY-WINDOW
 What are the quantities of windows on floor T.O. PARAPET?,QTY-WINDOW
-How many single flush B located in Room 0215?,QTY-DOOR
-How many double flush doors on FL 03 t.o. Structure?,QTY-DOOR
+How many single flush B are there located in Room 0215?,QTY-DOOR
+How many double flush doors are there on FL 03 t.o. Structure?,QTY-DOOR
 "In the room of grad studio 0320, there are how many doors?",QTY-DOOR
 Does top of steel contain a door of single flush c?,QTY-DOOR
 What's the window's operationtype in the office s201c?,ATT-WINDOW
@@ -963,13 +963,13 @@ What is the overallwidth of rinker double door?,ATT-DOOR
 How wide is window of louver 89?,ATT-WINDOW
 Tell me the door's height in faculty office.,ATT-DOOR
 What is the overallwidth of door 301555?,ATT-DOOR
-How many windows are at level 1?,QTY-WINDOW
+How many windows are there at level 1?,QTY-WINDOW
 Does 02 fl 02 t.o. slab have a louver?,QTY-WINDOW
 What is room 0201's long name?,ATT-ROOM
-How many women restrooms are on B.O. Footing?,QTY-ROOM
+How many women restrooms are there on B.O. Footing?,QTY-ROOM
 Tell me double flush doors' quantities in faculty office 0331.,QTY-DOOR
 Calculate windows of louver 12's quantities in interview 0143 room.,QTY-WINDOW
-How many faculty offices are in FL 02 t.o. Structure?,QTY-ROOM
+How many faculty offices are there in FL 02 t.o. Structure?,QTY-ROOM
 What is the elevation of building storey 02 top of structure?,ATT-STOREY
 Does the classroom 0215 have a door?,QTY-DOOR
 How wide is a window with a tag of 635607?,ATT-WINDOW
@@ -978,7 +978,7 @@ Tell me the objecttype of the door with a tag of 389449.,ATT-DOOR
 What's the buildingstorey 17th's elevation?,ATT-STOREY
 What's overall width of window 181752?,ATT-WINDOW
 Is there a louver 39 on b.o. footing?,QTY-WINDOW
-How many doors on the level FL 03 t.o. Structure?,QTY-DOOR
+How many doors are there on the level FL 03 t.o. Structure?,QTY-DOOR
 What are the quantities of double doors included in medium classroom 0231?,QTY-DOOR
 What's the angle unit's name?,ATT-UNIT
 Is there a window on level 3?,QTY-WINDOW
@@ -1005,9 +1005,9 @@ What is the height of window of casement?,ATT-WINDOW
 Is there a classroom on floor 02 FL 02 T.O. SLAB?,QTY-ROOM
 How wide is a door of 563671?,ATT-DOOR
 What's window 392072's height?,ATT-WINDOW
-How many doors of single flush c on 02 fl 02 t.o. slab?,QTY-DOOR
+How many doors of single flush c are there on 02 fl 02 t.o. slab?,QTY-DOOR
 What is the height of storey 00 MECH RM T.O. SLAB?,ATT-STOREY
-How many faculty offices are on T.O. Footing Elevation?,QTY-ROOM
+How many faculty offices are there on T.O. Footing Elevation?,QTY-ROOM
 Is there a large classroom in 00 MECH RM T.O. SLAB?,QTY-ROOM
 Does the apartment 201 contain a door?,QTY-DOOR
 Does the room 0215 have a window of fixed rinker?,QTY-WINDOW
@@ -1015,14 +1015,14 @@ What is the overall height of double flush B?,ATT-DOOR
 Model's IFC Schema,HEAD
 "New techniques of building construction are being researched, made possible by advances in what?",OOD
 What are the quantities of louver 78 on fl 02 top of structure?,QTY-WINDOW
-How many louver 62 on 00 mech rm t.o. slab?,QTY-WINDOW
+How many louver 62 are there on 00 mech rm t.o. slab?,QTY-WINDOW
 How many feet high is window 597120?,ATT-WINDOW
-"In the room of 0220, how many doors of single flush d in there?",QTY-DOOR
+"In the room of 0220, how many doors of single flush d are there?",QTY-DOOR
 What is the overall width of the rinker double door?,ATT-DOOR
-How many grad studios are at the level FL 03 t.o. Structure?,QTY-ROOM
+How many grad studios are there at the level FL 03 t.o. Structure?,QTY-ROOM
 What's the objecttype of the window in office 106?,ATT-WINDOW
 How many meters wide is the window of 597258?,ATT-WINDOW
-How many women restrooms are in the building?,QTY-ROOM
+How many women restrooms are there in the building?,QTY-ROOM
 What's the name of the area unit?,ATT-UNIT
 Is there any casement on t.o. footing elev?,QTY-WINDOW
 What is the object type of window 175235?,ATT-WINDOW
@@ -1032,29 +1032,29 @@ How wide is louver 6?,ATT-WINDOW
 Does the room of storage contain a window?,QTY-WINDOW
 Calculate the quantities of louvers in the model.,QTY-WINDOW
 Is there a door in room 109?,QTY-DOOR
-How many men restrooms are on floor T.O. Footing Elev?,QTY-ROOM
+How many men restrooms are there on floor T.O. Footing Elev?,QTY-ROOM
 What's the operation type of the window in apartment 0306?,ATT-WINDOW
 What types of employees does and interior design firm usually have?,OOD
 "What kind of contract is given when the contractor is given a performance specification and must undertake the project from design to construction, while adhering to the performance specifications?",OOD
 "In the EU in 2009, what was the fatal injury rate among construction workers?",OOD
 What are the quantities of windows on 03 FL 03 T.O. SLAB?,QTY-WINDOW
 What is the object type of the window in faculty office 0309?,ATT-WINDOW
-How many louver 55 are in the building information model?,QTY-WINDOW
+How many louver 55 are there in the building information model?,QTY-WINDOW
 "In 0110, there are how many single flush f doors?",QTY-DOOR
 Tell me casements' numbers in rooms of grade studio 0326.,QTY-WINDOW
-"In office 0327, how many windows of louver 89 in there?",QTY-WINDOW
+"In office 0327, how many windows of louver 89 are there?",QTY-WINDOW
 What is the elevation of buildingstorey 3 top of structure?,ATT-STOREY
 Calculate casements' quantities in office 0329.,QTY-WINDOW
 What is the window's operationtype in the office O202A?,ATT-WINDOW
 Is there a shop in level T.O. STEEL?,QTY-ROOM
 What is the long name of room 0030A?,ATT-ROOM
 What are the quantities of women restrooms on floor 00 MECH RM T.O. SLAB?,QTY-ROOM
-How many doors are in room 3?,QTY-DOOR
-How many louver 95 on b.o. footing?,QTY-WINDOW
+How many doors are there in room 3?,QTY-DOOR
+How many louver 95 are there on b.o. footing?,QTY-WINDOW
 What's the elevation of level 4?,ATT-STOREY
 What is room 0202's longname?,ATT-ROOM
 What is the object type of the door in room 0319?,ATT-DOOR
-How many doors with double glass are in the building?,QTY-DOOR
+How many doors with double glass are there in the building?,QTY-DOOR
 How many feet wide is door 563881?,ATT-DOOR
 "In the room 0110, there are how many doors?",QTY-DOOR
 Is there a medium classroom in the Rinker building?,QTY-ROOM
@@ -1064,41 +1064,41 @@ What is the window's height in room of 0323?,ATT-WINDOW
 Is there a shop in level 01 FL 01 T.O. SLAB?,QTY-ROOM
 Does the floor t.o. footing elev have a fixed rinker window?,QTY-WINDOW
 Is there any louver on mech rm roof?,QTY-WINDOW
-How many single flush j are located in room 0235?,QTY-DOOR
+How many single flush j are there located in room 0235?,QTY-DOOR
 Tell me the quantities of casements in the model.,QTY-WINDOW
 Is there a door in room 8?,QTY-DOOR
 Does the office 0322 have a casement?,QTY-WINDOW
-How many ladies' rooms are on level T.O. Footing Elev?,QTY-ROOM
+How many ladies' rooms are there on level T.O. Footing Elev?,QTY-ROOM
 How high is floor 00 MECH RM T.O. SLAB?,ATT-STOREY
 "In the office 0331, there are how many windows?",QTY-WINDOW
 Can you tell me the height of the door located in room 1?,ATT-DOOR
-How many windows on 02 FL 02 T.O. SLAB?,QTY-WINDOW
+How many windows are there on 02 FL 02 T.O. SLAB?,QTY-WINDOW
 What's window 391926's overall height?,ATT-WINDOW
 What are the quantities of louvers on fl 02 t.o. structure?,QTY-WINDOW
-How many louver 44 windows are in the medium classroom 0210?,QTY-WINDOW
+How many louver 44 windows are there in the medium classroom 0210?,QTY-WINDOW
 Is there a door in room 105?,QTY-DOOR
 What's building story 03 top of structure's elevation?,ATT-STOREY
 What are the quantities of classrooms in the model?,QTY-ROOM
-How many large classrooms are in FL 03 t.o. Structure?,QTY-ROOM
+How many large classrooms are there in FL 03 t.o. Structure?,QTY-ROOM
 What is louver 20's overallwidth?,ATT-WINDOW
-How many louvers on 00 mech rm t.o. slab?,QTY-WINDOW
+How many louvers are there on 00 mech rm t.o. slab?,QTY-WINDOW
 Tell me the objecttype of window with a tag of 175055.,ATT-WINDOW
-How many faculty offices are in 00 MECH RM T.O. SLAB?,QTY-ROOM
+How many faculty offices are there in 00 MECH RM T.O. SLAB?,QTY-ROOM
 What is room 0246's long name?,ATT-ROOM
 Tell me double doors' quantities.,QTY-DOOR
-How many women restrooms are on 03 FL 03 T.O. SLAB?,QTY-ROOM
+How many women restrooms are there on 03 FL 03 T.O. SLAB?,QTY-ROOM
 How many windows does large classroom 0110 have?,QTY-WINDOW
 What is room 0207a's long name?,ATT-ROOM
 What is the long name of room 0336b?,ATT-ROOM
-How many medium classrooms are at level FL 03 top of Structure?,QTY-ROOM
-How many grad studios are at the level T.O. STEEL?,QTY-ROOM
-How many single flush e are located in classroom 0110?,QTY-DOOR
-How many men restrooms are in level FL 03 top of Structure?,QTY-ROOM
+How many medium classrooms are there at level FL 03 top of Structure?,QTY-ROOM
+How many grad studios are there at the level T.O. STEEL?,QTY-ROOM
+How many single flush e are there located in classroom 0110?,QTY-DOOR
+How many men restrooms are there in level FL 03 top of Structure?,QTY-ROOM
 What's the overall width of the window in office 102?,ATT-WINDOW
 Does the building contain a door of single flush h?,QTY-DOOR
 What is the elevation of level 03?,ATT-STOREY
 What are the quantities of storage rooms in the model?,QTY-ROOM
-"In the associate director's room, how many single flush doors are in there?",QTY-DOOR
+"In the associate director's room, how many single flush doors are there?",QTY-DOOR
 What is the height of Rinker double door?,ATT-DOOR
 Tell me the height of the door 300135.,ATT-DOOR
 What is the elevation of story top of steel?,ATT-STOREY
@@ -1110,38 +1110,38 @@ What's the width of a door with a tag of 562753?,ATT-DOOR
 Tell me single flush A doors' numbers.,QTY-DOOR
 "In 0329, there are how many doors?",QTY-DOOR
 What's door 563112's overallwidth?,ATT-DOOR
-How many single flush doors on t.o. steel?,QTY-DOOR
-"In medium classroom 0220, how many doors in there?",QTY-DOOR
+How many single flush doors are there on t.o. steel?,QTY-DOOR
+"In medium classroom 0220, how many doors are there?",QTY-DOOR
 What is the window's object type in the office 201?,ATT-WINDOW
 Is there a classroom on floor T.O. PARAPET?,QTY-ROOM
 What are the numbers of classrooms on T.O. Footing Elevation?,QTY-ROOM
 What's building storey top of steel's elevation?,ATT-STOREY
 Does the building have a fixed window?,QTY-WINDOW
-"In the room of 0320, how many doors of single flush in there?",QTY-DOOR
+"In the room of 0320, how many doors of single flush are there?",QTY-DOOR
 Is there any ladies' room in the building?,QTY-ROOM
 What are the quantities of doors of single flush a in main conference room 0303?,QTY-DOOR
-How many windows of louver 12 are in medium classroom 0106?,QTY-WINDOW
+How many windows of louver 12 are there in medium classroom 0106?,QTY-WINDOW
 Tell me the door's width in apartment 302.,ATT-DOOR
 What is room 0235's long name?,ATT-ROOM
 Does the main conference room 0303 have a door of singe flush b?,QTY-DOOR
 What are the numbers of double flush doors in medium classroom 0230?,QTY-DOOR
-"In the associate director's room, how many doors of single flush are in there?",QTY-DOOR
+"In the associate director's room, how many doors of single flush are there?",QTY-DOOR
 What is the overallwidth of double flush B?,ATT-DOOR
 Does the room 0210 contain a door of single flush D?,QTY-DOOR
 What is the overallwidth of window 174054?,ATT-WINDOW
 Is there a classroom on floor 03 FL 03 T.O. SLAB?,QTY-ROOM
 What are the numbers of single flush V located in classroom 0234?,QTY-DOOR
 What's height of door 300135?,ATT-DOOR
-How many doors of double flush B in Room 0215?,QTY-DOOR
+How many doors of double flush B are there in Room 0215?,QTY-DOOR
 Does the room 0215 have a fixed rinker window?,QTY-WINDOW
 What's the elevation of level 1?,ATT-STOREY
 What is the overallheight of the Rinker double door?,ATT-DOOR
 What is the overall height of rinker double D?,ATT-DOOR
 Does the interview 0141 room have a casement?,QTY-WINDOW
 What is the overallheight of window 624294?,ATT-WINDOW
-How many single doors are in the building?,QTY-DOOR
+How many single doors are there in the building?,QTY-DOOR
 "In medium classroom 0225, there are how many fixed windows?",QTY-WINDOW
-How many men's rooms are at FL 02 t.o. Structure?,QTY-ROOM
+How many men's rooms are there at FL 02 t.o. Structure?,QTY-ROOM
 What are the quantities of doors of single flush c in medium classroom 0215?,QTY-DOOR
 What is the window of louver 32's overallwidth?,ATT-WINDOW
 What is the height of the window in room 0225?,ATT-WINDOW
@@ -1149,25 +1149,25 @@ What's the object type of door of 301555?,ATT-DOOR
 Does the medium classroom 0215 have a door?,QTY-DOOR
 How many feet wide is window 597066?,ATT-WINDOW
 What is the door's overall width of single flush F?,ATT-DOOR
-How many louver 57 on fl 02 top of structure?,QTY-WINDOW
+How many louver 57 are there on fl 02 top of structure?,QTY-WINDOW
 Tell me the windows' object type in apartment 309.,ATT-WINDOW
 "In the classroom 0112, there are how many windows?",QTY-WINDOW
 What's overall height of door 385195?,ATT-DOOR
-How many doors are in room 302?,QTY-DOOR
+How many doors are there in room 302?,QTY-DOOR
 Is there a large classroom in 01 FL 01 T.O. SLAB?,QTY-ROOM
-How many building stories are in the model?,QTY-STOREY
-How many windows of louver 12 are in Room 0106?,QTY-WINDOW
-"In the room of office 0314, how many doors of single flush in there?",QTY-DOOR
+How many building stories are there in the model?,QTY-STOREY
+How many windows of louver 12 are there in Room 0106?,QTY-WINDOW
+"In the room of office 0314, how many doors of single flush are there?",QTY-DOOR
 Does the t.o. footing elev include a window of louver H?,QTY-WINDOW
-How many medium classrooms are in the building?,QTY-ROOM
+How many medium classrooms are there in the building?,QTY-ROOM
 How many feet elevated of level 3 top of slab?,ATT-STOREY
 What is the height of double flush b?,ATT-DOOR
 What are the quantities of windows on MECH RM ROOF?,QTY-WINDOW
 Calculate the numbers of windows of louver 12 in the model.,QTY-WINDOW
-"In 0110, how many doors of single flush B are in there?",QTY-DOOR
+"In 0110, how many doors of single flush B are there?",QTY-DOOR
 What is the door's overallheight of single flush h?,ATT-DOOR
 What's building storey 02 top of slab's elevation?,ATT-STOREY
-"In the room 0230, how many doors of single flush in there?",QTY-DOOR
+"In the room 0230, how many doors of single flush are there?",QTY-DOOR
 What's the 12th buildingstorey's elevation?,ATT-STOREY
 Is there any storage room in 00 MECH RM T.O. SLAB?,QTY-ROOM
 How high is door 563702?,ATT-DOOR
@@ -1177,12 +1177,12 @@ Does the room 0210 have a window of louver 36?,QTY-WINDOW
 How many feet elevated of level 1 top of slab?,ATT-STOREY
 Is there a women's room in Rinker?,QTY-ROOM
 Does 02 fl 02 t.o. slab contain a door of single flush C?,QTY-DOOR
-How many building stories are in the model?,QTY-STOREY
+How many building stories are there in the model?,QTY-STOREY
 Calculate janitor rooms' quantities.,QTY-ROOM
 Is there a fixed window on t.o. footing elev?,QTY-WINDOW
 Does the medium classroom 0215 have a window?,QTY-WINDOW
 Does the grad studio 0320 have a fixed window?,QTY-WINDOW
-"In the room of faculty office 0314, how many doors of single flush in there?",QTY-DOOR
+"In the room of faculty office 0314, how many doors of single flush are there?",QTY-DOOR
 How many feet wide is louver 14?,ATT-WINDOW
 Is there any window in medium classroom 0215?,QTY-WINDOW
 What is the overall height of casement window?,ATT-WINDOW
@@ -1190,8 +1190,8 @@ What's the elevation of level 3?,ATT-STOREY
 What's the height of a window with a tag of 391323?,ATT-WINDOW
 Does the large classroom 0110 contain a double flush door?,QTY-DOOR
 How many feet wide is door 646512?,ATT-DOOR
-How many doors on the floor T.O. Footing Elev?,QTY-DOOR
-"In the room of 0220, how many doors of single flush D in there?",QTY-DOOR
+How many doors are there on the floor T.O. Footing Elev?,QTY-DOOR
+"In the room of 0220, how many doors of single flush D are there?",QTY-DOOR
 What is the overall height of door 307650?,ATT-DOOR
 Who is the host of this model?,HEAD
 What are the quantities of louvers on t.o. footing elev?,QTY-WINDOW
@@ -1201,11 +1201,11 @@ Does the classroom 0110 contain a double flush door?,QTY-DOOR
 What are the quantities of casements on 01 fl 01 t.o. slab?,QTY-WINDOW
 What is the long name of room 0106?,ATT-ROOM
 What's window 391929's overall width?,ATT-WINDOW
-How many doors on the floor 01 FL 01 T.O. SLAB?,QTY-DOOR
-"In office 0311, how many doors are in there?",QTY-DOOR
+How many doors are there on the floor 01 FL 01 T.O. SLAB?,QTY-DOOR
+"In office 0311, how many doors are there?",QTY-DOOR
 Does the apartment 205 contain a window?,QTY-WINDOW
 What's the door's width in room 0204?,ATT-DOOR
-"In faculty office 0327, how many windows of louver 89 in there?",QTY-WINDOW
+"In faculty office 0327, how many windows of louver 89 are there?",QTY-WINDOW
 Tell me the numbers of classrooms in the model.,QTY-ROOM
 "In the office 0329, there are how many doors?",QTY-DOOR
 What are the quantities of doors of double flush on 03 fl 03 t.o. slab?,QTY-DOOR
@@ -1214,32 +1214,32 @@ What are the quantities of women restrooms on floor 01 FL 01 T.O. SLAB?,QTY-ROOM
 What's window 175413's objecttype?,ATT-WINDOW
 What is the door's object type in room of 0245?,ATT-DOOR
 What's door 630482's objecttype?,ATT-DOOR
-How many large classrooms are on T.O. Footing Elev?,QTY-ROOM
+How many large classrooms are there on T.O. Footing Elev?,QTY-ROOM
 Tell me the door's height in apartment 310.,ATT-DOOR
 What are the quantities of louver 26 on 01 fl 01 t.o. slab?,QTY-WINDOW
 What are the quantities of double flush doors on t.o. steel?,QTY-DOOR
-"In classroom 0220, how many windows of louver 49 in there?",QTY-DOOR
+"In classroom 0220, how many windows of louver 49 are there?",QTY-DOOR
 What are the quantities of doors of double flush in the building information model?,QTY-DOOR
-How many faculty offices are in 01 FL 01 T.O. SLAB?,QTY-ROOM
+How many faculty offices are there in 01 FL 01 T.O. SLAB?,QTY-ROOM
 Does the faculty office 0322 have door of single flush H?,QTY-DOOR
 Does the classroom 0110 have a window?,QTY-WINDOW
 What are the quantities of windows on T.O. STEEL?,QTY-WINDOW
-How many doors are in room 303?,QTY-DOOR
+How many doors are there in room 303?,QTY-DOOR
 "In the storage room, there are how many windows?",QTY-WINDOW
 What is the window of louver 27's width?,ATT-WINDOW
-How many casements on 01 fl 01 t.o. slab?,QTY-WINDOW
+How many casements are there on 01 fl 01 t.o. slab?,QTY-WINDOW
 How high is single flush A door?,ATT-DOOR
 Does the level 00 mech rm t.o. slab contain a double flush door?,QTY-DOOR
 Who has a classification system for all North American companies?,OOD
 What is the overallheight of window 175371?,ATT-WINDOW
 What is the overallwidth of door 300135?,ATT-DOOR
 What is the long name of room 0336?,ATT-ROOM
-How many windows of louver 8 on mech rm roof?,QTY-WINDOW
-How many louver 17 on 00 mech rm t.o. slab?,QTY-WINDOW
+How many windows of louver 8 are there on mech rm roof?,QTY-WINDOW
+How many louver 17 are there on 00 mech rm t.o. slab?,QTY-WINDOW
 Is there a door of double flush on t.o. parapet?,QTY-DOOR
-How many windows on 01 FL 01 T.O. SLAB?,QTY-WINDOW
+How many windows are there on 01 FL 01 T.O. SLAB?,QTY-WINDOW
 Tell me the windows' object type in the faculty office.,ATT-WINDOW
-How many windows are in large classroom 0110?,QTY-WINDOW
+How many windows are there in large classroom 0110?,QTY-WINDOW
 How many feet high is single flush g?,ATT-DOOR
 Is there any ladies' room on level MECH RM ROOF?,QTY-ROOM
 How high is double glass k?,ATT-DOOR
@@ -1248,7 +1248,7 @@ Does the room 0225 include a door of single flush I?,QTY-DOOR
 Does top of parapet have a casement?,QTY-WINDOW
 Is there any women's room at T.O. STEEL?,QTY-ROOM
 How many feet elevated of level 2 top of slab?,ATT-STOREY
-How many faculty offices are in FL 03 top of Structure?,QTY-ROOM
+How many faculty offices are there in FL 03 top of Structure?,QTY-ROOM
 How high is a door of 563637?,ATT-DOOR
 What's the height of window 572075?,ATT-WINDOW
 What are the quantities of louver 29 on mech room roof?,QTY-WINDOW
@@ -1270,26 +1270,26 @@ Does the top of steel include a window of louver C?,QTY-WINDOW
 What helps the owner in design and construction?,OOD
 What is the elevation of T.O. STEEL?,ATT-STOREY
 What is the long name of room 0110?,ATT-ROOM
-How many double flush doors in Room 0216?,QTY-DOOR
+How many double flush doors are there in Room 0216?,QTY-DOOR
 Is there any louver 49 on fl 02 top of structure?,QTY-WINDOW
 What's the overallwidth of the window in office B102?,ATT-WINDOW
 What's the object type of door of 380772?,ATT-DOOR
-"In the room 0110, how many doors of single flush B are in there?",QTY-DOOR
+"In the room 0110, how many doors of single flush B are there?",QTY-DOOR
 What's the 14th buildingstorey's elevation?,ATT-STOREY
 What is the elevation of story 1 top of slab?,ATT-STOREY
 What is a net of projects and other legal exchanges?,OOD
-How many grad studios are on T.O. Footing Elevation?,QTY-ROOM
+How many grad studios are there on T.O. Footing Elevation?,QTY-ROOM
 What are the quantities of casements on fl 02 t.o. structure?,QTY-WINDOW
-How many women restrooms are on 02 FL 02 T.O. SLAB?,QTY-ROOM
+How many women restrooms are there on 02 FL 02 T.O. SLAB?,QTY-ROOM
 Does the apartment 102 have a window?,QTY-WINDOW
 Tell me the quantities of windows in shop room.,QTY-WINDOW
 What's the width of the window of 387649?,ATT-WINDOW
 Is there any window in medium classroom 0211?,QTY-WINDOW
-How many louver 28 on 01 fl 01 t.o. slab?,QTY-WINDOW
-How many louver 57 on 00 mech rm t.o. slab?,QTY-WINDOW
-How many doors of single flush D are in classroom 0112?,QTY-DOOR
+How many louver 28 are there on 01 fl 01 t.o. slab?,QTY-WINDOW
+How many louver 57 are there on 00 mech rm t.o. slab?,QTY-WINDOW
+How many doors of single flush D are there in classroom 0112?,QTY-DOOR
 What is the door's height in room 0136?,ATT-DOOR
-How many windows on 00 MECH RM T.O. SLAB?,QTY-WINDOW
+How many windows are there on 00 MECH RM T.O. SLAB?,QTY-WINDOW
 Is there a window in medium classroom 0215?,QTY-WINDOW
 What's height of door 308454?,ATT-DOOR
 What's the overallwidth of door of 562465?,ATT-DOOR
@@ -1303,16 +1303,16 @@ What is the door single flush a's width?,ATT-DOOR
 Does the building include a window of louver E?,QTY-WINDOW
 "Refineries, process chemical, power generation, mills and manufacturing plants are under what sector of construction?",OOD
 What are the quantities of double doors located in medium classroom 0232?,QTY-DOOR
-How many classrooms are on floor B.O. Footing?,QTY-ROOM
-How many grad studios are on 03 FL 03 T.O. SLAB?,QTY-ROOM
+How many classrooms are there on floor B.O. Footing?,QTY-ROOM
+How many grad studios are there on 03 FL 03 T.O. SLAB?,QTY-ROOM
 What's the object type of door of 560175?,ATT-DOOR
 What's the overall height of the door in room of office 101a?,ATT-DOOR
-How many louver 93 on mech room roof?,QTY-WINDOW
-"In large classroom 0112, how many windows of louver 77 in there?",QTY-WINDOW
+How many louver 93 are there on mech room roof?,QTY-WINDOW
+"In large classroom 0112, how many windows of louver 77 are there?",QTY-WINDOW
 What are the quantities of single doors located in classroom 0233?,QTY-DOOR
 What are the quantities of doors of single flush c in room 0219?,QTY-DOOR
-How many computer labs are in the Rinker building?,QTY-ROOM
-How many double flush doors in Room 0215?,QTY-DOOR
+How many computer labs are there in the Rinker building?,QTY-ROOM
+How many double flush doors are there in Room 0215?,QTY-DOOR
 Does the classroom 0110 contain a single flush door?,QTY-DOOR
 Is there a medium classroom on level FL 03 t.o. Structure?,QTY-ROOM
 What three construction subsectors are firms managing construction projects divided into?,OOD
@@ -1320,14 +1320,14 @@ What is the door's overall height of single flush H?,ATT-DOOR
 What is the door of double glass k's overall width?,ATT-DOOR
 Does the floor top of parapet contain a door of single flush B?,QTY-DOOR
 How high is the floor T.O. Footing Elev?,ATT-STOREY
-How many windows of fixed Rinker on T.O. Footing Elevation?,QTY-WINDOW
+How many windows of fixed Rinker are there on T.O. Footing Elevation?,QTY-WINDOW
 Is there a grad studio in FL 03 t.o. Structure?,QTY-ROOM
 What is the window of louver 31's overallheight?,ATT-WINDOW
-How many casements on t.o. footing elev?,QTY-WINDOW
+How many casements are there on t.o. footing elev?,QTY-WINDOW
 What is the area unit's name?,ATT-UNIT
 Is there any grad studio in the model?,QTY-ROOM
 What is PPP?,OOD
-How many doors with double glass on FL 03 t.o. Structure?,QTY-DOOR
+How many doors with double glass are there on FL 03 t.o. Structure?,QTY-DOOR
 What is the height of the window in medium classroom 0220?,ATT-WINDOW
 What's door 563043's overall height?,ATT-DOOR
 What is the long name of room S398A?,ATT-ROOM
@@ -1337,22 +1337,22 @@ What's the name of angle unit?,ATT-UNIT
 Is there a faculty office on FL 02 t.o. Structure?,QTY-ROOM
 How many meters high is the door of 584134?,ATT-DOOR
 What is the type of door 307650?,ATT-DOOR
-How many doors of single flush C on fl 03 t.o. structure?,QTY-DOOR
+How many doors of single flush C are there on fl 03 t.o. structure?,QTY-DOOR
 What do partnering and construction management emphasize for the design-build process?,OOD
 What is the overallwidth of the window in the room of office manager?,ATT-WINDOW
 Tell me the width of the door 356076.,ATT-DOOR
-"In 0314, how many doors of single flush are in there?",QTY-DOOR
+"In 0314, how many doors of single flush are there?",QTY-DOOR
 Does the room of associate director include louver 43?,QTY-WINDOW
 What are the quantities of single doors located in classroom 0112?,QTY-DOOR
-"In the room of classroom 0230, how many single flush doors in there?",QTY-DOOR
-How many single flush doors are in classroom 0110?,QTY-DOOR
+"In the room of classroom 0230, how many single flush doors are there?",QTY-DOOR
+How many single flush doors are there in classroom 0110?,QTY-DOOR
 What is the long name of room c199d?,ATT-ROOM
 Is there a door of single flush c on top of parapet?,QTY-DOOR
-How many doors of double flush are in medium classroom 0215?,QTY-DOOR
+How many doors of double flush are there in medium classroom 0215?,QTY-DOOR
 Does the level top of steel have a window of casement?,QTY-WINDOW
 What is the elevation of the eighth floor?,ATT-STOREY
 Is there any ladies' room on level B.O. Footing?,QTY-ROOM
-How many doors are in room 102?,QTY-DOOR
+How many doors are there in room 102?,QTY-DOOR
 Is there any louver 4 in the Rinker model?,QTY-WINDOW
 What is the overall width of fixed window?,ATT-WINDOW
 What is the door single flush A's height?,ATT-DOOR
@@ -1361,15 +1361,15 @@ How many doors of single flush h does classroom 0110 contain?,QTY-DOOR
 What's the window's overallwidth in office C104?,ATT-WINDOW
 Is there any casement on mech rm roof?,QTY-WINDOW
 What are the quantities of doors of single flush G on 03 fl 03 top of slab?,QTY-DOOR
-How many louver 12 on 01 fl 01 t.o. slab?,QTY-WINDOW
+How many louver 12 are there on 01 fl 01 t.o. slab?,QTY-WINDOW
 Is there any louver on 00 mech rm t.o. slab?,QTY-WINDOW
 What's overall width of door 387461?,ATT-DOOR
 "In faculty office 0331, there are how many fixed windows?",QTY-WINDOW
 Is there a storage room on 00 MECH RM T.O. SLAB?,QTY-ROOM
 Does the building contain a door of single flush b?,QTY-DOOR
-How many doors of single flush C in the Rinker building?,QTY-DOOR
+How many doors of single flush C are there in the Rinker building?,QTY-DOOR
 Does the level 02 fl 02 t.o. slab have a window of casement?,QTY-WINDOW
-How many doors of single flush A on fl 03 t.o. structure?,QTY-DOOR
+How many doors of single flush A are there on fl 03 t.o. structure?,QTY-DOOR
 What's window 391122's objecttype?,ATT-WINDOW
 What is the height of floor MECH RM ROOF?,ATT-STOREY
 What are the quantities of louver 77 in the Rinker model?,QTY-WINDOW
@@ -1380,35 +1380,35 @@ Tell me the numbers of women's rooms in Rinker.,QTY-ROOM
 How many feet elevated of level 0 top of slab?,ATT-STOREY
 How many feet elevated of story 1 top of slab?,ATT-STOREY
 What is the door's width in the office 203?,ATT-DOOR
-How many women's rooms are at 00 MECH RM T. O. SLAB?,QTY-ROOM
+How many women's rooms are there at 00 MECH RM T. O. SLAB?,QTY-ROOM
 What's the window's object type in 0334 room?,ATT-WINDOW
-How many medium classrooms are on level T.O. PARAPET?,QTY-ROOM
+How many medium classrooms are there on level T.O. PARAPET?,QTY-ROOM
 What is the height of single flush G?,ATT-DOOR
 Does the apartment 204 have a door?,QTY-DOOR
 What is the elevation of level 3 top of structure?,ATT-STOREY
 "In room 0225, there are how many windows?",QTY-WINDOW
 Tell me the window's width in the large classroom.,ATT-WINDOW
-"In interview 0142 room, how many doors in there?",QTY-DOOR
-How many doors are in room of 303?,QTY-DOOR
+"In interview 0142 room, how many doors are there?",QTY-DOOR
+How many doors are there in room of 303?,QTY-DOOR
 Is there a classroom on floor T.O. Footing Elev?,QTY-ROOM
 Does the floor 02 fl 02 t.o. slab contain a door of single flush D?,QTY-DOOR
 What's window 596044's objecttype?,ATT-WINDOW
-How many medium classrooms are on level T.O. Footing Elevation?,QTY-ROOM
+How many medium classrooms are there on level T.O. Footing Elevation?,QTY-ROOM
 "In 0323, there are how many double doors?",QTY-DOOR
-How many men restrooms are on floor B.O. Footing?,QTY-ROOM
+How many men restrooms are there on floor B.O. Footing?,QTY-ROOM
 What is the overallwidth of casement window?,ATT-WINDOW
 What are the numbers of classrooms on MECH RM ROOF?,QTY-ROOM
-How many double doors are on 03 fl 03 t.o. slab?,QTY-DOOR
+How many double doors are there on 03 fl 03 t.o. slab?,QTY-DOOR
 What's window 391822's width?,ATT-WINDOW
-How many windows of louver 78 are in medium classroom 0106?,QTY-WINDOW
+How many windows of louver 78 are there in medium classroom 0106?,QTY-WINDOW
 Can you tell me the door's objecttype which located in room 12?,ATT-DOOR
 Who host the model? ,HEAD
-How many louver 8 on t.o. footing elev?,QTY-WINDOW
+How many louver 8 are there on t.o. footing elev?,QTY-WINDOW
 Does the classroom 0210 have a window of louver 25?,QTY-WINDOW
 What's the objectype of the door in office a105?,ATT-DOOR
 Is there a men's room on T.O. Footing Elevation?,QTY-ROOM
 Is there a large classroom in FL 02 t.o. Structure?,QTY-ROOM
-How many grad studios are on T.O. PARAPET?,QTY-ROOM
+How many grad studios are there on T.O. PARAPET?,QTY-ROOM
 What are the quantities of louver 28 on b.o. footing?,QTY-WINDOW
 When is this model created?,HEAD
 What's the overall width of window with a tag of 182262?,ATT-WINDOW
@@ -1418,7 +1418,7 @@ What are the quantities of casements in the building?,QTY-WINDOW
 What is the overall width of window of casement?,ATT-WINDOW
 Is there any casement on b.o. footing?,QTY-WINDOW
 Is there a faculty office on T.O. Footing Elev?,QTY-ROOM
-How many windows on 03 FL 03 T.O. SLAB?,QTY-WINDOW
+How many windows are there on 03 FL 03 T.O. SLAB?,QTY-WINDOW
 What is the elevation of the fourth floor?,ATT-STOREY
 Tell me the door's object type in apartment 101.,ATT-DOOR
 What is the T.O. Footing Elev's elevation?,ATT-STOREY
@@ -1433,11 +1433,11 @@ Tell me the door's height in apartment 110.,ATT-DOOR
 What is the overall width of window louver 7?,ATT-WINDOW
 What is the width of the door in room 0311?,ATT-DOOR
 "In room 0225, there are how many casements?",QTY-WINDOW
-How many doors on the level FL 02 t.o. Structure?,QTY-DOOR
+How many doors are there on the level FL 02 t.o. Structure?,QTY-DOOR
 What are the numbers of double flush doors in Room 0215?,QTY-DOOR
 What is the door of double glass D's overallheight?,ATT-DOOR
 Does the level t.o. footing elev contain a double flush door?,QTY-DOOR
-How many windows are in medium classroom 0106?,QTY-WINDOW
+How many windows are there in medium classroom 0106?,QTY-WINDOW
 Is there a storage room in the building?,QTY-ROOM
 What's the overallheight of the door in room of office 101?,ATT-DOOR
 What is the height of window of fixed rinker?,ATT-WINDOW
@@ -1450,24 +1450,24 @@ What is the elevation of the 8th floor?,ATT-STOREY
 Is there a window in room 7?,QTY-WINDOW
 Is there any louver 47 on b.o. footing?,QTY-WINDOW
 What are the quantities of double doors included in Room 0215?,QTY-DOOR
-"In the office 0315, how many doors of single flush D are in there?",QTY-DOOR
-How many doors are in room 304?,QTY-DOOR
+"In the office 0315, how many doors of single flush D are there?",QTY-DOOR
+How many doors are there in room 304?,QTY-DOOR
 How many windows does classroom 0110 have?,QTY-WINDOW
 Tell me the door's width in women's room.,ATT-DOOR
 Is there a louver 33 on fl 02 top of structure?,QTY-WINDOW
 Tell me the door's object type in apartment 104.,ATT-DOOR
-How many doors of single flush a on 02 fl 02 t.o. slab?,QTY-DOOR
+How many doors of single flush a are there on 02 fl 02 t.o. slab?,QTY-DOOR
 How many feet elevated of story 2 top of slab?,ATT-STOREY
-How many women's rooms are at FL 03 t.o. Structure?,QTY-ROOM
-How many janitor rooms are in the building?,QTY-ROOM
+How many women's rooms are there at FL 03 t.o. Structure?,QTY-ROOM
+How many janitor rooms are there in the building?,QTY-ROOM
 Does top of steel have a louver?,QTY-WINDOW
 How many windows does Room 0215 have?,QTY-WINDOW
 What is the door's width in room of 0315?,ATT-DOOR
-How many doors of single flush c are on top of steel?,QTY-DOOR
+How many doors of single flush c are there on top of steel?,QTY-DOOR
 Does top of steel have a casement?,QTY-WINDOW
 Is there a door of single flush H on top of parapet?,QTY-DOOR
 What's the height of window with a tag of 387652?,ATT-WINDOW
-How many storage rooms are on the level FL 03 t.o. Structure?,QTY-ROOM
+How many storage rooms are there on the level FL 03 t.o. Structure?,QTY-ROOM
 How high is the window of fixed Rinker?,ATT-WINDOW
 Does the level top of parapet have a window of casement?,QTY-WINDOW
 What's the window's overall width in office O104C?,ATT-WINDOW
@@ -1476,12 +1476,12 @@ How elevated of the storey of MECH RM ROOF?,ATT-STOREY
 What is the average construction salary in the UK?,OOD
 What is door 380772's objecttype?,ATT-DOOR
 Is there any ladies' room on level T.O. Footing Elev?,QTY-ROOM
-How many interview rooms are in Rinker?,QTY-ROOM
+How many interview rooms are there in Rinker?,QTY-ROOM
 What are the numbers of single flush a located in classroom 0215?,QTY-DOOR
 What does the forman act as besides paymaster?,OOD
 What's the object type of door of 559668?,ATT-DOOR
 Does the apartment 201 contain a window?,QTY-WINDOW
-How many classrooms are on floor MECH RM ROOF?,QTY-ROOM
+How many classrooms are there on floor MECH RM ROOF?,QTY-ROOM
 What are the quantities of ladies' room at level 00 MECH RM T.O. SLAB?,QTY-ROOM
 "In the room of medium classroom 0230, there are how many single flush doors?",QTY-DOOR
 What's the door's height in room of 0327?,ATT-DOOR
@@ -1491,11 +1491,11 @@ What is the process of adding structure to real property or construction of buil
 Is there any casement in the building information model?,QTY-WINDOW
 Width of door 300135,ATT-DOOR
 What's the 5th building story's elevation?,ATT-STOREY
-How many windows are on T.O. STEEL?,QTY-WINDOW
+How many windows are there on T.O. STEEL?,QTY-WINDOW
 How elevated of floor 03 FL 03 T.O. SLAB?,ATT-STOREY
 Tell me louvers' numbers.,QTY-WINDOW
 Does 00 mech rm t.o. slab contain a door of single flush g?,QTY-DOOR
-How many large classrooms are in the Rinker building?,QTY-ROOM
+How many large classrooms are there in the Rinker building?,QTY-ROOM
 What are the quantities of louver 3 in the Room 0210?,QTY-WINDOW
 Is there a men's room at FL 02 t.o. Structure?,QTY-ROOM
 What are the quantities of storage on 03 fl 03 t.o. slab?,QTY-ROOM
@@ -1503,7 +1503,7 @@ Is there any door of single flush a on t.o. parapet?,QTY-DOOR
 What is single flush e's width?,ATT-DOOR
 What's building story 2 top of slab's elevation?,ATT-STOREY
 Tell me the objecttype of the window with a tag of 175197.,ATT-WINDOW
-"In medium classroom 0220, how many doors of single flush g in there?",QTY-DOOR
+"In medium classroom 0220, how many doors of single flush g are there?",QTY-DOOR
 What's the height of the door with a tag of 389449?,ATT-DOOR
 What is the longname of room s398a?,ATT-ROOM
 What is the elevation of level 0?,ATT-STOREY
@@ -1515,7 +1515,7 @@ How many meters wide is window 636016?,ATT-WINDOW
 What are the quantities of fixed rinker windows on 01 fl 01 t.o. slab?,QTY-WINDOW
 What is the elevation of the 2nd floor?,ATT-STOREY
 Is there a fixed Rinker window on T.O. Footing Elevation?,QTY-WINDOW
-How many doors of single flush e on 02 fl 02 t.o. slab?,QTY-DOOR
+How many doors of single flush e are there on 02 fl 02 t.o. slab?,QTY-DOOR
 What are the quantities of louvers on mech rm roof?,QTY-WINDOW
 What is the type of door 300135?,ATT-DOOR
 Is there a medium classroom on level FL 02 t.o. Structure?,QTY-ROOM
@@ -1531,24 +1531,24 @@ What are the quantities of women's restrooms on floor B.O. Footing?,QTY-ROOM
 What are the quantities of medium classrooms in 01 FL 01 T.O. SLAB?,QTY-ROOM
 What is window 175451's object type?,ATT-WINDOW
 How wide is single flush d?,ATT-DOOR
-How many doors of single flush on 02 fl 02 t.o. slab?,QTY-DOOR
+How many doors of single flush are there on 02 fl 02 t.o. slab?,QTY-DOOR
 What's the height of the window of 182262?,ATT-WINDOW
 Does 02 fl 02 t.o. slab have a casement?,QTY-WINDOW
 How many feet high is window 572075?,ATT-WINDOW
 What is the object type of the window in room 0215?,ATT-WINDOW
-How many storage rooms are on the level T.O. STEEL?,QTY-ROOM
-How many medium classrooms are at level FL 02 t.o. Structure?,QTY-ROOM
-How many louver 99 on 01 fl 01 t.o. slab?,QTY-WINDOW
+How many storage rooms are there on the level T.O. STEEL?,QTY-ROOM
+How many medium classrooms are there at level FL 02 t.o. Structure?,QTY-ROOM
+How many louver 99 are there on 01 fl 01 t.o. slab?,QTY-WINDOW
 Tell me doors' quantities in the associate director's room.,QTY-DOOR
 What is the overall width of rinker double D?,ATT-DOOR
 Does the apartment 204 have a window?,QTY-WINDOW
-"In the room 0110, how many single flush C doors are in there?",QTY-DOOR
+"In the room 0110, how many single flush C doors are there?",QTY-DOOR
 Is there a medium classroom on level 00 MECH RM T.O. SLAB?,QTY-ROOM
 What are the numbers of faculty offices in the building information model?,QTY-ROOM
 How wide is the door of single J?,ATT-DOOR
-"In the room of large classroom 0112, how many doors of single flush A in there?",QTY-DOOR
+"In the room of large classroom 0112, how many doors of single flush A are there?",QTY-DOOR
 What is the width of casement?,ATT-WINDOW
-How many women restrooms are on T.O. Footing Elevation?,QTY-ROOM
+How many women restrooms are there on T.O. Footing Elevation?,QTY-ROOM
 What is the window louver 23's overall height?,ATT-WINDOW
 Does the apartment 105 have a door?,QTY-DOOR
 Is there a grad studio in 01 fl 01 t.o. slab?,QTY-ROOM
@@ -1557,15 +1557,15 @@ Is there a window in room 6?,QTY-WINDOW
 What's level 01's elevation?,ATT-STOREY
 What are the numbers of stories of Rinker?,QTY-STOREY
 What are the quantities of double flush doors on FL 03 t.o. Structure?,QTY-DOOR
-"In the room 0220, how many doors of single flush a in there?",QTY-DOOR
+"In the room 0220, how many doors of single flush a are there?",QTY-DOOR
 What are the quantities of doors in the model?,QTY-DOOR
-How many doors of double flush in Room 0215?,QTY-DOOR
+How many doors of double flush are there in Room 0215?,QTY-DOOR
 Is there any casement on 00 mech rm t.o. slab?,QTY-WINDOW
 What are the numbers of louver 80 on 00 mech rm t.o. slab?,QTY-WINDOW
 Tell me double doors' quantities in large classroom 0112.,QTY-DOOR
 What is the 7th building storey's elevation?,ATT-STOREY
 What's window 392181's overall width?,ATT-WINDOW
-How many doors of single flush A are in Room 0215?,QTY-DOOR
+How many doors of single flush A are there in Room 0215?,QTY-DOOR
 "In classroom 0112, there are how many casements?",QTY-WINDOW
 Tell me the door's overall width in the room for shop.,ATT-DOOR
 "In the room of classroom 0110, there are how many doors?",QTY-DOOR
@@ -1581,7 +1581,7 @@ What is the height of single flush a?,ATT-DOOR
 Does the room 0230 contain a door of single flush h?,QTY-DOOR
 Is there a fixed rinker window on mech rm roof?,QTY-WINDOW
 What are the quantities of men's rooms are in rinker?,QTY-ROOM
-How many men restrooms are in level FL 02 t.o. Structure?,QTY-ROOM
+How many men restrooms are there in level FL 02 t.o. Structure?,QTY-ROOM
 What is the 10th story's elevation?,ATT-STOREY
 What is the height of 01 FL 01 T.O. SLAB?,ATT-STOREY
 Is there a window in office 0331?,QTY-WINDOW
@@ -1605,10 +1605,10 @@ How many windows does room 0220 have?,QTY-WINDOW
 Does the classroom 0210 contain a door of single flush D?,QTY-DOOR
 How many doors of single flush h does Room 0218 contain?,QTY-DOOR
 What's the width of the window with a tag of 182225?,ATT-WINDOW
-How many faculty offices are on 02 FL 02 T.O. SLAB?,QTY-ROOM
-"In 0315, how many doors of single flush D are in there?",QTY-DOOR
+How many faculty offices are there on 02 FL 02 T.O. SLAB?,QTY-ROOM
+"In 0315, how many doors of single flush D are there?",QTY-DOOR
 What is the elevation of FL 02 t.o. Structure?,ATT-STOREY
-How many conference rooms are in the rinker building?,QTY-ROOM
+How many conference rooms are there in the rinker building?,QTY-ROOM
 Does the apartment 203 contain a window?,QTY-WINDOW
 What are the numbers of doors on floor FL 02 t.o. Structure?,QTY-DOOR
 How many feet elevated of story top of parapet?,ATT-STOREY
@@ -1632,22 +1632,22 @@ Does the room 0210 have a window of louver 25?,QTY-WINDOW
 What is the long name of room C199D?,ATT-ROOM
 "In 0110, there are how many doors?",QTY-DOOR
 Does the medium classroom 0210 contain a door of single flush D?,QTY-DOOR
-How many windows are in room of 103?,QTY-WINDOW
+How many windows are there in room of 103?,QTY-WINDOW
 What's the area unit's name?,ATT-UNIT
-"In interview 0143 room, how many windows of louver 37 in there?",QTY-WINDOW
+"In interview 0143 room, how many windows of louver 37 are there?",QTY-WINDOW
 What's the overallheight of door 560235?,ATT-DOOR
-How many louver 26 on fl 02 top of structure?,QTY-WINDOW
+How many louver 26 are there on fl 02 top of structure?,QTY-WINDOW
 Is there any casement on 01 fl 01 t.o. slab?,QTY-WINDOW
 Is there any faculty room on FL 02 t.o. Structure?,QTY-ROOM
-How many windows are in room 104?,QTY-WINDOW
+How many windows are there in room 104?,QTY-WINDOW
 What is the overallheight of Rinker double d?,ATT-DOOR
 What is the elevation of building storey top of steel?,ATT-STOREY
 Does the apartment 102 contain a window?,QTY-WINDOW
-How many casements on fl 02 t.o. structure?,QTY-WINDOW
+How many casements are there on fl 02 t.o. structure?,QTY-WINDOW
 What is the door single flush K's width?,ATT-DOOR
 What is the long name of room 0030?,ATT-ROOM
-How many louver 2 on fl 02 top of structure?,QTY-WINDOW
+How many louver 2 are there on fl 02 top of structure?,QTY-WINDOW
 What are the quantities of women's restrooms are on floor 02 FL 02 T.O. SLAB?,QTY-ROOM
-How many men's rooms are in the building?,QTY-ROOM
+How many men's rooms are there in the building?,QTY-ROOM
 Tell me doors' quantities in the room of associate director.,QTY-DOOR
 Is there any casement on fl 02 top of structure?,QTY-WINDOW
