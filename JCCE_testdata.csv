@@ -52,9 +52,9 @@
 50,VDC.ifc,Tell me the type of stair 425971.,The type of the stair 425971 is Assembled Stair:C2010100_Assembled Stair.,"The type of the stair 425971 is assembled stair:7"" max riser 11"" tread."
 51,VDC.ifc,What is the type of slab 372343?,"The type of the slab 372343 is Floor:A1030100_SOG_8"" CIP.","The type of the slab 372343 is floor:a1030100_sog_8"" cip."
 52,VDC.ifc,The predefinedtype of slab 374952?,The predefinedtype of the slab 374952 is .FLOOR..,The predefinedtype of the slab 374952 is .floor..
-53,VDC 2.ifc,What is the longname of space 108?,The longname of the space 108 is Elec Room.,The longname of the space 108 is elec room.
-54,VDC 2.ifc,Tell me the longname of space 105?,The longname of the space 105 is Office.,The longname of the space 105 is office.
-55,VDC 2.ifc,The description of space 208.,The description of the space 208 is none.,The description of the space 208 is none.
+53,VDC.ifc,What is the longname of space 108?,The longname of the space 108 is Elec Room.,The longname of the space 108 is elec room.
+54,VDC.ifc,Tell me the longname of space 105?,The longname of the space 105 is Office.,The longname of the space 105 is office.
+55,VDC.ifc,The description of space 208.,The description of the space 208 is none.,The description of the space 208 is none.
 56,VDC structure.ifc,What is the type of the beam 579613?,The type of the beam 579613 is W-Wide Flange:B1010330_Beam_W12X26.,The type of the beam 579613 is concrete-rectangular beam:b1010310_beam_b1_1 x 2.
 57,VDC structure.ifc,Tell me the description of beam 579637.,The description of the beam 579637 is none.,The description of the beam 579637 is none.
 58,VDC structure.ifc,Type of the colmn 575150.,The type of the column 575150 is B1010250_Column_W10X30.,The type of the colmn 575150 is concrete-rectangular beam:b1010310_beam_b1_1 x 2.
@@ -86,9 +86,9 @@
 84,Rinker arch.ifc,Objecttype of the basic roof,The Objecttype of the basic roof is Basic Roof:Insulation on Metal Deck - EPDM 2-RINKER.,The objecttype of the basic roof is basic roof:insulation on metal deck - epdm 2-rinker.
 85,Rinker arch.ifc,What is the type of roof 271098?,The type of the roof 271098 is Basic Roof:Insulation on Metal Deck - EPDM 2-RINKER.,The type of the roof 271098 is basic roof:insulation on metal deck - epdm 2-rinker.
 86,Rinker arch.ifc,What is the type of wall 276630?,The type of the wall 276630 is Basic Wall:Exterior -  Metal Panel RED- Rinker.,The type of the wall 276630 is basic wall:interior - w006-wall-rinker.
-87,Rinker arch 2.ifc,What is the longname of space 0110?,The longname of the space 0110 is LARGE CLASSROOM.,The longname of the space 0110 is large classroom.
-88,Rinker arch 2.ifc,What is the longname of space 0235A?,The longname of the space 0235A is ELEC. CL..,The longname of the space 0235a is elec. cl..
-89,Rinker arch 2.ifc,Longname of space 0305.,The longname of the space 0305 is MAIN OFFICE.,The longname of the space 0305 is main office.
+87,Rinker arch.ifc,What is the longname of space 0110?,The longname of the space 0110 is LARGE CLASSROOM.,The longname of the space 0110 is large classroom.
+88,Rinker arch.ifc,What is the longname of space 0235A?,The longname of the space 0235A is ELEC. CL..,The longname of the space 0235a is elec. cl..
+89,Rinker arch.ifc,Longname of space 0305.,The longname of the space 0305 is MAIN OFFICE.,The longname of the space 0305 is main office.
 90,Rinker structure.ifc,What is the type of beam 153910?,The type of the beam 153910 is W-Wide Flange:W18X40-RINKER.,The type of the beam 153910 is w-wide flange:w18x40-rinker.
 91,Rinker structure.ifc,What is the type of column 141859?,"The type of the column 141859 is Concrete-Square-Column:24""x24"".",The type of the column 141859 is w-wide flange-column:w12x45-rinker.
 92,Rinker structure.ifc,Tell meThe type of column 151169.,The type of the column 151169 is W-Wide Flange-Column:W12X79-Rinker.,The type of the column methe is w-wide flange-column:w12x45-rinker.
@@ -119,9 +119,9 @@
 117,Airport.ifc,What is the predefinedtype of slab 2927010?,The predefinedtype of the slab 2927010 is .LANDING..,The predefinedtype of the slab 2927010 is .straight_run_stair..
 118,Airport.ifc,What is the type of wall 1497447?,The type of the wall 1497447 is Basic Wall:09_EXT - EWS-03b - 8in CMU w/ stucco.,The type of the wall 1497447 is basic wall:09_int_m_l3_1hr.
 119,Airport.ifc,Tell me the description of wall 1497447.,The description of the wall 1497447 is none.,The description of the wall 1497447 is none.
-120,Airport 2.ifc,The longname of space 1048.,The longname of the space 1048 is CONDENSER WATER TREATMENT.,The longname of the space 1048 is condenser water treatment.
-121,Airport 2.ifc,What is the longname of space 1039?,The longname of the space 1039 is WATER CLOSET.,The longname of the space 1039 is water       closet.
-122,Airport 2.ifc,Tell me the description of space 1051.,The description of the space 1051 is none.,The description of the space 1051 is none.
+120,Airport.ifc,The longname of space 1048.,The longname of the space 1048 is CONDENSER WATER TREATMENT.,The longname of the space 1048 is condenser water treatment.
+121,Airport.ifc,What is the longname of space 1039?,The longname of the space 1039 is WATER CLOSET.,The longname of the space 1039 is water       closet.
+122,Airport.ifc,Tell me the description of space 1051.,The description of the space 1051 is none.,The description of the space 1051 is none.
 123,Airport structure.ifc,What is the type of beam 574761?,The type of the beam 574761 is W-Wide Flange:W14X34.,The type of the beam 574761 is w-wide flange:w14x34.
 124,Airport structure.ifc,Tell me the description of beam 574761.,The description of the beam 574761 is none.,The description of the beam 574761 is none.
 125,Airport structure.ifc,What is the type of column 735560?,The type of the column 735560 is W-Wide Flange-Column:W12X58.,The type of the column 735560 is hss-hollow structural section-column:hss4x4x5/16.
