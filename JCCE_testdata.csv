@@ -57,7 +57,7 @@
 55,VDC.ifc,The description of space 208.,The description of the space 208 is none.,The description of the space 208 is none.
 56,VDC structure.ifc,What is the type of the beam 579613?,The type of the beam 579613 is W-Wide Flange:B1010330_Beam_W12X26.,The type of the beam 579613 is concrete-rectangular beam:b1010310_beam_b1_1 x 2.
 57,VDC structure.ifc,Tell me the description of beam 579637.,The description of the beam 579637 is none.,The description of the beam 579637 is none.
-58,VDC structure.ifc,Type of the colmn 575150.,The type of the column 575150 is B1010250_Column_W10X30.,The type of the colmn 575150 is concrete-rectangular beam:b1010310_beam_b1_1 x 2.
+58,VDC structure.ifc,Type of the column 575150.,The type of the column 575150 is B1010250_Column_W10X30.,The type of the column 575150 is b1010250_column_w10x30.
 59,VDC structure.ifc,What is the description of column 575150?,The description of the column 575150 is bp{3794b229-909f-43d0-87e0-d379ccda9428}.,The description of the column 575150 is bp{3794b229-909f-43d0-87e0-d379ccda9428}.
 60,Rinker arch.ifc,What is model's creation date?,The model creation date is Mon Oct 12 15:13:18 2020.,The model creation date is mon oct 12 15:13:18 2020.
 61,Rinker arch.ifc,Can you tell me the schema?,The schema is IFC4.,The schema is ifc4.
@@ -66,7 +66,7 @@
 64,Rinker arch.ifc,model's date.,The model date is Mon Oct 12 15:13:18 2020.,The model date is mon oct 12 15:13:18 2020.
 65,Rinker arch.ifc,What is the height of level 2?,The height of the level 2 is 155.0 feet.,The height of the level 2 is 155.0 feet.
 66,Rinker arch.ifc,What is the elevation of level 2?,The elevation of the level 2 is 155.0 feet.,The elevation of the level 2 is 155.0 feet.
-67,Rinker arch.ifc,Tell me  the height of floor 1.,The height of the floor 1 is 147.0 feet.,The height of the floor 1 is 155.0 feet.
+67,Rinker arch.ifc,Tell me the height of floor 1.,The height of the floor 1 is 147.0 feet.,The height of the floor 1 is 155.0 feet.
 68,Rinker arch.ifc,Tell me the elevation of floor 1.,The elevation of the floor 1 is 147.0 feet.,The elevation of the floor 1 is 155.0 feet.
 69,Rinker arch.ifc,What is the type of window 587151?,The type of the window 587151 is Louver2:Louver.,The type of the window 587151 is louver2:louver.
 70,Rinker arch.ifc,What is the height of window 587151?,The height of the window 587151 is 3.27013421317488 feet.,The height of the window 587151 is 3.27013421317488 feet.
@@ -91,7 +91,7 @@
 89,Rinker arch.ifc,Longname of space 0305.,The longname of the space 0305 is MAIN OFFICE.,The longname of the space 0305 is main office.
 90,Rinker structure.ifc,What is the type of beam 153910?,The type of the beam 153910 is W-Wide Flange:W18X40-RINKER.,The type of the beam 153910 is w-wide flange:w18x40-rinker.
 91,Rinker structure.ifc,What is the type of column 141859?,"The type of the column 141859 is Concrete-Square-Column:24""x24"".",The type of the column 141859 is w-wide flange-column:w12x45-rinker.
-92,Rinker structure.ifc,Tell meThe type of column 151169.,The type of the column 151169 is W-Wide Flange-Column:W12X79-Rinker.,The type of the column methe is w-wide flange-column:w12x45-rinker.
+92,Rinker structure.ifc,Tell me the type of column 151169.,The type of the column 151169 is W-Wide Flange-Column:W12X79-Rinker.,The type of the column 151169 is w-wide flange-column:w12x45-rinker.
 93,Airport.ifc,What is model's creation date?,The model creation date is Wed Jul 08 15:29:35 2020.,The model creation date is wed jul 08 15:29:35 2020.
 94,Airport.ifc, Can you tell me the schema?,The schema is IFC4.,The schema is ifc4.
 95,Airport.ifc,What is model's schema?,The model schema is IFC4.,The model schema is ifc4.
