@@ -1,0 +1,44 @@
+,model,condition,query,truth,pre
+0,Rinker arch.ifc,1,Tell me the number of doors in the model.,109,109
+1,Rinker arch.ifc,1,What are the quantities of double flush doors in rinker?,5,5
+2,Rinker arch.ifc,1,What are the quantities of doors of double flush in the building information model?,5,5
+3,Rinker arch.ifc,1,How many single flush doors are there in the model?,12,12
+4,Rinker arch.ifc,1,Calculate double flush doors' quantities.,5,5
+5,Rinker arch.ifc,1,How many windows are in the model?,198,198
+6,Rinker arch.ifc,1,What are the quantities of fixed Rinker windows in the model?,20,20
+7,Rinker arch.ifc,1,What are the quantities of louvers in the building?,86,1
+8,Rinker arch.ifc,1,What are the quantities of casements in the building?,2,2
+9,Rinker arch.ifc,1,How many windows of louver 17 are in the model?,1,1
+10,Rinker arch.ifc,2,How many windows of louver 12 are there on the second floor?,1,1
+11,Rinker arch.ifc,2,How many casements are there on level 3?,0,1
+12,Rinker arch.ifc,2,How many fixed windows are there on level 3?,20,20
+13,Rinker arch.ifc,2,How many louvers are there on the third floor?,1,1
+14,Rinker arch.ifc,2,What are the numbers of casements on level 1?,0,1
+15,Rinker arch.ifc,2,How many doors of single flush E are there on level 2?,6,6
+16,Rinker arch.ifc,2,What are the quantities of double flush doors on the third floor?,2,2
+17,Rinker arch.ifc,2,Tell me the numbers of double flush doors on level 1.,2,2
+18,Rinker arch.ifc,2,How many doors of single flush E on the second floor?,6,6
+19,Rinker arch.ifc,2,How many doule flush doors are there on level 1?,2,2
+20,Rinker arch.ifc,3,How many fixed windows are there in conference room 0312?,4,4
+21,Rinker arch.ifc,3,How many windows are there in medium classroom 0106?,0,0
+22,Rinker arch.ifc,3,How many windows does room 0220 have?,0,0
+23,Rinker arch.ifc,3,How many windows are there in medium classroom 0220?,0,0
+24,Rinker arch.ifc,3,Calculate the numbers of windows in faculty office 0327.,0,0
+25,Rinker arch.ifc,3,How many doors in the large classroom 0110?,2,2
+26,Rinker arch.ifc,3,What are the quantities of double doors located in classroom 0111?,1,1
+27,Rinker arch.ifc,3,How many double flush doors are there in medium classroom 0215?,1,1
+28,Rinker arch.ifc,3,How many double doors are there in classroom 0215?,1,1
+29,Rinker arch.ifc,3,"In faculty office 0311, how many doors are there?",1,1
+30,Rinker arch.ifc,4,How many classrooms are there in the model?,7,7
+31,Rinker arch.ifc,4,Tell me the quantities of medium classrooms in the model.,6,6
+32,Rinker arch.ifc,4,How many computer labs are in the Rinker building?,1,1
+33,Rinker arch.ifc,4,How many ladies' rooms are in the model?,3,3
+34,Rinker arch.ifc,4,Count the quantities of men's rooms in the building.,3,3
+35,Rinker arch.ifc,5,How many office rooms are there on the third floor?,17,17
+36,Rinker arch.ifc,5,What are the quantities of classrooms on the second floor?,5,5
+37,Rinker arch.ifc,5,How many faculty offices are there on level 3?,14,14
+38,Rinker arch.ifc,5,Tell me the numbers of classrooms on level 2.,5,5
+39,Rinker arch.ifc,5,How many men's rooms are there on level 1?,1,1
+40,Rinker arch.ifc,6,How many building stories are there in the model?,12,12
+41,Rinker arch.ifc,6,What are the numbers of stories of Rinker?,12,12
+42,Rinker arch.ifc,6,What are the quantities of building storeys in the Rinker model?,12,12
